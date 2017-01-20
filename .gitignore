@@ -22,3 +22,6 @@ _assets/scss/.sass-lint.yml
 # Sublime
 *.sublime-project
 *.sublime-workspace
+
+# sass linter config
+.sass-lint.yml
