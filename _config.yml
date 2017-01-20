@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OzLockCon
-year: 2016
+year: 2017
 email: klepas@klepas.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Australia's First Conference Dedicated To Locksport
+tags: Lockpicking, Locksport, Physical Security, Research
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -44,8 +43,14 @@ exclude:
   - .ruby-version
 
 assets:
+  prefix: "/assets"
+  assets:
+    - "*.png"
+    - "*.gif"
+    - "*.svg"
   sources:
     - _assets/stylesheets
+    - _assets/images
   compress:
     # change me before prod
     css: false
@@ -56,4 +61,4 @@ assets:
 highlighter: rouge
 
 sass:
-  sass_dir: "_assets/stylesheets/"
+  sass_dir: "assets/stylesheets/"
