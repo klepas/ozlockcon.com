@@ -1,13 +1,23 @@
 @import "neat-helpers"; // this is calling data from the gem
 
-$column: 62px;
-$gutter: 20px;
-$fg-gutter: $gutter;
-$grid-columns: 12 !default;
-$max-width: 1200px;
-$visual-grid: false;
-$large-desktop: (max-width 1600px);
-$desktop: (min-width 1000px);
-$tablet: (min-width 769px);
-$mobile-landscape: (max-width 768px);
-$mobile: (max-width 420px);
+// (16 * 48) + (15 * 24)
+$column: 3em; // 48, presuming base of 16px
+$gutter: 1.5em; // 24, presuming base of 16px
+
+$mobile-minwidth: 420px;
+$tablet-minwidth: 768px;
+$desktop-minwidth: 1128px;
+
+$mobile-grid-columns: 8;
+$tablet-grid-columns: 12;
+$content-grid-columns: $tablet-grid-columns;
+$desktop-grid-columns: 16;
+
+$mobile: new-breakpoint(max-width $mobile-minwidth, $mobile-grid-columns);
+$mobile-only: new-breakpoint(max-width $tablet-minwidth - 1, $mobile-grid-columns);
+$tablet: new-breakpoint(min-width $tablet-minwidth, $tablet-grid-columns);
+$tablet-only: new-breakpoint(min-width $tablet-minwidth max-width $desktop-minwidth - 1, $tablet-grid-columns);
+$desktop: new-breakpoint(min-width $max-width, $desktop-grid-columns);
+
+// ?
+$border-box-sizing: true;
