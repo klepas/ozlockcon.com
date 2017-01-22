@@ -1,4 +1,26 @@
 <header role="banner">
-  <h1>{{ site.title }} {{ site.year }}</h1>
-  {{ site.description | markdownify }}
+  <div class="page-title">
+    <h1>{{ site.title }} {{ site.year }}</h1>
+    {{ site.description | markdownify }}
+  </div>
+
+  <nav class="header--bar">
+    <div class="header--logo">
+      <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_square.png" alt="Logo image">
+    </div>
+    <ul class="nav--primary">
+      {% unless page.url == '/' %}
+      <li><a href="/">Home</a></li>
+      {% endunless %}
+
+      <li><a href="javascript:void(0)">Call for Papers</a></li>
+      <li><a href="javascript:void(0)">Schedule</a></li>
+    </ul>
+
+    <ul class="nav--secondary">
+      <li><a href="/conduct">Code of Conduct</a></li>
+      <li><a href="/faq"><abbr>FAQ</abbr></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
 </header>
