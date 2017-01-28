@@ -41,4 +41,4 @@ surely it is to the interest of honest persons to know this fact, because the
 dishonest are... certain to apply the knowledge practically… the spread of the
 knowledge is necessary to give fair play to those who might suffer by ignorance.
 
-Source: A.C. Hobbs, Locks and Safes: The Construction of Locks. London, 1853.
+Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.

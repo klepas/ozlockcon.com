@@ -76,8 +76,8 @@ $base-font-family: $base-monospace;
   box-sizing: border-box;
 
   @include media($desktop) {
-    padding-left: $gutter * 1.5;
-    padding-right: $gutter * 1.5;
+    padding-left: $gutter * 2;
+    padding-right: $gutter * 2;
     width: 100%;
     // min-width: ...;
   }
@@ -273,15 +273,8 @@ body {
     padding-top: $line-single;
     border-top: 3px solid #c1c1c1; // clean me up
 
-    @include media(1300px) {
+    @include media($desktop) {
       padding-top: $line-double;
-    }
-
-    & > * {
-      @include media(1300px) {
-        // margin-left: rem(288);
-        margin-left: rem(32);
-      }
     }
 
     h2,
@@ -340,7 +333,7 @@ body {
 
     blockquote {
       margin: $line-half 0;
-      padding: 0 rem(34);
+      padding: 0 rem(36);
       font-family: Georgia, serif;
       quotes: '\201C''\201D''\2018''\2019';
 
