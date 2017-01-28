@@ -24,7 +24,7 @@ $type-size-body:          16;
 //
 $line-single:             ($leading-body * 1em); // 1.6em
 $line-double:             ($line-single * 2);
-$line-three-quarter:      ($line-single * 0.75);
+$line-three-quarter:      ($line-single * .75);
 $line-half:               ($line-single / 2);
 $line-quarter:            ($line-single / 4);
 
@@ -42,7 +42,7 @@ $light-grey:              lighten($grey, 30%);
 $dark-grey:               lighten($grey, 20%);
 
 
-$action-colour: #477DCA !default;
+$action-colour: #477dca !default;
 
 
 // ## Type families
@@ -69,18 +69,18 @@ $base-font-family: $base-monospace;
 }
 
 @mixin wrapper-padding {
-  padding-left: $gutter;
-  padding-right: $gutter;
-
-  width: 100%;
-  box-sizing: border-box;
-
   @include media($desktop) {
     padding-left: $gutter * 2;
     padding-right: $gutter * 2;
     width: 100%;
     // min-width: ...;
   }
+
+  box-sizing: border-box;
+  padding-left: $gutter;
+  padding-right: $gutter;
+
+  width: 100%;
 }
 
 @mixin wrapper {
@@ -90,305 +90,279 @@ $base-font-family: $base-monospace;
 
 
 ////////////////////////////////////////////////////////////////////////////////
+// #  Custom partial imports
+@import 'body';
+// @import 'navigation';
+@import 'headings';
+
+
+////////////////////////////////////////////////////////////////////////////////
 // #  Base styles
 
-* {
-  box-sizing: border-box;
-}
+header[role='banner'] {
+  background-color: $off-black;
+  background-image: url('/assets/images/background.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 3px solid $off-black;
+  color: $white;
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  line-height: $leading-heading;
-  // font-family: $base-font-family;
-}
+  .page-title {
+    $page-title-background: desaturate(darken($action-colour, 27%), 15%);
 
-body {
-  margin: 0;
-  font-size: rem(16);
-  line-height: $leading-body;
-  color: $off-black;
-  background-color: $off-white;
-
-  // font-family: $base-font-family;
-
-  @include media($tablet) {
-    font-size: rem(17);
-  }
-
-  main,
-  footer[role='contentinfo'] {
-    padding-bottom: $line-double;
-  }
-
-  header[role='banner'] {
-    color: $white;
-    background-color: $off-black;
-    background-image: url('/assets/images/background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    border-bottom: 3px solid $off-black;
-
-    .page-title {
-      $page-title-background: desaturate(darken($action-colour, 27%), 15%);
-
-      @include wrapper-padding;
-
-      padding-top: $line-double;
-      padding-bottom: $line-single;
-      background: transparentize($page-title-background, 0.2);
-      text-align: center;
-      text-shadow: 1px 1px 3px desaturate(darken($action-colour, 40%), 15%); // clean me up :)
-
-      h1 {
-        font-size: rem(32);
-        margin-bottom: 1em;
-
-        @include media($tablet) {
-          font-size: rem(48);
-          text-align: left;
-          margin-bottom: 0.5em;
-        }
-      }
-
-      p {
-        font-size: rem(26);
-
-        @include media($tablet) {
-          font-size: rem(28);
-          text-align: left;
-        }
-        max-width: 40em; // doc
-      }
-    }
-
-    nav {
-      $nav-background: desaturate(darken($action-colour, 48%), 30%);
-      $nav-colour: $white;
-      $nav-link-colour: transparentize($nav-colour, 0.3);
-      $footer-disclaimer-color: transparentize($nav-colour, 0.6);
-
-      width: 100%;
-      padding: $line-single;
-      background: transparentize($nav-background, 0.15);
-      text-shadow: 1px 1px 3px $nav-background;
-
-      @include media($tablet) {
-        display: flex;
-        align-items: baseline;
-      }
-
-      .header--logo {
-        margin-right: 0;
-
-        @include media($tablet) {
-          margin-right: $line-single;
-        }
-
-        @include media($desktop) {
-          align-self: center;
-        }
-
-        img {
-          display: block;
-          height: $line-single;
-          margin-bottom: $line-half;
-          margin-left: auto;
-          margin-right: auto;
-
-          @include media($tablet) {
-            margin-bottom: 0;
-            margin-left: 0;
-            margin-right: 0;
-            text-align: left;
-          }
-        }
-      }
-
-      ul {
-        margin: 0 0 $line-half 0;
-        padding: 0;
-        flex-grow: 2;
-
-        @include media($tablet) {
-          margin-bottom: 0;
-        }
-
-        @include media(1300px) {
-          max-width: 730px;
-        }
-
-        li {
-          list-style: none;
-          font-size: rem(19);
-          margin-bottom: 0.25em;
-          text-align: center;
-
-          @include media($tablet) {
-            padding-right: $line-single;
-            text-align: left;
-
-            &:last-child {
-              padding-right: 0;
-            }
-          }
-
-          @include media($desktop) {
-            display: inline;
-            text-align: left;
-          }
-
-          a {
-            color: $nav-link-colour;
-            text-decoration: none;
-
-            &:focus,
-            &:hover {
-              color: transparentize($nav-colour, 0);
-            }
-          }
-        }
-      }
-
-      .nav--secondary {
-        @include media($desktop) {
-          flex-grow: 1;
-          // margin-right: rem(160);
-        }
-
-        li {
-          font-size: rem(16);
-        }
-      }
-    }
-  }
-
-  main {
     @include wrapper-padding;
 
-    padding-top: $line-single;
-    border-top: 3px solid #c1c1c1; // clean me up
+    background: transparentize($page-title-background, .2);
+    padding-bottom: $line-single;
+    padding-top: $line-double;
+    text-align: center;
+    text-shadow: 1px 1px 3px desaturate(darken($action-colour, 40%), 15%); //clean me up :)
 
-    @include media($desktop) {
-      padding-top: $line-double;
-    }
-
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      line-height: $leading-heading;
-      margin-top: $line-half;
-      margin-bottom: $line-quarter;
-    }
-
-    h2 {
-      @include clearfix; // not working?
+    h1 {
+      @include media($tablet) {
+        font-size: rem(48);
+        margin-bottom: .5em;
+        text-align: left;
+      }
 
       font-size: rem(32);
+      margin-bottom: 1em;
+    }
 
-      &:first-child {
-        margin-top: 0;
+    p {
+      @include media($tablet) {
+        font-size: rem(28);
+        text-align: left;
       }
 
-      // @include media($tablet) {
-      //   &:first-of-type {
-      //     margin-top: $leading-body * 1.5em;
-      //   }
-      // }
+      font-size: rem(26);
+      max-width: 40em; //doc
+    }
+  }
+
+  nav {
+    $nav-background: desaturate(darken($action-colour, 48%), 30%);
+    $nav-colour: $white;
+    $nav-link-colour: transparentize($nav-colour, .3);
+    $footer-disclaimer-color: transparentize($nav-colour, .6);
+
+    @include media($tablet) {
+      align-items: baseline;
+      display: flex;
     }
 
-    // @include media($tablet) {
-    //   > *:not(h2) {
-    //     margin-left: rem(288);
-    //   }
-    //
-    //   h2 {
-    //     width: rem(256);
-    //     text-align: right;
-    //
-    //     & + * {
-    //       margin-top: -(rem(54));
-    //     }
-    //   }
-    // }
+    background: transparentize($nav-background, .15);
+    padding: $line-single;
+    text-shadow: 1px 1px 3px $nav-background;
+    width: 100%;
 
-    h3 {
-      margin-top: $line-single;
-    }
+    .header--logo {
+      @include media($tablet) {
+        margin-right: $line-single;
+      }
+      @include media($desktop) {
+        align-self: center;
+      }
 
-    p,
-    dl,
-    ul,
-    ol,
-    blockquote {
-      // we’re gonna keep our line-lengths/measures in check
-      max-width: 46em;
-    }
+      margin-right: 0;
 
-    blockquote {
-      margin: $line-half 0;
-      padding: 0 rem(36);
-      font-family: Georgia, serif;
-      quotes: '\201C''\201D''\2018''\2019';
+      img {
+        @include media($tablet) {
+          margin-bottom: 0;
+          margin-left: 0;
+          margin-right: 0;
+          text-align: left;
+        }
 
-      &::before,
-      &::after {
         display: block;
-        height: 0;
-        font-family: Georgia, serif;
-        font-size: rem(43);
-        color: $action-colour;
+        height: $line-single;
+        margin-bottom: $line-half;
+        margin-left: auto;
+        margin-right: auto;
       }
-
-      &::before {
-        margin-left: -(rem(24));
-        padding-bottom: $line-quarter;
-        content: open-quote;
-      }
-
-      &::after {
-        margin-right: -(rem(24));
-        margin-top: -($line-half);
-        padding-bottom: $line-half;
-        text-align: right;
-        content: close-quote;
-      }
-    }
-
-    ul,
-    ol,
-    dl {
-      margin-bottom: $line-single;
     }
 
     ul {
-      li {
-        margin-left: $line-single;
-
-        list-style: disc;
+      @include media($tablet) {
+        margin-bottom: 0;
       }
-    }
+      @include media(1300px) {
+        max-width: 730px;
+      }
 
-    &.cfpw {
-      ul {
+      flex-grow: 2;
+      margin: 0 0 $line-half;
+      padding: 0;
+
+      li {
+        @include media($tablet) {
+          padding-right: $line-single;
+          text-align: left;
+
+          &:last-child {
+            padding-right: 0;
+          }
+        }
         @include media($desktop) {
-          column-count: 2;
-          column-width: auto;
-          column-gap: $line-double;
+          display: inline;
+          text-align: left;
+        }
+
+        font-size: rem(19);
+        list-style: none;
+        margin-bottom: .25em;
+        text-align: center;
+
+        a {
+          border-bottom: 2px solid transparent;
+          color: transparentize($nav-link-colour, .15);
+          padding-bottom: 3px;
+          text-decoration: none;
+
+          &:focus,
+          &:hover {
+            border-bottom: 3px solid transparentize(lighten($action-color, 20%), .35);
+
+            color: transparentize($nav-link-colour, 0);
+          }
         }
       }
     }
+
+    .nav--secondary {
+      @include media($desktop) {
+        flex-grow: 1;
+        // margin-right: rem(160);
+      }
+
+      li {
+        font-size: rem(16);
+      }
+    }
+  }
+}
+
+main {
+  @include media($desktop) {
+    padding-top: $line-double;
   }
 
-  footer[role='contentinfo'] {
-    @include wrapper-padding;
+  @include wrapper-padding;
 
-    // include a nice image as a dividing border (maybe keypins?)
+  border-top: 3px solid #c1c1c1; //clean me up
+  padding-top: $line-single;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: $leading-heading;
+    margin-bottom: $line-quarter;
+    margin-top: $line-half;
   }
+
+  h2 {
+    @include clearfix; // not working?
+
+    font-size: rem(32);
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    // @include media($tablet) {
+    //   &:first-of-type {
+    //     margin-top: $leading-body * 1.5em;
+    //   }
+    // }
+  }
+
+  // @include media($tablet) {
+  //   > *:not(h2) {
+  //     margin-left: rem(288);
+  //   }
+  //
+  //   h2 {
+  //     width: rem(256);
+  //     text-align: right;
+  //
+  //     & + * {
+  //       margin-top: -(rem(54));
+  //     }
+  //   }
+  // }
+
+  h3 {
+    margin-top: $line-single;
+  }
+
+  p,
+  dl,
+  ul,
+  ol,
+  blockquote {
+    // we’re gonna keep our line-lengths/measures in check
+    max-width: 50em;
+  }
+
+  blockquote {
+    font-family: Georgia, serif;
+    margin: $line-half 0;
+    padding: 0 rem(36);
+    quotes: '\201C''\201D''\2018''\2019';
+
+    &::before,
+    &::after {
+      color: $action-colour;
+      display: block;
+      font-family: Georgia, serif;
+      font-size: rem(43);
+      height: 0;
+    }
+
+    &::before {
+      content: open-quote;
+      margin-left: -(rem(24));
+      padding-bottom: $line-quarter;
+    }
+
+    &::after {
+      content: close-quote;
+      margin-right: -(rem(24));
+      margin-top: -($line-half);
+      padding-bottom: $line-half;
+      text-align: right;
+    }
+  }
+
+  ul,
+  ol,
+  dl {
+    margin-bottom: $line-single;
+  }
+
+  ul {
+    li {
+      list-style: disc;
+      margin-left: $line-single;
+    }
+  }
+
+  &.cfpw {
+    ul {
+      @include media($desktop) {
+        column-count: 2;
+        column-gap: $line-double;
+        column-width: auto;
+      }
+    }
+  }
+}
+
+footer[role='contentinfo'] {
+  @include wrapper-padding;
+
+  // include a nice image as a dividing border (maybe keypins?)
 }
