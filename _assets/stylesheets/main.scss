@@ -120,6 +120,14 @@ $base-timing: ease;
   width: 1px;
 }
 
+@mixin ie-clearfix {
+  &::after {
+    clear: both;
+    content: '';
+    display: table;
+    height: 0;
+  }
+}
 
 
 ////////////////////////////////////////////////////////////////////////////////

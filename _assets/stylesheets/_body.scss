@@ -19,11 +19,11 @@ body {
 }
 
 main {
+  @include wrapper-padding;
+
   @include media($desktop) {
     padding-top: $line-double;
   }
-
-  @include wrapper-padding;
 
   border-top: 3px solid lighten($light-grey, 8%);//clean me up
   padding-top: $line-single;

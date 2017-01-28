@@ -2,14 +2,14 @@
 // #  Main navigation styling
 //
 .skip-to {
+  @include wrapper-padding;
+
   @include media($tablet) {
     text-align: left;
   }
   @include media($desktop) {
     @include sr-only;
   }
-
-  @include wrapper-padding;
 
   display: inline-block;
   margin-top: $line-single;
@@ -18,8 +18,8 @@
   z-index: 2;
 
   a {
-    font-size: rem(15);
     color: lighten($action-colour, 15%);
+    font-size: rem(15);
   }
 }
 
@@ -118,15 +118,14 @@
   }
 
   .nav--primary {
+    @include media($tablet) {
+      margin-bottom: 0;
+    }
     @include media(1300px) {
       max-width: 620px;
     }
 
     margin-bottom: $line-single;
-
-    @include media($tablet) {
-      margin-bottom: 0;
-    }
   }
 
   .nav--secondary {
