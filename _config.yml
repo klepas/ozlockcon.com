@@ -29,7 +29,6 @@ github_username:  klepas
 markdown: kramdown
 
 gems:
-  - jekyll-feed
   - jekyll-assets
   - bourbon
   - neat
@@ -57,6 +56,10 @@ assets:
     js: true
   cache: .asset-cache
   digest: true
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
 
 highlighter: rouge
 
