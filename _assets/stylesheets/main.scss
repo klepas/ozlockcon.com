@@ -121,7 +121,7 @@ body {
 
   main,
   footer[role='contentinfo'] {
-    margin-bottom: $line-double;
+    padding-bottom: $line-double;
   }
 
   header[role='banner'] {
@@ -218,6 +218,10 @@ body {
           margin-bottom: 0;
         }
 
+        @include media(1300px) {
+          max-width: 730px;
+        }
+
         li {
           list-style: none;
           font-size: rem(19);
@@ -253,7 +257,7 @@ body {
       .nav--secondary {
         @include media($desktop) {
           flex-grow: 1;
-          margin-right: rem(160);
+          // margin-right: rem(160);
         }
 
         li {
@@ -266,39 +270,125 @@ body {
   main {
     @include wrapper-padding;
 
+    padding-top: $line-single;
     border-top: 3px solid #c1c1c1; // clean me up
+
+    @include media(1300px) {
+      padding-top: $line-double;
+    }
+
+    & > * {
+      @include media(1300px) {
+        // margin-left: rem(288);
+        margin-left: rem(32);
+      }
+    }
+
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      line-height: $leading-heading;
+      margin-top: $line-half;
+      margin-bottom: $line-quarter;
+    }
 
     h2 {
       @include clearfix; // not working?
 
-      margin-top: $line-single;
+      font-size: rem(32);
 
-      @include media($tablet) {
-        &:first-of-type {
-          margin-top: $leading-body * 1.5em;
-        }
+      &:first-child {
+        margin-top: 0;
+      }
+
+      // @include media($tablet) {
+      //   &:first-of-type {
+      //     margin-top: $leading-body * 1.5em;
+      //   }
+      // }
+    }
+
+    // @include media($tablet) {
+    //   > *:not(h2) {
+    //     margin-left: rem(288);
+    //   }
+    //
+    //   h2 {
+    //     width: rem(256);
+    //     text-align: right;
+    //
+    //     & + * {
+    //       margin-top: -(rem(54));
+    //     }
+    //   }
+    // }
+
+    h3 {
+      margin-top: $line-single;
+    }
+
+    p,
+    dl,
+    ul,
+    ol,
+    blockquote {
+      // we’re gonna keep our line-lengths/measures in check
+      max-width: 46em;
+    }
+
+    blockquote {
+      margin: $line-half 0;
+      padding: 0 rem(34);
+      font-family: Georgia, serif;
+      quotes: '\201C''\201D''\2018''\2019';
+
+      &::before,
+      &::after {
+        display: block;
+        height: 0;
+        font-family: Georgia, serif;
+        font-size: rem(43);
+        color: $action-colour;
+      }
+
+      &::before {
+        margin-left: -(rem(24));
+        padding-bottom: $line-quarter;
+        content: open-quote;
+      }
+
+      &::after {
+        margin-right: -(rem(24));
+        margin-top: -($line-half);
+        padding-bottom: $line-half;
+        text-align: right;
+        content: close-quote;
       }
     }
 
-    @include media($tablet) {
-      *:not(h2) {
-        margin-left: rem(288);
+    ul,
+    ol,
+    dl {
+      margin-bottom: $line-single;
+    }
+
+    ul {
+      li {
+        margin-left: $line-single;
+
+        list-style: disc;
       }
+    }
 
-      h2 {
-        width: rem(256);
-        text-align: right;
-
-        & + * {
-          margin-top: -(rem(42));
+    &.cfpw {
+      ul {
+        @include media($desktop) {
+          column-count: 2;
+          column-width: auto;
+          column-gap: $line-double;
         }
-      }
-
-      p,
-      li,
-      dd {
-        // we’re gonna keep our line-lengths/measures in check
-        max-width: 40em;
       }
     }
   }
@@ -306,6 +396,6 @@ body {
   footer[role='contentinfo'] {
     @include wrapper-padding;
 
-    text-align: right;
+    // include a nice image as a dividing border (maybe keypins?)
   }
 }
