@@ -1,0 +1,106 @@
+nav {
+  $nav-background: desaturate(darken($action-colour, 50%), 30%);
+  $nav-colour: $white;
+  $nav-link-colour: transparentize($nav-colour, .3);
+  $footer-disclaimer-color: transparentize($nav-colour, .6);
+
+  @include media($tablet) {
+    align-items: baseline;
+    display: flex;
+  }
+
+  background: transparentize($nav-background, .12);
+  padding: $line-single;
+  text-shadow: 1px 1px 3px $nav-background;
+  width: 100%;
+
+  .header--logo {
+    @include media($tablet) {
+      margin-right: $line-single;
+    }
+    @include media($desktop) {
+      align-self: center;
+    }
+
+    margin-right: 0;
+
+    img {
+      @include media($tablet) {
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: left;
+      }
+      @include media($tablet) {
+        padding-left: $gutter;
+      }
+
+      display: block;
+      height: $line-single;
+      margin-bottom: $line-half;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  ul {
+    @include media($tablet) {
+      margin-bottom: 0;
+    }
+    @include media(1300px) {
+      max-width: 730px;
+    }
+
+    flex-grow: 2;
+    margin: 0 0 $line-half;
+    padding: 0;
+  }
+
+  li {
+    @include media($tablet) {
+      padding-right: $line-single;
+      text-align: left;
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+    @include media($desktop) {
+      display: inline;
+      text-align: left;
+    }
+
+    font-size: rem(19);
+    list-style: none;
+    margin-bottom: .25em;
+    text-align: center;
+
+    a {
+      border-bottom: 2px solid transparent;
+      color: transparentize($nav-link-colour, .1);
+      padding-bottom: 3px;
+      text-decoration: none;
+
+      &:focus,
+      &:hover {
+        border-bottom: 3px solid transparentize($action-colour, .3);
+
+        color: transparentize($nav-link-colour, 0);
+      }
+
+      &.is-current {
+        border-bottom: 3px solid transparentize($nav-link-colour, .5);
+      }
+    }
+  }
+
+  .nav--secondary {
+    @include media($desktop) {
+      flex-grow: 1;
+    }
+
+    li {
+      font-size: rem(16);
+    }
+  }
+}

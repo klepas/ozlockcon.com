@@ -15,6 +15,17 @@ body {
   margin: 0;
 }
 
+main {
+  @include media($desktop) {
+    padding-top: $line-double;
+  }
+
+  @include wrapper-padding;
+
+  border-top: 3px solid lighten($light-grey, 8%);//clean me up
+  padding-top: $line-single;
+}
+
 main,
 footer[role='contentinfo'] {
   padding-bottom: $line-double;
@@ -29,7 +40,7 @@ footer[role='contentinfo'] {
     &:active,
     &:focus,
     &:hover {
-      background-color: lighten(#eccf00, 38%);
+      background-color: lighten($yellow, 38%);
       border-bottom: 1px solid $light-grey;
       color: $off-black;
     }

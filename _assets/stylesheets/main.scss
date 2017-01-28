@@ -36,13 +36,13 @@ $black:                   #000;
 $off-white:               #f0f3f5;
 $off-black:               #101010;
 
+$yellow:                  #eccf00;
 
 $grey:                    #6e6e6e;
 $light-grey:              lighten($grey, 15%);
 $dark-grey:               lighten($grey, 20%);
 
-
-$action-colour: #477dca !default;
+$action-colour:           #477dca;
 
 
 // ## Type families
@@ -52,22 +52,22 @@ $font-stack-monospace: 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bits
 $font-stack-system: (
   -apple-system,
   BlinkMacSystemFont,
-  "Avenir Next",
-  "Avenir",
-  "Segoe UI",
-  "Lucida Grande",
-  "Helvetica Neue",
-  "Helvetica",
-  "Fira Sans",
-  "Roboto",
-  "Noto",
-  "Droid Sans",
-  "Cantarell",
-  "Oxygen",
-  "Ubuntu",
-  "Franklin Gothic Medium",
-  "Century Gothic",
-  "Liberation Sans",
+  'Avenir Next',
+  'Avenir',
+  'Segoe UI',
+  'Lucida Grande',
+  'Helvetica Neue',
+  'Helvetica',
+  'Fira Sans',
+  'Roboto',
+  'Noto',
+  'Droid Sans',
+  'Cantarell',
+  'Oxygen',
+  'Ubuntu',
+  'Franklin Gothic Medium',
+  'Century Gothic',
+  'Liberation Sans',
   sans-serif,
 );
 
@@ -118,22 +118,13 @@ $base-timing: ease;
 @import 'body';
 @import 'headings';
 @import 'header';
-// @import 'navigation';
+@import 'navigation';
 @import 'footer';
 
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Base styles
 main {
-  @include media($desktop) {
-    padding-top: $line-double;
-  }
-
-  @include wrapper-padding;
-
-  border-top: 3px solid #c1c1c1; //clean me up
-  padding-top: $line-single;
-
   p,
   dl,
   ul,
