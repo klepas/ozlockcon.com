@@ -8,58 +8,61 @@ title: "Call for Papers & Workshops"
 ## Call for Papers
 
 OzLockCon aims to be the first conference in Australia catering specifically to
-physical security research and offensive and defensive techniques.
+physical security research and offensive | defensive techniques.
 
 We aim to bring the openness and desire to share information found in the
 information security industry to a different crowd. We are looking for
 presenters to talk on a wide range of topics in an informal environment amongst
 their peers.
 
+Please **[fill out our CFP/W Google Form](%missing_url%)** if you wish to submit a proposal for
+either a talk or workshop.
+
 ### Talk topics
 
 We are interested in the following topics:
 
 * picking techniques
-* bypass techniques
+* bypass techniques and tools
 * impressioning techniques
 * digital lock manipulation
 * decoding locks
 * safe manipulation
-* locksport community and our hobby
+* the locksport community and our hobby
 * historical/antique locks
 * privilege escalation attacks against lock systems
 * key duplication
 * alarm system attacks
+* building access control systems
+* motor vehicle security
 * DIY tools and their making
 * making cut-aways
 * lock manufacturing
 * metallurgy, metalworking, and material science research
 * improving physical security
 * 'tamper-evident' seals
-* making challenge locks
+* making/hacking challenge locks
 * legal aspects of locksport in AU/NZ
-* physical security within red teaming/penetration testing
-* radio security (this can include mobile, pagers, CB radio)
+* physical security in red teaming/pen. testing
+* radio security (eg. mobile, pagers, CB radio)
 * RFID/Magstripe/Smartcard security
 * social engineering
 
-Digital/Analogue attacks if relevant in the wider context of physical security
-will be considered.
-
 If you think your topic might still be of interest but isn't explicitly listed
-here, please submit anyway and we will be happy to review regardless.
+here, please submit anyway and we will be happy to review it regardless.
 
-Make sure to submit early! The CFP will close April 30th 2017.
+Make sure to submit early! The call will close April 30th 2017.
 
 ## Call for Workshops
 
 In addition to the traditional 'talks' that will occur (like at most other
-conferences) OzLockCon aims to have a fairly large amount of hands-on and
-interactive content. This content should be relevant to topics covered in the
-CFP and should be used as a guideline as to what we are interested.
+conferences) OzLockCon aims to have a large amount of hands-on and interactive
+content.
 
 We are looking for people to run workshops which can run anywhere between an
-hour to the full course of the conference. If you require financial assistance
-in order to run such a workshop (for example, to purchase a large number of
-key-blanks and files to teach impressioning techniques) please state so in the
-CFP and we'll attempt to make arrangements.
+hour to the full course of the conference.
+
+<small>If you require financial assistance in order to run such a workshop (for
+example, to purchase a large number of key-blanks and files to teach
+impressioning techniques) please state so in the CFP and we'll attempt to make
+arrangements.</small>

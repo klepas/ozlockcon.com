@@ -36,7 +36,9 @@ footer[role='contentinfo'] {
   a {
     border-radius: 2px;
     color: shade($action-colour, 15%);
-    padding: 1px 3px;
+    margin-left: -2px;
+    margin-right: -2px;
+    padding: 2px 3px;
     text-decoration: none;
     transition: color $base-duration $base-timing;
 

@@ -22,7 +22,7 @@ attendees with industry-leading presenters and tutors.
 The conference is scheduled to run in early 2017, likely around April/May and
 will be held in either Sydney or Melbourne.
 
-Stay tuned
+Stay tuned.
 
 ## What's the plan?
 
@@ -39,8 +39,7 @@ time-honoured techniques as well as cutting edge research.
 
 Workshops are run by experts who will demonstrate attacks such as
 impressioning, lock picking, safe manipulation, bumping, bypass techniques
-and more. These provide an excellent opportunity to practice and refine both old
-and new skills.
+and more. These provide an excellent opportunity to practice and refine both old and new skills.
 
 Workshops span %length% to all-day long.
 

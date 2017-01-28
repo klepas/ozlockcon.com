@@ -8,7 +8,7 @@ title: "Code of Conduct"
 This is our Code of Conduct. We encourage everyone to read it. If you have any
 questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.email }}">contact us</a>**.
 
-Our code has been adapted from the [*Citizen Code of Conduct*](http://citizencodeofconduct.org/).
+<small>Our code has been adapted from the [*Citizen Code of Conduct*](http://citizencodeofconduct.org/).</small>
 
 ## Purpose
 
@@ -109,4 +109,4 @@ Outside of finding a community organiser in person, please **<a href="mailto:{{ 
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+<small>Portions of this Code have been derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).</small>

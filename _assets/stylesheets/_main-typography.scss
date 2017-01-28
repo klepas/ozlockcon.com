@@ -1,6 +1,12 @@
 ////////////////////////////////////////////////////////////////////////////////
 // #  main’s typography
 //
+small {
+  display: inline-block;
+  font-size: rem(15);
+  max-width: 48em;
+}
+
 main {
   p,
   dl,
