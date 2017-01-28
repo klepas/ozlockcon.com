@@ -7,15 +7,22 @@ title: "OzLockCon 2017"
 
 ## What's this?
 
-OzLockCon aims to be the first open and inclusive community event focusing on physical security controls in Australia.
+OzLockCon aims to be the first open and inclusive community event focusing on
+physical security controls in Australia.
 
-The conference aims to introduce people from all areas of security, weather professionals or hobbyists, to new techniques, tools and ideas in order to discover more and either learn new skills or develop them further. Special attention given to locksport and lockpicking techniques and competitions will occur throughout the event.
+The con aims to introduce people from all areas of security, whether
+professionals or hobbyists, to new techniques, tools, and ideas in order to
+learn new skills or refine them.
 
-We hope to have both standard talks and a variety of on-going workshops open to attendees with industry leading presenters and tutors.
+We hope to have both standard talks and a variety of on-going workshops open to
+attendees with industry-leading presenters and tutors.
 
 ## Conference date
 
-The conference is scheduled to run in early 2017, likely around April/May and will be held in either Sydney or Melbourne.
+The conference is scheduled to run in early 2017, likely around April/May and
+will be held in either Sydney or Melbourne.
+
+Stay tuned
 
 ## What's the plan?
 
@@ -30,8 +37,8 @@ time-honoured techniques as well as cutting edge research.
 
 ### Workshops
 
-Workshops are run by experts who will demonstrate techniques such as
-impressioning, lock picking, safe maniuplation, bumping, bypass techniques
+Workshops are run by experts who will demonstrate attacks such as
+impressioning, lock picking, safe manipulation, bumping, bypass techniques
 and more. These provide an excellent opportunity to practice and refine both old
 and new skills.
 
@@ -50,11 +57,9 @@ small and relatively inexperienced crowd with familiar faces showing up at most
 events.
 
 At OzLockCon, we aim to find out who the best lock-picker in Australia is by
-testing their skills and knowledge. We will also be running several smaller
-competitions and challenges throughout the conference to test skills and have
-fun.
+testing their skills and knowledge. Details forthcoming.
 
 ### Panel
 
-On the final day, we will be running a panel consisting of %key_people%
+On the final day we will be running a panel consisting of %key_people%
 (inc. Law Enforcement, MLA?, Abloy/LW, LockSporter, Pentester,. (Details TBC)

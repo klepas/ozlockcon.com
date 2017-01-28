@@ -28,13 +28,18 @@ that attend enjoy and compete in the competitions we have planned.
 
 ## Is this legal?
 
-Yes. >_>
+Yes.
 
-<_<
+## Is possession of lockpicking tools legal?
+
+It depends on which State/Territory you live in, but generally possession within
+your own house is legal in Australia.
+
+%further info re VIC?%
 
 ## Aren't you teaching wannabe criminals?
 
-We're going to borrow a quote as an answer here:
+We're going to borrow a quote as an answer:
 
 > Rogues knew a good deal about lock-picking long before locksmiths discussed it
 [...] If a lock is not so inviolable as it has hitherto been deemed to be,
@@ -43,3 +48,5 @@ dishonest are... certain to apply the knowledge practically… the spread of the
 knowledge is necessary to give fair play to those who might suffer by ignorance.
 
 Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.
+
+[Pinched from [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]
