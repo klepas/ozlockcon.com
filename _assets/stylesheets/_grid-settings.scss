@@ -1,4 +1,4 @@
-@import "neat-helpers"; // this is calling data from the gem
+@import 'neat-helpers'; // this is calling data from the gem
 
 // (16 * 48) + (15 * 24)
 $column: 3em; // 48, presuming base of 16px
