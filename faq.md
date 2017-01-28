@@ -49,4 +49,5 @@ knowledge is necessary to give fair play to those who might suffer by ignorance.
 
 Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.
 
-[Pinched from [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]
+[Pinched from [<abbr title="The Open Organisation Of Lockpickers">
+TOOOL</abbr>](http://toool.us/).]
