@@ -86,7 +86,7 @@ nav {
       &:hover {
         border-bottom: 3px solid transparentize($action-colour, .3);
 
-        color: transparentize($nav-link-colour, 0);
+        color: $nav-link-colour;
       }
 
       &.is-current {
