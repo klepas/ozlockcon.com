@@ -3,7 +3,7 @@
 @import 'bourbon';
 @import 'grid-settings';
 @import 'neat';
-@import 'base/base';
+// @import 'base/base';
 @import 'grid-settings';
 
 
@@ -38,7 +38,7 @@ $off-black:               #101010;
 
 
 $grey:                    #6e6e6e;
-$light-grey:              lighten($grey, 30%);
+$light-grey:              lighten($grey, 15%);
 $dark-grey:               lighten($grey, 20%);
 
 
@@ -47,9 +47,33 @@ $action-colour: #477dca !default;
 
 // ## Type families
 //
-$base-monospace: 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
+$font-stack-monospace: 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
 
-$base-font-family: $base-monospace;
+$font-stack-system: (
+  -apple-system,
+  BlinkMacSystemFont,
+  "Avenir Next",
+  "Avenir",
+  "Segoe UI",
+  "Lucida Grande",
+  "Helvetica Neue",
+  "Helvetica",
+  "Fira Sans",
+  "Roboto",
+  "Noto",
+  "Droid Sans",
+  "Cantarell",
+  "Oxygen",
+  "Ubuntu",
+  "Franklin Gothic Medium",
+  "Century Gothic",
+  "Liberation Sans",
+  sans-serif,
+);
+
+// Animations
+$base-duration: 150ms;
+$base-timing: ease;
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Mixins & functions
@@ -137,7 +161,6 @@ main {
     &::before {
       content: open-quote;
       margin-left: -(rem(24));
-      padding-bottom: $line-quarter;
     }
 
     &::after {
@@ -153,12 +176,16 @@ main {
   ol,
   dl {
     margin-bottom: $line-single;
+    padding-left: 0;
+  }
+
+  li {
+    margin-left: $line-single;
   }
 
   ul {
     li {
       list-style: disc;
-      margin-left: $line-single;
     }
   }
 

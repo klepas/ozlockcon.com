@@ -3,20 +3,36 @@
 }
 
 body {
-  margin: 0;
-  font-size: rem(16);
-  line-height: $leading-body;
-  color: $off-black;
-  background-color: $off-white;
-
-  // font-family: $base-font-family;
-
   @include media($tablet) {
     font-size: rem(17);
   }
+
+  background-color: $off-white;
+  color: $off-black;
+  font-family: $font-stack-system;
+  font-size: rem(16);
+  line-height: $leading-body;
+  margin: 0;
 }
 
 main,
 footer[role='contentinfo'] {
   padding-bottom: $line-double;
+
+  a {
+    border-radius: 2px;
+    color: shade($action-colour, 15%);
+    padding: 1px 3px;
+    text-decoration: none;
+    transition: color $base-duration $base-timing;
+
+    &:active,
+    &:focus,
+    &:hover {
+      background-color: lighten(#eccf00, 38%);
+      border-bottom: 1px solid $light-grey;
+      color: $off-black;
+    }
+  }
+
 }

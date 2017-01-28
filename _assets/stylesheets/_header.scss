@@ -124,7 +124,7 @@ header[role='banner'] {
 
           &:focus,
           &:hover {
-            border-bottom: 3px solid transparentize(lighten($action-color, 20%), .35);
+            border-bottom: 3px solid transparentize($action-colour, .3);
 
             color: transparentize($nav-link-colour, 0);
           }
