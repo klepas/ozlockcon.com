@@ -32,8 +32,8 @@ Yes.
 
 ## Is possession of lockpicking tools legal?
 
-It depends on which State/Territory you live in, but generally possession within
-your own house is legal in Australia.
+It depends on which State/Territory you live in -- possession within your own
+home is legal in most of Australia.
 
 %further info re VIC?%
 

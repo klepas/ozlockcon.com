@@ -28,12 +28,11 @@ header[role='banner'] {
     h1 {
       @include media($tablet) {
         font-size: rem(48);
-        margin-bottom: .5em;
+        margin-bottom: 0;
         text-align: left;
       }
 
       font-size: rem(32);
-      margin-bottom: 1em;
     }
 
     p {
@@ -43,6 +42,7 @@ header[role='banner'] {
       }
 
       font-size: rem(26);
+      margin-top: 0;
       max-width: 40em; //doc
     }
   }
