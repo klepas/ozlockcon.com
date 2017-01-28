@@ -108,7 +108,7 @@
       &:hover {
         border-bottom: 3px solid transparentize($action-colour, .3);
 
-        color: $nav-link-colour;
+        color: $white;
       }
 
       &.is-current {
