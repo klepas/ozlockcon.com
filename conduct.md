@@ -5,7 +5,8 @@ slug: conduct
 title: "Code of Conduct"
 ---
 
-This is our community’s Code of Conduct. We encourage everyone to read it. If you have any questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.email }}">contact us</a>**.
+This is our Code of Conduct. We encourage everyone to read it. If you have any
+questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.email }}">contact us</a>**.
 
 Our code has been adapted from the [*Citizen Code of Conduct*](http://citizencodeofconduct.org/).
 
@@ -13,9 +14,9 @@ Our code has been adapted from the [*Citizen Code of Conduct*](http://citizencod
 
 <small>[ §1 ]</small>
 
-A primary goal of OzLockCon is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of OzLockCon is to be inclusive to the largest number of people interested in locksport, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
+This code of conduct outlines our expectations for all those who participate in OzLockCon, as well as the consequences for unacceptable behaviour.
 
 We invite all those who participate in OzLockCon to help us create safe and positive experiences for everyone.
 
