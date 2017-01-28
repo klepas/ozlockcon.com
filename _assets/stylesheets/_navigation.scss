@@ -50,9 +50,6 @@ nav {
     @include media($tablet) {
       margin-bottom: 0;
     }
-    @include media(1300px) {
-      max-width: 730px;
-    }
 
     flex-grow: 2;
     margin: 0 0 $line-half;
@@ -70,12 +67,13 @@ nav {
     }
     @include media($desktop) {
       display: inline;
+      margin-bottom: 0;
       text-align: left;
     }
 
     font-size: rem(19);
     list-style: none;
-    margin-bottom: .25em;
+    margin-bottom: $line-quarter;
     text-align: center;
 
     a {
@@ -94,6 +92,18 @@ nav {
       &.is-current {
         border-bottom: 3px solid transparentize($nav-link-colour, .5);
       }
+    }
+  }
+
+  .nav--primary {
+    @include media(1300px) {
+      max-width: 620px;
+    }
+
+    margin-bottom: $line-single;
+
+    @include media($tablet) {
+      margin-bottom: 0;
     }
   }
 
