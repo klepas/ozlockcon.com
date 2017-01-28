@@ -44,6 +44,7 @@ exclude:
 assets:
   prefix: "/assets"
   assets:
+    - "*.jpg"
     - "*.png"
     - "*.gif"
     - "*.svg"
@@ -62,6 +63,3 @@ assets:
       - "IE > 9"
 
 highlighter: rouge
-
-sass:
-  sass_dir: "assets/stylesheets/"
