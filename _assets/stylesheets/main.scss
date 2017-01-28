@@ -109,7 +109,7 @@ header[role='banner'] {
   color: $white;
 
   .page-title {
-    $page-title-background: desaturate(darken($action-colour, 27%), 15%);
+    $page-title-background: desaturate(darken($action-colour, 28%), 12%);
 
     @include wrapper-padding;
 
@@ -117,7 +117,7 @@ header[role='banner'] {
     padding-bottom: $line-single;
     padding-top: $line-double;
     text-align: center;
-    text-shadow: 1px 1px 3px desaturate(darken($action-colour, 40%), 15%); //clean me up :)
+    text-shadow: 2px 1px 3px desaturate(darken($action-colour, 40%), 15%); //clean me up :)
 
     h1 {
       @include media($tablet) {
@@ -142,7 +142,7 @@ header[role='banner'] {
   }
 
   nav {
-    $nav-background: desaturate(darken($action-colour, 48%), 30%);
+    $nav-background: desaturate(darken($action-colour, 50%), 30%);
     $nav-colour: $white;
     $nav-link-colour: transparentize($nav-colour, .3);
     $footer-disclaimer-color: transparentize($nav-colour, .6);
@@ -152,7 +152,7 @@ header[role='banner'] {
       display: flex;
     }
 
-    background: transparentize($nav-background, .15);
+    background: transparentize($nav-background, .12);
     padding: $line-single;
     text-shadow: 1px 1px 3px $nav-background;
     width: 100%;
@@ -216,7 +216,7 @@ header[role='banner'] {
 
         a {
           border-bottom: 2px solid transparent;
-          color: transparentize($nav-link-colour, .15);
+          color: transparentize($nav-link-colour, .1);
           padding-bottom: 3px;
           text-decoration: none;
 
