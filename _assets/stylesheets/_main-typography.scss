@@ -1,0 +1,69 @@
+////////////////////////////////////////////////////////////////////////////////
+// #  main’s typography
+//
+main {
+  p,
+  dl,
+  ul,
+  ol,
+  blockquote {
+    // we’re gonna keep our line-lengths/measures in check
+    max-width: 50em;
+  }
+
+  blockquote {
+    font-family: Georgia, serif;
+    margin: $line-half 0;
+    padding: 0 rem(36);
+    quotes: '\201C''\201D''\2018''\2019';
+
+    &::before,
+    &::after {
+      color: $action-colour;
+      display: block;
+      font-family: Georgia, serif;
+      font-size: rem(43);
+      height: 0;
+    }
+
+    &::before {
+      content: open-quote;
+      margin-left: -(rem(24));
+    }
+
+    &::after {
+      content: close-quote;
+      margin-right: -(rem(24));
+      margin-top: -($line-half);
+      padding-bottom: $line-half;
+      text-align: right;
+    }
+  }
+
+  ul,
+  ol,
+  dl {
+    margin-bottom: $line-single;
+    padding-left: 0;
+  }
+
+  li {
+    margin-left: $line-single;
+  }
+
+  ul {
+    li {
+      list-style: disc;
+    }
+  }
+
+  &.cfpw {
+    ul {
+      @include media($desktop) {
+        column-count: 2;
+        column-gap: $line-double;
+        column-width: auto;
+      }
+    }
+  }
+}

@@ -3,7 +3,6 @@
 @import 'bourbon';
 @import 'grid-settings';
 @import 'neat';
-// @import 'base/base';
 @import 'grid-settings';
 
 
@@ -12,7 +11,7 @@
 //
 // Much of the typographic sizing for the body is setup here to accompany body
 // text set at 16px.
-
+//
 $leading-body:            1.8;
 $leading-heading:         1.4;
 $type-size-body:          16;
@@ -71,9 +70,9 @@ $font-stack-system: (
   sans-serif,
 );
 
-// Animations
 $base-duration: 150ms;
 $base-timing: ease;
+
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Mixins & functions
@@ -97,7 +96,6 @@ $base-timing: ease;
     padding-left: $gutter * 2;
     padding-right: $gutter * 2;
     width: 100%;
-    // min-width: ...;
   }
 
   box-sizing: border-box;
@@ -115,78 +113,10 @@ $base-timing: ease;
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Custom partial imports
+//
 @import 'body';
 @import 'headings';
 @import 'header';
 @import 'navigation';
+@import 'main-typography';
 @import 'footer';
-
-
-////////////////////////////////////////////////////////////////////////////////
-// #  Base styles
-main {
-  p,
-  dl,
-  ul,
-  ol,
-  blockquote {
-    // we’re gonna keep our line-lengths/measures in check
-    max-width: 50em;
-  }
-
-  blockquote {
-    font-family: Georgia, serif;
-    margin: $line-half 0;
-    padding: 0 rem(36);
-    quotes: '\201C''\201D''\2018''\2019';
-
-    &::before,
-    &::after {
-      color: $action-colour;
-      display: block;
-      font-family: Georgia, serif;
-      font-size: rem(43);
-      height: 0;
-    }
-
-    &::before {
-      content: open-quote;
-      margin-left: -(rem(24));
-    }
-
-    &::after {
-      content: close-quote;
-      margin-right: -(rem(24));
-      margin-top: -($line-half);
-      padding-bottom: $line-half;
-      text-align: right;
-    }
-  }
-
-  ul,
-  ol,
-  dl {
-    margin-bottom: $line-single;
-    padding-left: 0;
-  }
-
-  li {
-    margin-left: $line-single;
-  }
-
-  ul {
-    li {
-      list-style: disc;
-    }
-  }
-
-  &.cfpw {
-    ul {
-      @include media($desktop) {
-        column-count: 2;
-        column-gap: $line-double;
-        column-width: auto;
-      }
-    }
-  }
-}
