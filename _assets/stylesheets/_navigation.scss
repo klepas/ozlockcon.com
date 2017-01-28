@@ -26,7 +26,7 @@
 .header--navigation {
   $nav-background: desaturate(darken($action-colour, 50%), 30%);
   $nav-colour: $white;
-  $nav-link-colour: transparentize($nav-colour, .3);
+  $nav-link-colour: transparentize($nav-colour, .2);
   $footer-disclaimer-color: transparentize($nav-colour, .6);
 
   @include media($tablet) {
@@ -100,7 +100,7 @@
 
     a {
       border-bottom: 2px solid transparent;
-      color: transparentize($nav-link-colour, .1);
+      color: $nav-link-colour;
       padding-bottom: 3px;
       text-decoration: none;
 
