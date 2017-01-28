@@ -25,7 +25,7 @@ main {
     padding-top: $line-double;
   }
 
-  border-top: 3px solid lighten($light-grey, 8%);//clean me up
+  border-top: 3px solid $light-grey;
   padding-top: $line-single;
 }
 

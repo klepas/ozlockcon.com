@@ -52,8 +52,7 @@ assets:
     - _assets/stylesheets
     - _assets/images
   compress:
-    # change me before prod
-    css: false
+    css: true
     js: true
   cache: .asset-cache
   digest: true
