@@ -29,6 +29,7 @@ main {
   padding-top: $line-single;
 }
 
+.skip-to,
 main,
 footer[role='contentinfo'] {
   padding-bottom: $line-double;
@@ -46,7 +47,7 @@ footer[role='contentinfo'] {
     &:focus,
     &:hover {
       background-color: lighten($yellow, 38%);
-      border-bottom: 1px solid $light-grey;
+      border-bottom: 1px solid transparentize($black, .65);
       color: $off-black;
     }
   }

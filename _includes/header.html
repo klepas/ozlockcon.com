@@ -1,4 +1,8 @@
 <header role="banner">
+  <nav class="skip-to">
+    <a href="#content">Skip to main content &darr;</a>
+  </nav>
+
   <div class="page-title">
     {% if page.url == '/' %}
     <h1>{{ site.title }} {{ site.year }}</h1>
@@ -9,7 +13,7 @@
     {% endif %}
   </div>
 
-  <nav class="header--bar" aria-label="main navigation">
+  <nav class="header--navigation" aria-label="main navigation">
     <div class="header--logo">
       <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_square.png" alt="Logo image">
     </div>

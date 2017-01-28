@@ -1,7 +1,29 @@
 ////////////////////////////////////////////////////////////////////////////////
 // #  Main navigation styling
 //
-nav {
+.skip-to {
+  @include media($tablet) {
+    text-align: left;
+  }
+  @include media($desktop) {
+    @include sr-only;
+  }
+
+  @include wrapper-padding;
+
+  display: inline-block;
+  margin-top: $line-single;
+  position: absolute;
+  text-align: center;
+  z-index: 2;
+
+  a {
+    font-size: rem(15);
+    color: lighten($action-colour, 15%);
+  }
+}
+
+.header--navigation {
   $nav-background: desaturate(darken($action-colour, 50%), 30%);
   $nav-colour: $white;
   $nav-link-colour: transparentize($nav-colour, .3);
