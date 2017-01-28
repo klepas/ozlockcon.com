@@ -92,164 +92,14 @@ $base-font-family: $base-monospace;
 ////////////////////////////////////////////////////////////////////////////////
 // #  Custom partial imports
 @import 'body';
-// @import 'navigation';
 @import 'headings';
+@import 'header';
+// @import 'navigation';
+@import 'footer';
 
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Base styles
-
-header[role='banner'] {
-  background-color: $off-black;
-  background-image: url('/assets/images/background.jpg');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-bottom: 3px solid $off-black;
-  color: $white;
-
-  .page-title {
-    $page-title-background: desaturate(darken($action-colour, 28%), 12%);
-
-    @include wrapper-padding;
-
-    background: transparentize($page-title-background, .2);
-    padding-bottom: $line-single;
-    padding-top: $line-double;
-    text-align: center;
-    text-shadow: 2px 1px 3px desaturate(darken($action-colour, 40%), 15%); //clean me up :)
-
-    h1 {
-      @include media($tablet) {
-        font-size: rem(48);
-        margin-bottom: .5em;
-        text-align: left;
-      }
-
-      font-size: rem(32);
-      margin-bottom: 1em;
-    }
-
-    p {
-      @include media($tablet) {
-        font-size: rem(28);
-        text-align: left;
-      }
-
-      font-size: rem(26);
-      max-width: 40em; //doc
-    }
-  }
-
-  nav {
-    $nav-background: desaturate(darken($action-colour, 50%), 30%);
-    $nav-colour: $white;
-    $nav-link-colour: transparentize($nav-colour, .3);
-    $footer-disclaimer-color: transparentize($nav-colour, .6);
-
-    @include media($tablet) {
-      align-items: baseline;
-      display: flex;
-    }
-
-    background: transparentize($nav-background, .12);
-    padding: $line-single;
-    text-shadow: 1px 1px 3px $nav-background;
-    width: 100%;
-
-    .header--logo {
-      @include media($tablet) {
-        margin-right: $line-single;
-      }
-      @include media($desktop) {
-        align-self: center;
-      }
-
-      margin-right: 0;
-
-      img {
-        @include media($tablet) {
-          margin-bottom: 0;
-          margin-left: 0;
-          margin-right: 0;
-          text-align: left;
-        }
-        @include media($tablet) {
-          padding-left: $gutter;
-        }
-
-        display: block;
-        height: $line-single;
-        margin-bottom: $line-half;
-        margin-left: auto;
-        margin-right: auto;
-      }
-    }
-
-    ul {
-      @include media($tablet) {
-        margin-bottom: 0;
-      }
-      @include media(1300px) {
-        max-width: 730px;
-      }
-
-      flex-grow: 2;
-      margin: 0 0 $line-half;
-      padding: 0;
-
-      li {
-        @include media($tablet) {
-          padding-right: $line-single;
-          text-align: left;
-
-          &:last-child {
-            padding-right: 0;
-          }
-        }
-        @include media($desktop) {
-          display: inline;
-          text-align: left;
-        }
-
-        font-size: rem(19);
-        list-style: none;
-        margin-bottom: .25em;
-        text-align: center;
-
-        a {
-          border-bottom: 2px solid transparent;
-          color: transparentize($nav-link-colour, .1);
-          padding-bottom: 3px;
-          text-decoration: none;
-
-          &:focus,
-          &:hover {
-            border-bottom: 3px solid transparentize(lighten($action-color, 20%), .35);
-
-            color: transparentize($nav-link-colour, 0);
-          }
-
-          &.is_current {
-            border-bottom: 3px solid transparentize($nav-link-colour, .5);
-          }
-        }
-      }
-    }
-
-    .nav--secondary {
-      @include media($desktop) {
-        flex-grow: 1;
-        // margin-right: rem(160);
-      }
-
-      li {
-        font-size: rem(16);
-      }
-    }
-  }
-}
-
 main {
   @include media($desktop) {
     padding-top: $line-double;
@@ -259,51 +109,6 @@ main {
 
   border-top: 3px solid #c1c1c1; //clean me up
   padding-top: $line-single;
-
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    line-height: $leading-heading;
-    margin-bottom: $line-quarter;
-    margin-top: $line-half;
-  }
-
-  h2 {
-    @include clearfix; // not working?
-
-    font-size: rem(32);
-
-    &:first-child {
-      margin-top: 0;
-    }
-
-    // @include media($tablet) {
-    //   &:first-of-type {
-    //     margin-top: $leading-body * 1.5em;
-    //   }
-    // }
-  }
-
-  // @include media($tablet) {
-  //   > *:not(h2) {
-  //     margin-left: rem(288);
-  //   }
-  //
-  //   h2 {
-  //     width: rem(256);
-  //     text-align: right;
-  //
-  //     & + * {
-  //       margin-top: -(rem(54));
-  //     }
-  //   }
-  // }
-
-  h3 {
-    margin-top: $line-single;
-  }
 
   p,
   dl,
@@ -366,10 +171,4 @@ main {
       }
     }
   }
-}
-
-footer[role='contentinfo'] {
-  @include wrapper-padding;
-
-  // include a nice image as a dividing border (maybe keypins?)
 }

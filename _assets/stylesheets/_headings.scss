@@ -7,3 +7,25 @@ h6 {
   line-height: $leading-heading;
   // font-family: $base-font-family;
 }
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: $line-quarter;
+  margin-top: $line-half;
+}
+
+
+h2 {
+  font-size: rem(32);
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+h3 {
+  margin-top: $line-single;
+}
