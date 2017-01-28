@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "FAQ"
+permalink: /faq
 slug: faq
+title: "FAQ"
 ---
 
 ## Who are you?

@@ -1,6 +1,6 @@
 <header role="banner">
   <div class="page-title">
-    <h1>{{ site.title }} {{ site.year }}</h1>
+    <h1>{{ site.title }} {{ site.year }} {{page.url}}</h1>
     {{ site.description | markdownify }}
   </div>
 
@@ -13,14 +13,34 @@
       <li><a href="/">Home</a></li>
       {% endunless %}
 
-      <li><a href="/cfpw">Call for Papers &amp; Workshops</a></li>
-      <li><a href="/schedule">Schedule</a></li>
+      <li>
+        <a href="/cfpw"{% if page.url == '/cfpw' %} class="is_current"{% endif %}>
+          Call for Papers &amp; Workshops
+        </a>
+      </li>
+      <li>
+        <a href="/schedule"{% if page.url == '/schedule' %} class="is_current"{% endif %}>
+          Schedule
+        </a>
+      </li>
     </ul>
 
     <ul class="nav--secondary">
-      <li><a href="/conduct">Code of Conduct</a></li>
-      <li><a href="/faq"><abbr>FAQ</abbr></li>
-      <li><a href="/contact">Contact</a></li>
+      <li>
+        <a href="/conduct"{% if page.url == '/conduct' %} class="is_current"{% endif %}>
+          Code of Conduct
+        </a>
+      </li>
+      <li>
+        <a href="/faq"{% if page.url == '/faq' %} class="is_current"{% endif %}>
+          <abbr>FAQ</abbr>
+        </a>
+      </li>
+      <li>
+        <a href="/contact">
+          Contact
+        </a>
+      </li>
     </ul>
   </nav>
 </header>

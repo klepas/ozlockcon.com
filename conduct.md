@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /conduct/
-title: "Code of Conduct"
+permalink: /conduct
 slug: conduct
+title: "Code of Conduct"
 ---
 
 This is our community’s Code of Conduct. We encourage everyone to read it. If you have any questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.email }}">contact us</a>**.

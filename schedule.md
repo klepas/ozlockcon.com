@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "schedule"
+permalink: /schedule
+slug: schedule
+title: "Schedule"
 ---
 
 Build a table here for day 1 & 2.

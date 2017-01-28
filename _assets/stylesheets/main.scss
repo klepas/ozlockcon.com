@@ -226,6 +226,10 @@ header[role='banner'] {
 
             color: transparentize($nav-link-colour, 0);
           }
+
+          &.is_current {
+            border-bottom: 3px solid transparentize($nav-link-colour, .5);
+          }
         }
       }
     }

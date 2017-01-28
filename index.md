@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "OzLockCon 2017"
+permalink: /
 slug: home
+title: "OzLockCon 2017"
 ---
 
 ## What's this?
