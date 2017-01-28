@@ -2,9 +2,13 @@
 // #  Page header styling
 //
 header[role='banner'] {
+  @include media($tablet) {
+    background-position: center center;
+  }
+
   background-color: $off-black;
   background-image: url(asset_path('background.jpg'));
-  background-position: center center;
+  background-position: top right;
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom: 3px solid $off-black;
