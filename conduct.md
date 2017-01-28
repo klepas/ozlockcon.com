@@ -34,20 +34,20 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 <small>[ §3 ]</small>
 
-The following behaviours are expected and requested of all community members:
+The following behaviours are expected and requested of all conference members:
 
 - Please participate in an active and/or authentic way. In doing so, you contribute to the health and longevity of this community.
 - Exercise consideration and respect in your speech and actions.
 - Attempt collaboration before conflict.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Be mindful of your surroundings and of your fellow participants. Alert the OzLockCon Crew if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## Unacceptable behaviour
 
 <small>[ §4 ]</small>
 
-The following behaviours are considered harassment and are unacceptable within our community:
+The following behaviours are considered harassment and are unacceptable within our conference:
 
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -65,11 +65,11 @@ The following behaviours are considered harassment and are unacceptable within o
 
 <small>[ §5 ]</small>
 
-Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, **will not be tolerated**.
+Unacceptable behaviour from any conference-goer, including sponsors and those with decision-making authority, **will not be tolerated**.
 
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
-If a community member engages in unacceptable behaviour, the community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning, or the calling of local police.
+If a conference-goer engages in unacceptable behaviour, the OzLockCon Crew may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the conference without warning, or the calling of local police.
 
 Anyone who is expelled should not expect to receive a refund.
 
@@ -77,15 +77,15 @@ Anyone who is expelled should not expect to receive a refund.
 
 <small>[ §6 ]</small>
 
-If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organiser as soon as possible. You can also **<a href="mailto:{{ site.email }}">email us</a>**.
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a anyone from the OzLockCon Crew as soon as possible. You can also **<a href="mailto:{{ site.email }}">email us</a>**.
 
-Additionally, community organisers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
+Additionally, OzLockCon Crew are available to help conference-goers engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
 
 ## Addressing grievances
 
 <small>[ §7 ]</small>
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the event organisers with a concise description of your grievance. Your grievance will be handled jointly by the organisers. As necessary, we may seek legal advice, and seek an outcome directed in the spirit of this Code of Conduct.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the event organisers with a concise description of your grievance. Your grievance will be handled jointly by the OzLockCon Crew. As necessary, we may seek legal advice, and seek an outcome directed in the spirit of this Code of Conduct.
 
 We may chose to make public reference to a warning during and/or after the event, in a general manner. In the event of an expulsion or otherwise serious breach of the Code of Conduct, we will publicly make reference to the breach, while respecting first and foremost the desired privacy of any victim(s).
 
@@ -93,15 +93,15 @@ We may chose to make public reference to a warning during and/or after the event
 
 <small>[ §8 ]</small>
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all conference venues–online and in-person–as well as in all one-on-one communications pertaining to conference business.
 
-This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
+This Code of Conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of conference activities when such behaviour has the potential to adversely affect the safety and well-being of conference members.
 
 ## Contact info
 
 <small>[ §9 ]</small>
 
-Outside of finding a community organiser in person, please **<a href="mailto:{{ site.email }}">contact us via email</a>**.
+Outside of finding someone from the OzLockCon Crew in person, please **<a href="mailto:{{ site.email }}">contact us via email</a>**.
 
 ## License and attribution
 
