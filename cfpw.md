@@ -25,9 +25,10 @@ either a talk or workshop.
 We are looking for presenters to talk on a wide range of topics in an informal
 environment amongst their peers.
 
-Besides the following topics, in the hacker-spirit of things, we’d love
-submissions that hold great technical detail and/or provide a critical view at
-an aspect or technology within the domain of physical security.
+Besides the following topics, in [the hacker-spirit of things](/faq#who-are-you)
+we’d love submissions that hold great **technical detail** and/or provide a
+**critical view** at an aspect or technology within the domain of physical
+security.
 
 So, some topic ideas—
 
@@ -57,8 +58,9 @@ So, some topic ideas—
 * RFID/Magstripe/Smartcard security
 * social engineering
 
-If you think your topic might still be of interest but isn't explicitly listed
-here, please submit anyway and we will be happy to review it regardless.
+<small>If you think your topic might still be of interest but isn't explicitly
+listed here, please submit anyway and we will be happy to review it regardless.
+</small>
 
 ## Call for Workshops
 
