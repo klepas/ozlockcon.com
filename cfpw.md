@@ -11,16 +11,25 @@ OzLockCon aims to be the first conference in Australia catering specifically to
 physical security research and offensive | defensive techniques.
 
 We aim to bring the openness and desire to share information found in the
-information security industry to a different crowd. We are looking for
-presenters to talk on a wide range of topics in an informal environment amongst
-their peers.
+*information security industry* to a different crowd.
+
+### Submissions
 
 Please **[fill out our CFP/W Google Form](%missing_url%)** if you wish to submit a proposal for
 either a talk or workshop.
 
+<small>The call will close <strong>April 30th 2017</strong>.</small>
+
 ### Talk topics
 
-We are interested in the following topics:
+We are looking for presenters to talk on a wide range of topics in an informal
+environment amongst their peers.
+
+Besides the following topics, in the hacker-spirit of things, we’d love
+submissions that hold great technical detail and/or provide a critical view at
+an aspect or technology within the domain of physical security.
+
+So, some topic ideas—
 
 * picking techniques
 * bypass techniques and tools
@@ -50,8 +59,6 @@ We are interested in the following topics:
 
 If you think your topic might still be of interest but isn't explicitly listed
 here, please submit anyway and we will be happy to review it regardless.
-
-Make sure to submit early! The call will close April 30th 2017.
 
 ## Call for Workshops
 
