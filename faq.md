@@ -24,7 +24,7 @@ regarded as highly as our fellow communities overseas.
 We hope that the knowledge we share will be used for the betterment of all of us
 and that the result of the conference will be a greater awareness of the
 challenges faced when dealing with physical security. We also hope that those
-that attend enjoy and compete in the competitions we have planned.
+that attend enjoy and compete in the competitions, and/or workshops, we have planned.
 
 ## Is this legal?
 
