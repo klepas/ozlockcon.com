@@ -28,12 +28,11 @@ that attend enjoy and compete in the competitions, and/or workshops, we have pla
 
 ## Is this legal?
 
-Yes.
+Yes. In our opinion, this is no different to information security/‘hacker’ conferences which is where this all first started for us.
 
 ## Is possession of lockpicking tools legal?
 
-It depends on which State/Territory you live in -- possession within your own
-home is legal in most of Australia.
+Our friends at Pickpals hired some lawyers a while ago to answer this question. See here for details https://www.pickpals.com.au/guide/
 
 %further info re VIC?%
 
