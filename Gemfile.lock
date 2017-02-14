@@ -79,7 +79,7 @@ DEPENDENCIES
   neat
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.1.5p273
 
 BUNDLED WITH
-   1.13.6
+   1.14.4
