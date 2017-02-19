@@ -80,9 +80,11 @@ If you need to build the site manually (eg for a manual deploy, or for developme
 3. install dependencies (pulled from `Gemfile`)
 4. run/build
 
+(I’m skipping the setup of Ruby here--have fun with that. FWIW, klepas uses [rbenv](https://github.com/rbenv/rbenv).)
+
 ```shell
 git clone git@github.com:klepas/ozlockcon.com.git
-code ozlockcon.com
+cd ozlockcon.com
 bundle install
 ```
 
@@ -96,7 +98,7 @@ bundle exec jekyll serve
 bundle exec jekyll build
 ```
 
-The generated output files (html/css/…) will reside in `_site/`.
+The generated output files (html/css/…) will reside in the `_site/` folder.
 
 
 **[⬆ back to top](#content)**
@@ -107,7 +109,9 @@ The generated output files (html/css/…) will reside in `_site/`.
 
 Code is licensed under [MIT](https://raw.githubusercontent.com/klepas/ozlockcon.com/master/LICENSE).
 
+Content is © 2016– OzLockCon Crew.
+
 
 **[⬆ back to top](#content)**
 
-# };
+# %}
