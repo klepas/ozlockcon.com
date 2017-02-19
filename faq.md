@@ -32,8 +32,7 @@ Yes.  In our opinion, this is no different to information security/‘hacker’ 
 
 ## Is possession of lockpicking tools legal?
 
-Our friends at Pickpals hired some lawyers a while ago to answer this question. See here for details [Pickpals [<abbr title="Pickpals">
-PickPals</abbr>](https://www.pickpals.com.au/guide/).]
+Our friends at Pickpals hired some lawyers a while ago to answer this question. See here for details: (https://www.pickpals.com.au/guide/).
 
 %further info re VIC?%
 
