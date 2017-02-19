@@ -24,6 +24,7 @@ regarded as highly as our fellow communities overseas.
 We hope that the knowledge we share will be used for the betterment of all of us
 and that the result of the conference will be a greater awareness of the
 challenges faced when dealing with physical security. We also hope that those
+
 that attend enjoy and compete in the competitions and/or workshops, we have
 planned.
 
@@ -35,6 +36,7 @@ conferences which is where this all first started for us.
 ## Is possession of lockpicking tools legal?
 
 [Our friends at Pickpals hired some lawyers a while ago to answer this question](https://www.pickpals.com.au/guide/).
+
 
 %further info re VIC?%
 

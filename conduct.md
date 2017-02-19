@@ -44,6 +44,7 @@ The following behaviours are expected and requested of all conference members:
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 - Although our staff endeavour to supervise where possible, we can't be everywhere at once: it is your responsibility to look after any tools or other personal assets you bring along.
 
+
 ## Unacceptable behaviour
 
 <small>[ §4 ]</small>
