@@ -34,7 +34,6 @@ gems:
   - jekyll-assets
   - bourbon
   - neat
-  - bitters
 
 exclude:
   - vendor
