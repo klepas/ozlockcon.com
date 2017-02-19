@@ -10,19 +10,24 @@ title: "OzLockCon 2017"
 OzLockCon aims to be the first open and inclusive community event focusing on
 physical security controls in Australia.
 
-The con aims to introduce people from all areas of security, whether
-professionals or hobbyists, to new techniques, tools, and ideas in order to
-learn new skills or refine them.
+The conference aims to introduce people from all areas of security, whether
+professionals or hobbyists, to new techniques, tools and ideas in order to learn
+new skills or refine existing ones.
+
 
 We hope to have both standard talks and a variety of on-going workshops open to
 attendees with industry-leading presenters and tutors.
 
-## Conference date
 
-The conference is scheduled to run in early 2017, likely around April/May and
-will be held in either Sydney or Melbourne.
+We hope to have both standard talks and a variety of on-going workshops open to
+attendees with industry-leading presenters and tutors across a diverse range of
+topics.
 
-Stay tuned.
+Our aim is to cover not only traditional physical security controls (such as
+locks and safes) but more modern access control systems that are increasingly
+becoming more digital as time goes on. This will not only include
+network-connected devices but also devices relying on radio communications in
+order to operate.
 
 ## What's the plan?
 

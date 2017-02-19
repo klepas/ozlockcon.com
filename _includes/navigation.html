@@ -1,0 +1,44 @@
+<nav class="header--navigation" aria-label="main navigation">
+  <div class="header--logo">
+    {% img '{{ asset_path }}skully.png' alt:'Skully, the OzLockCon logomark' magick:resize:128x128 %}
+  </div>
+  <ul class="nav--primary">
+    {% unless page.url == '/' %}
+    <li><a href="/">Home</a></li>
+    {% endunless %}
+
+    <li>
+      <a href="/cfpw"{% if page.url == '/cfpw' %} class="is-current"{% endif %}>
+        Call for Papers &amp; Workshops
+      </a>
+    </li>
+    <li>
+      <a href="/schedule"{% if page.url == '/schedule' %} class="is-current"{% endif %}>
+        Schedule
+      </a>
+    </li>
+  </ul>
+
+  <ul class="nav--secondary">
+    <li>
+      <a href="/conduct"{% if page.url == '/conduct' %} class="is-current"{% endif %}>
+        Code of Conduct
+      </a>
+    </li>
+    <li>
+      <a href="/faq"{% if page.url == '/faq' %} class="is-current"{% endif %}>
+        <abbr>FAQ</abbr>
+      </a>
+    </li>
+    <li>
+      <a href="/sponsors"{% if page.url == '/sponsors' %} class="is-current"{% endif %}>
+        Sponsors
+      </a>
+    </li>
+    <li>
+      <a href="mailto:{{ site.email }}">
+        Contact
+      </a>
+    </li>
+  </ul>
+</nav>
