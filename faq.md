@@ -13,7 +13,7 @@ and IT security professionals, but we're all locksport hobbyists -- what binds
 us all is our common interest in locks.
 
 In early 2016 we started a chat channel as a place for like-minded people to
-disucss and share knowledge around physical security. For the most part, we
+discuss and share knowledge around physical security. For the most part, we
 grew from 'hacker-conferences' and as such, we've embraced the hacker spirit of
 sharing information, teaching each other and learning together.
 
@@ -24,16 +24,17 @@ regarded as highly as our fellow communities overseas.
 We hope that the knowledge we share will be used for the betterment of all of us
 and that the result of the conference will be a greater awareness of the
 challenges faced when dealing with physical security. We also hope that those
-that attend enjoy and compete in the competitions we have planned.
+that attend enjoy and compete in the competitions and/or workshops, we have
+planned.
 
 ## Is this legal?
 
-Yes.
+Yes. In our opinion, this is no different to information security/‘hacker’
+conferences which is where this all first started for us.
 
 ## Is possession of lockpicking tools legal?
 
-It depends on which State/Territory you live in -- possession within your own
-home is legal in most of Australia.
+[Our friends at Pickpals hired some lawyers a while ago to answer this question](https://www.pickpals.com.au/guide/).
 
 %further info re VIC?%
 

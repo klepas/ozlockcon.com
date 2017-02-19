@@ -42,6 +42,7 @@ The following behaviours are expected and requested of all conference members:
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech.
 - Be mindful of your surroundings and of your fellow participants. Alert the OzLockCon Crew if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Although our staff endeavour to supervise where possible, we can't be everywhere at once: it is your responsibility to look after any tools or other personal assets you bring along.
 
 ## Unacceptable behaviour
 
@@ -60,6 +61,7 @@ The following behaviours are considered harassment and are unacceptable within o
 - Deliberate intimidation, stalking or following (online or in person).
 - Advocating for, or encouraging, any of the above behaviour.
 - Sustained disruption of community events, including talks and presentations.
+- Anything illegal (duh).
 
 ## Consequences of unacceptable behaviour
 
