@@ -1,6 +1,6 @@
 <nav class="header--navigation" aria-label="main navigation">
   <div class="header--logo">
-    <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_square.png" alt="Logo image">
+    {% img '{{ asset_path }}skully.png' alt:'Skully, the OzLockCon logomark' magick:resize:128x128 %}
   </div>
   <ul class="nav--primary">
     {% unless page.url == '/' %}
