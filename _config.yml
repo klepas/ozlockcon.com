@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OzLockCon
-year: 2017
+con_year: 2017
+con_date: June 3–4th
+con_location: Melbourne
 email: admin@ozlockcon.com
 description: > # this means to ignore newlines until "baseurl:"
   Australia's first conference dedicated to Locksport
