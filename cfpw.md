@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /cfpw
+permalink: /cfpw/
 slug: cfpw
 title: "Call for Papers & Workshops"
 ---

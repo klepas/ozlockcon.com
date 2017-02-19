@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /faq
+permalink: /faq/
 slug: faq
 title: "FAQ"
 ---
