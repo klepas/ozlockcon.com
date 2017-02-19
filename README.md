@@ -10,7 +10,7 @@ OzLockCon Jekyll website
 
 * [Configuration](#configuration)
 * [Editing content](#editing-content)
-* [Build dependencies](#build-dependencies)
+* [Dependencies](#dependencies)
 * [Building](#building)
 * [License](#license)
 
@@ -55,13 +55,14 @@ If you add a new page you will have to manually add it to the navigation include
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Build dependencies
+## Dependencies
 
 To build the site locally you will need:
 
 - Ruby 2.3.1 (haven’t tested with later versions; should work fine)
 - [Jekyll](https://jekyllrb.com/) `3.3.0` (Ruby-based static site generator)
 - [jekyll-assets](https://github.com/jekyll/jekyll-assets) (an asset pipeline)
+- [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/)
 
 We have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `master` branch.
 
