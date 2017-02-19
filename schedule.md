@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule
+permalink: /schedule/
 slug: schedule
 title: "Schedule"
 ---

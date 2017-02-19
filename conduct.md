@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /conduct
+permalink: /conduct/
 slug: conduct
 title: "Code of Conduct"
 ---
