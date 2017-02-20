@@ -8,11 +8,12 @@
     {% if page.url == '/' %}
     <h1>{{ site.title }} {{ site.con_year }}</h1>
     {{ site.description | markdownify }}
-    <p>{{ site.con_date }}, {{ site.con_location }}</p>
+    <p>{{ site.con_date }} {{ site.con_location }}</p>
 
     {% else %}
     <h1>{{ page.title }}</h1>
     <p>for {{ site.title }} {{ site.con_year }}</p>
+    <p>{{ site.con_date }} {{ site.con_location }}</p>
     {% endif %}
 
   </div>

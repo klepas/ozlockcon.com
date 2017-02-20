@@ -15,8 +15,10 @@ We aim to bring the openness and desire to share information found in the
 
 ### Submissions
 
-Please **[fill out our CFP/W Google Form](%missing_url%)** if you wish to submit a proposal for
+Please fill out the respective Google Form if you wish to submit a proposal for
 either a talk or workshop.
+
+**[Talks](https://docs.google.com/forms/d/e/1FAIpQLScnTJSsOE7BQQhB9h-7vX8-ZSq3yEYInoZ1oaCx449BjGocjQ/viewform)**       **[Workshops](https://docs.google.com/forms/d/e/1FAIpQLSek7UopUnAegE6837dtcE-PcPeQDq_yUSOFvc7DE_nArDE0Vw/viewform)**
 
 <small>The call will close <strong>April 30th 2017</strong>.</small>
 
