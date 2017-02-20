@@ -9,7 +9,7 @@ title: "Sponsorship"
 
 OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts ranging from locksmiths to information security professionals to backyard hobbyists.
 
-Our hope is to bring the community together create a conference where we can share knowledge and build awareness around physical security while sharing ideas for future research and inspiring one another.
+Our hope is to bring the community together to create a conference where we can share knowledge and build awareness around physical security while sharing ideas for future research and inspiring one another.
 
 We are aiming to provide a wide range of experiences for attendees and expect to accommodate at least 200 security professionals and hobbyists to this event. Our expectation is that this event will be run ‘at cost’ with all funds going towards providing the best experience we can possibly offer for everyone involved. 
 
