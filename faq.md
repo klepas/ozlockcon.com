@@ -10,7 +10,7 @@ title: "FAQ"
 We are a loose knit group of physical security enthusiasts. We come from a wide
 variety of backgrounds; some of us are security professionals such as locksmiths
 and IT security professionals, but we're all locksport hobbyists -- what binds
-us all is our common interest in locks.
+us all is our common interest and passion for locks.
 
 In early 2016 we started a chat channel as a place for like-minded people to
 discuss and share knowledge around physical security. For the most part, we
@@ -25,21 +25,27 @@ We hope that the knowledge we share will be used for the betterment of all of us
 and that the result of the conference will be a greater awareness of the
 challenges faced when dealing with physical security. We also hope that those
 that attend enjoy and compete in the competitions and/or workshops, we have
-planned.
+planned. 
+
 
 ## Is this legal?
 
 Yes. In our opinion, this is no different to information security/‘hacker’
-conferences which is where this all first started for us.
+conferences which is where this community primarily grew from. 
+
 
 ## Is possession of lockpicking tools legal?
 
-[Our friends at Pickpals hired some lawyers a while ago to answer this question](https://www.pickpals.com.au/guide/).
-
-
-%further info re VIC?%
+[Some information that is relevant](https://www.sentencingcouncil.vic.gov.au/sites/default/files/publication-documents/Review%20of%20Maximum%20Penalties%20for%20Preparatory%20Offences%20Report.pdf).
+The summary of this is, according to our interpretation, that possession of lock 
+picking equipment is legal as long as a reasonable explanation can be demonstrated for such. 
+We are however, not lawyers. If this is of particular concern to you, it would be
+our reccomendation that you consult a professional lawyer for legal advice. 
 
 ## Aren't you teaching wannabe criminals?
+
+We hope not. Anyone found to have criminal intent attending the conference
+will be summarily booted and reported to the authorities. 
 
 We're going to borrow a quote as an answer:
 
