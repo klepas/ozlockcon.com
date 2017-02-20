@@ -135,9 +135,5 @@
     @include media($desktop) {
       flex-grow: 1;
     }
-
-    li {
-      font-size: rem(16);
-    }
   }
 }
