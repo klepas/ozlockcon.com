@@ -90,11 +90,6 @@
         padding-right: 0;
       }
     }
-    @include media($desktop) {
-      display: inline;
-      margin-bottom: 0;
-      text-align: left;
-    }
 
     font-size: rem(19);
     list-style: none;
@@ -124,16 +119,7 @@
     @include media($tablet) {
       margin-bottom: 0;
     }
-    @include media(1300px) {
-      max-width: 620px;
-    }
 
     margin-bottom: $line-single;
-  }
-
-  .nav--secondary {
-    @include media($desktop) {
-      flex-grow: 1;
-    }
   }
 }
