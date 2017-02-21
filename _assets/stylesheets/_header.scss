@@ -11,13 +11,28 @@ header[role='banner'] {
   background-position: center left;
   background-repeat: no-repeat;
   background-size: cover;
-  border-bottom: 3px solid $off-black;
+  border-bottom: 3px solid $light-grey;
   color: $white;
 
-  .page-title {
-    $page-title-background: desaturate(darken($action-colour, 28%), 12%);
+  .hero__logo {
+    img {
+      @include media($tablet) {
+        margin-left: 0;
+        margin-right: 0;
+        text-align: left;
+      }
 
-    @include wrapper-padding;
+      border: 2px solid rgba(255, 255, 255, 0.1);
+      border-radius: 4px;
+      display: block;
+      height: 64px;
+      margin: $line-half auto;
+      width: 64px;
+    }
+  }
+
+  .hero {
+    $page-title-background: desaturate(darken($action-colour, 28%), 12%);
 
     background: transparentize($page-title-background, .2);
     padding-bottom: $line-single;
@@ -29,9 +44,11 @@ header[role='banner'] {
       @include media($tablet) {
         font-size: rem(48);
         margin-bottom: 0;
+        margin-top: 0;
         text-align: left;
       }
 
+      display: block;
       font-size: rem(32);
     }
 

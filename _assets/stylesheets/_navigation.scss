@@ -12,7 +12,8 @@
   }
 
   display: inline-block;
-  margin-top: $line-single;
+  margin-top: $line-half;
+  margin-bottom: $line-single;
   position: absolute;
   text-align: center;
   z-index: 2;
@@ -29,60 +30,27 @@
   $nav-link-colour: transparentize($nav-colour, .2);
   $footer-disclaimer-color: transparentize($nav-colour, .6);
 
-  @include media($tablet) {
-    align-items: center;
-    display: flex;
-  }
-
   background: transparentize($nav-background, .12);
   padding: $line-single;
   text-shadow: 1px 1px 3px $nav-background;
   width: 100%;
 
-  .header--logo {
-    @include media($tablet) {
-      margin-right: $line-single;
-      padding-left: $gutter;
-    }
-    @include media($desktop) {
-      align-self: center;
-    }
-
-    margin-right: 0;
-
-    img {
-      @include media($tablet) {
-        height: 48px;
-        margin-bottom: 0;
-        margin-left: 0;
-        margin-right: 0;
-        text-align: left;
-        width: 48px;
-      }
-
-      border: 1px solid black;
-      border-radius: 4px;
-      display: block;
-      height: 64px;
-      margin-bottom: $line-single;
-      margin-left: auto;
-      margin-right: auto;
-      width: 64px;
-    }
-  }
-
   ul {
     @include media($tablet) {
+      align-items: baseline;
+      display: flex;
+      flex-wrap: wrap;
+      align-content: flex-start;
       margin-bottom: 0;
     }
 
-    flex-grow: 2;
     margin: 0 0 $line-half;
     padding: 0;
   }
 
   li {
     @include media($tablet) {
+      margin-bottom: 0;
       padding-right: $line-single;
       text-align: left;
 
@@ -91,6 +59,8 @@
       }
     }
 
+    flex-grow: 1;
+    flex-shrink: 0;
     font-size: rem(19);
     list-style: none;
     margin-bottom: $line-quarter;
