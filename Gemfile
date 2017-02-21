@@ -14,7 +14,6 @@ gem "jekyll", "3.3.0"
 gem "jekyll-assets"
 gem "bourbon"
 gem "neat"
-gem "bitters"
 gem "autoprefixer-rails"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

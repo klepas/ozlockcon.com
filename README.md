@@ -59,12 +59,12 @@ If you add a new page you will have to manually add it to the navigation include
 
 To build the site locally you will need:
 
-- Ruby 2.3.1 (haven’t tested with later versions; should work fine)
+- Ruby `2.3.1` (haven’t tested with later versions; should work fine)
 - [Jekyll](https://jekyllrb.com/) `3.3.0` (Ruby-based static site generator)
 - [jekyll-assets](https://github.com/jekyll/jekyll-assets) (an asset pipeline)
 - [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/)
 
-We have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `master` branch.
+We sorta have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `master` branch. This currently points to an Amazon S3 bucket... but our web server is elsewhere so poke @klepas to do a build if you can’t and/or can’t cp files to the box.
 
 
 **[⬆ back to top](#content)**
@@ -77,10 +77,10 @@ If you need to build the site manually (eg for a manual deploy, or for developme
 
 1. clone the repo
 2. set up ruby
-3. install dependencies (pulled from `Gemfile`)
+3. install dependencies (pulled from the `Gemfile`)
 4. run/build
 
-(I’m skipping the setup of Ruby here--have fun with that. FWIW, klepas uses [rbenv](https://github.com/rbenv/rbenv).)
+(I’m skipping the setup of Ruby here — have fun with that. FWIW, klepas uses [rbenv](https://github.com/rbenv/rbenv), and he hears that [rvm](https://rvm.io/) is similarly OK.)
 
 ```shell
 git clone git@github.com:klepas/ozlockcon.com.git
