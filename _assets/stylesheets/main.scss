@@ -139,3 +139,7 @@ $base-timing: ease;
 @import 'navigation';
 @import 'main-typography';
 @import 'footer';
+
+.wrapper {
+  @include wrapper;
+}

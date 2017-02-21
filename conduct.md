@@ -68,7 +68,7 @@ The following behaviours are considered harassment and are unacceptable within o
 
 <small>[ §5 ]</small>
 
-Unacceptable behaviour from any conference-goer, including sponsors and those with decision-making authority, **will not be tolerated**.
+Unacceptable behaviour of any sort, listed here explicity or not, from any conference-goer, including sponsors and those with decision-making authority, **will not be tolerated**.
 
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 

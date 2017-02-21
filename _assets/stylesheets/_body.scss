@@ -20,12 +20,12 @@ body {
 
 main {
   @include wrapper-padding;
+  @include outer-container;
 
   @include media($desktop) {
     padding-top: $line-double;
   }
 
-  border-top: 3px solid $light-grey;
   padding-top: $line-single;
 }
 
