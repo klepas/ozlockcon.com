@@ -20,21 +20,21 @@ range of topics. In addition, we will be running a variety of competitions
 throughout the weekend with prizes on offer for those who win!
 
 Our aim is to cover not only traditional physical security controls (such as
-locks and safes) but more modern access control systems that are increasingly
-becoming more digital as time goes on. This will not only include
-network-connected devices but also devices such as those relying on radio
-communications in order to operate.
+locks and safes) but more modern access control systems (alarm systems and RFID)
+that are increasingly becoming more digital as time goes on. 
+This will not only include network-connected devices but also devices such as 
+those relying on radio communications in order to operate.
 
 We hope that all those attending find the experience both informative, engaging
 and importantly, fun!
 
 ## What's the plan?
 
-The conference will run on the 3rd and 4th of June 2017 and be held in Melbourne
-at "The Comics Lounge" located at 26 Errol St, North Melbourne VIC 3051 and be held
-from 10AM to 6PM each day.
+OzLockCon will be held on the 3rd and 4th of June 2017 in Melbourne between 
+10AM to 6PM each day.
 
-We’ve got a map at [the bottom of the page](#venue-map) for you.
+The Venue, "The Comics Lounge" is located at 26 Errol St, North Melbourne VIC 3051
+See the map at [the bottom of the page](#venue-map) for directions.
 
 Content will include...
 
@@ -49,9 +49,10 @@ time-honoured techniques as well as cutting edge research.
 
 Workshops are run by experts who will demonstrate attacks such as
 impressioning, lock picking, safe manipulation, bumping, bypass techniques
-and more. These provide an excellent opportunity to practice and refine both old and new skills.
+and more. These provide an excellent opportunity to practice and refine your skills regardless
+of your previous experience.
 
-Workshops will run anywhere between an hour to all-day long and classes will be of various sizes.
+Workshops will run anywhere between an hour to all-weekend long without fixed class sizes.
 
 ### Demonstrations
 
@@ -73,8 +74,8 @@ competitions will be announced closer to the date.
 
 On the final day we will be running a panel consisting of industry leaders and various
 experts including law enforcement, information security professionals, industry
-representatives and hobbyists discussing a wide variety of topics regarding physical
-security in Australia and around the world.
+representatives and hobbyists. Our esteemed panel members will be discussing a wide 
+variety of topics regarding physical security and locksport as a hobby in Australia.
 
 ## Venue map
 
