@@ -109,6 +109,8 @@ The generated output files (html/css/…) will reside in the `_site/` folder.
 
 Code is licensed under [MIT](https://raw.githubusercontent.com/klepas/ozlockcon.com/master/LICENSE).
 
+[Code of Conduct](https://raw.githubusercontent.com/klepas/ozlockcon.com/master/conduct.md) is licensed under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+
 Content is © 2016– OzLockCon Consmiths.
 
 
