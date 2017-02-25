@@ -78,6 +78,7 @@ main {
     border-top: 1px solid $light-grey;
     height: 0;
     margin: $line-single 0;
+    max-width: 50em;
     overflow: visible;
   }
 }

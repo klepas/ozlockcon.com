@@ -7,45 +7,80 @@ title: "Sponsorship"
 
 ## Interested in being a sponsor?
 
-OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts ranging from locksmiths to information security professionals to backyard hobbyists.
+OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
 
-Our hope is to bring the community together to create a conference where we can share knowledge and build awareness around physical security while sharing ideas for future research and inspiring one another.
+The conference aims to bring this community together to share knowledge and build awareness around physical security, and to both enable and inspire future research.
 
-We are aiming to provide a wide range of experiences for attendees and expect to accommodate at least 200 security professionals and hobbyists to this event. Our expectation is that this event will be run ‘at cost’ with all funds going towards providing the best experience we can possibly offer for everyone involved.
+We expect to accommodate at least 200 security professionals and hobbyists to this event. Our expectation is that this event will be run ‘at cost’ with all funds going towards providing the best experience we can possibly offer for everyone involved.
 
-We aim to run a combination of talks alongside several other workshops as well as competitions. This should allow attendees to both learn by listening and through hands-on workshops.
+We aim to run a combination of talks, several workshops, and a number of competitions. This should allow attendees to both learn by listening and through hands-on opportunities.
 
-With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the Saturday and Sunday after-parties bar-tabs.
+With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the Saturday and Sunday after-party bar tabs.
 
-While this is the first time OzLockCon has been organised, the team running the conference has for several years, been heavily involved with running similar sized information security conferences across Australia.
+While this is the first time OzLockCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
 
-We ask that you consider the sponsorship packages below in order to help the community to grow, learn and have a great experience:
+- [AppSec Day](https://www.eventbrite.com.au/e/owasp-melbourne-appsec-day-tickets-27378844862#)
+- [AusCERT](https://conference.auscert.org.au/)
+- [BSides Canberra](http://bsidesau.com.au/)
+- [CrikeyCon](https://www.crikeycon.com/)
+- [Kiwicon](https://kiwicon.org/)
+- [Platypus Con](https://letsjusthackshit.org/platypuscon2016.html)
+- [Ruxcon](https://ruxcon.org.au/)
+- [Unrestcon](http://unre.st)
 
-### Tier 1 – $10K for a single special sponsor
+We ask that you consider the sponsorship packages below in order to help us deliver the best OzLockCon experience for this community:
 
-You get to strategically place 2 banners at the entrance of the con, as well as a logo next to the main stage for presenters. Additionally, you will have your logo featured on the landing page of the website as well as the sponsors page. You will also have your organisation individually called out and thanked at both the opening and closing ceremonies. You will also receive 5 complimentary tickets to distribute to whoever you choose and special badges indicating you helped sponsor OzLockCon. In addition, your company logo will be featured on the badge indicating that you helped make OzLockCon a reality!
+### Tier 1 --– $10K for a single special sponsor
 
-### Tier 2 - $5K up to 5 sponsors
+&rarr; **[Contact us](mailto:{{ site.email }})**
 
-The money from this Tier will primarily be used to pay for workshops and the after-parties. At the commencement and closing of the workshops and parties we will thank an organisation for their contribution. If you'd like to sponsor a particular party or workshop, please let us know and we will allocate accordingly.
+Perks:
 
-We will also include your company logo and a link to your site on the Website sponsorship page with placement below the Tier 1 sponsor logo.
+- strategically place 2 banners at the entrance
+- have your logo featured next to the main stage
+- have your logo & link featured on the homepage of this website
+- have your logo featured prominently in the opening and closing ceremony slides
+- have your organisation individually called out and thanked at the opening and closing ceremonies
+- have your logo featured on the conference badge
 
-Your company logo will also be included on opening and closing slides to say thanks.
+Additionally your organisation will receive 5 complimentary tickets to distribute as you like, and 5 special badges from us to mark your attendance and sponsorship.
 
-You will also receive 2 complimentary tickets to distribute to whoever you choose and special badges indicating you helped sponsor OzLockCon.
+### Tier 2 --- $5K up to 5 sponsors
 
-### Tier 3 - $2K unlimited sponsors
+&rarr; **[Contact us](mailto:{{ site.email }})**
 
-Website sponsorship page with company logo and link to website with placement below the Tier 2 sponsor logos
-Your Company logo will also be included on opening and closing slides to say thanks.
+Perks:
 
-You will also receive 1 complimentary ticket and a special badge indicating you helped sponsor OzLockCon.
+- have your logo & link featured under the sponsorship page, underneath the Tier 1 sponsor
+- have your logo featured in the opening and closing ceremony slides
+- receive a callout and thanks at start and end of each sponsored workshop
+- receive a callout and thanks at the particular after-party
+
+Additionally your organisation will receive 2 complimentary tickets to distribute as you like, and 2 special badges from us to mark your attendance and sponsorship.
+
+<small>The money from this Tier will primarily be used to pay for workshops and the after-parties. If you'd like to sponsor a particular party or workshop, please let us know.</small>
+
+### Tier 3 --- $2K unlimited sponsors
+
+&rarr; **[Contact us](mailto:{{ site.email }})**
+
+Perks:
+
+- have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors
+- have your logo featured in the opening and closing ceremony slides
+
+Additionally your organisation will receive 1 complimentary ticket, and a special badge from us to mark your attendance and sponsorship.
 
 ***
 
-If you are interested in setting up a stall to sell tools/locks/provide demonstrations as a corporate entity, please [get in touch via email](mailto:{{ site.email }}) and we will be willing to discuss. We are also open to donations of tools and other lock or security hardware and would love to speak to you if you can help with that.
+If you are interested in setting up a stall to sell tools/locks or provide demonstrations as a corporate entity, please [get in touch via email](mailto:{{ site.email }}).
 
-If you have an idea or want to sponsor something specific not listed here, we would be happy to discuss further as well.
+We are also open to donations of tools and other lock or security hardware and would love to speak to you if you can help with that.
 
-Please help us make OzLockCon a reality!
+If you have an idea or want to sponsor something specific not listed above, please get in touch.
+
+Note: as a sponsor we do ask your organisation’s representatives to follow our [Code of Conduct](/conduct/).
+
+***
+
+Thank you for considering to help us make OzLockCon a reality!
