@@ -91,5 +91,10 @@
     }
 
     margin-bottom: $line-single;
+
+    // Emphasised nav item styling
+    .cta {
+      font-weight: bold;
+    }
   }
 }
