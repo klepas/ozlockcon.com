@@ -40,7 +40,7 @@ The following behaviours are expected and requested of all conference members:
 - Exercise consideration and respect in your speech and actions.
 - Attempt collaboration before conflict.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert the OzLockCon Crew if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Be mindful of your surroundings and of your fellow participants. Alert the OzLockCon Consmiths if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 - Although our staff endeavour to supervise where possible, we can't be everywhere at once: it is your responsibility to look after any tools or other personal assets you bring along.
 
@@ -72,7 +72,7 @@ Unacceptable behaviour of any sort, listed here explicity or not, from any confe
 
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
-If a conference-goer engages in unacceptable behaviour, the OzLockCon Crew may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the conference without warning, or the calling of local police.
+If a conference-goer engages in unacceptable behaviour, the OzLockCon Consmiths may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the conference without warning, or the calling of local police.
 
 Anyone who is expelled should not expect to receive a refund.
 
@@ -80,15 +80,15 @@ Anyone who is expelled should not expect to receive a refund.
 
 <small>[ §6 ]</small>
 
-If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a anyone from the OzLockCon Crew as soon as possible. You can also **<a href="mailto:{{ site.email }}">email us</a>**.
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a anyone from the OzLockCon Consmiths as soon as possible. You can also **<a href="mailto:{{ site.email }}">email us</a>**.
 
-Additionally, OzLockCon Crew are available to help conference-goers engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
+Additionally, OzLockCon Consmiths are available to help conference-goers engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
 
 ## Addressing grievances
 
 <small>[ §7 ]</small>
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the event organisers with a concise description of your grievance. Your grievance will be handled jointly by the OzLockCon Crew. As necessary, we may seek legal advice, and seek an outcome directed in the spirit of this Code of Conduct.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the event organisers with a concise description of your grievance. Your grievance will be handled jointly by the OzLockCon Consmiths. As necessary, we may seek legal advice, and seek an outcome directed in the spirit of this Code of Conduct.
 
 We may chose to make public reference to a warning during and/or after the event, in a general manner. In the event of an expulsion or otherwise serious breach of the Code of Conduct, we will publicly make reference to the breach, while respecting first and foremost the desired privacy of any victim(s).
 
@@ -104,7 +104,7 @@ This Code of Conduct and its related procedures also applies to unacceptable beh
 
 <small>[ §9 ]</small>
 
-Outside of finding someone from the OzLockCon Crew in person, please **<a href="mailto:{{ site.email }}">contact us via email</a>**.
+Outside of finding someone from the OzLockCon Consmiths in person, please **<a href="mailto:{{ site.email }}">contact us via email</a>**.
 
 ## License and attribution
 
