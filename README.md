@@ -38,20 +38,20 @@ These are called in the [templates](https://jekyllrb.com/docs/templates/) like s
 ```
 
 
-**[⬆ back to top](#content)**
+**[↑ back to top](#content)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Editing content
 
-Easiest way is to edit the Markdown files locally.
+Easiest way is to edit the Markdown files right here on GitHub, via the web interface.
 
 The site is configured to use the [kramdown Markdown parser](https://kramdown.gettalong.org/syntax.html), which has some pretty nice syntax features.
 
 If you add a new page you will have to manually add it to the navigation include (`_includes/navigation.html`).
 
 
-**[⬆ back to top](#content)**
+**[↑ back to top](#content)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ To build the site locally you will need:
 We sorta have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `master` branch. This currently points to an Amazon S3 bucket... but our web server is elsewhere so poke @klepas to do a build if you can’t and/or can’t cp files to the box.
 
 
-**[⬆ back to top](#content)**
+**[↑ back to top](#content)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ bundle exec jekyll build
 The generated output files (html/css/…) will reside in the `_site/` folder.
 
 
-**[⬆ back to top](#content)**
+**[↑ back to top](#content)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -112,6 +112,6 @@ Code is licensed under [MIT](https://raw.githubusercontent.com/klepas/ozlockcon.
 Content is © 2016– OzLockCon Crew.
 
 
-**[⬆ back to top](#content)**
+**[↑ back to top](#content)**
 
-# %}
+# `%}`

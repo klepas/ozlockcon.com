@@ -32,7 +32,6 @@ planned.
 Yes. In our opinion, this is no different to information security/‘hacker’
 conferences which is where this community primarily grew from.
 
-
 ## Is possession of lockpicking tools legal?
 
 See [*Review of Mamimum Penalties for Preparatory Offences Report*](https://www.sentencingcouncil.vic.gov.au/sites/default/files/publication-documents/Review%20of%20Maximum%20Penalties%20for%20Preparatory%20Offences%20Report.pdf) (<small>§3.5 & §3.6</small>).

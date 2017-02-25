@@ -31,7 +31,7 @@
   $footer-disclaimer-color: transparentize($nav-colour, .6);
 
   background: transparentize($nav-background, .12);
-  padding: $line-single;
+  padding: $line-single 0;
   text-shadow: 1px 1px 3px $nav-background;
   width: 100%;
 
@@ -91,5 +91,10 @@
     }
 
     margin-bottom: $line-single;
+
+    // Emphasised nav item styling
+    .cta {
+      font-weight: bold;
+    }
   }
 }
