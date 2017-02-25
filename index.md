@@ -21,7 +21,7 @@ Included are:
 
 Our sessions will be open to all attendees, run by industry-leading instructors across a range of topics.
 
-Our aim is to cover not only traditional physical security controls (such as locks and safes) but also access control systems (alarm systems and RFID). This will include both networked and <abbr title="radio frequency">RF</abbr> devices.
+Our aim is to cover not only traditional physical security controls (such as locks and safes) but also access control systems (alarm systems and <abbr title="Radio-frequency Identification">RFID</abbr>). This will include both networked and <abbr title="radio frequency">RF</abbr> devices.
 
 We hope that all those attending find the experience both informative, engaging, and importantly, fun.
 
@@ -29,7 +29,7 @@ We hope that all those attending find the experience both informative, engaging,
 
 OzLockCon will be held on the 3rd–4th of June 2017 in Melbourne between 10AM to 6PM each day.
 
-The Venue, "The Comics Lounge" is located at 26 Errol St, North Melbourne VIC 3051. See the map at [the bottom of the page](#venue-map) for directions.
+The venue, "The Comics Lounge" is located at 26 Errol St, North Melbourne VIC 3051. There’s a [Google map at the bottom of the page](#venue-map).
 
 We will publish the schedule after the [Call for Papers & Workshops](/cfpw/) closes.
 
@@ -75,6 +75,8 @@ Our panel will discuss a wide variety of topics topical to physical security and
 
 
 ## Venue map
+
+Address: 26 Errol St, North Melbourne VIC 3051
 
 <div class="responsive-media-gmap">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.37969940352!2d144.94741535133156!3d-37.80457437965469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d39de06dfd1%3A0xf776ec3236b1c490!2s26+Errol+St%2C+North+Melbourne+VIC+3051%2C+Australia!5e0!3m2!1sen!2sus!4v1487682222679" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

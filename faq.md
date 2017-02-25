@@ -19,7 +19,7 @@ Yes. In our opinion, this conference is no different to information security/‘
 
 ## Is possession of lockpicking tools legal?
 
-See [*Review of Mamimum Penalties for Preparatory Offences Report*](https://www.sentencingcouncil.vic.gov.au/sites/default/files/publication-documents/Review%20of%20Maximum%20Penalties%20for%20Preparatory%20Offences%20Report.pdf) (<small>§3.5 & §3.6</small>).
+See [*Review of Maximum Penalties for Preparatory Offences Report*](https://www.sentencingcouncil.vic.gov.au/sites/default/files/publication-documents/Review%20of%20Maximum%20Penalties%20for%20Preparatory%20Offences%20Report.pdf) (<small>§3.5 & §3.6</small>).
 
 The summary of this is --- according to our interpretation --- that possession of lock picking equipment is legal as long as a reasonable explanation can be demonstrated. We are however, not lawyers. If this is of particular concern to you, it would be our recommendation that you consult a lawyer for legal advice.
 
