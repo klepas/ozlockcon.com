@@ -63,6 +63,7 @@ The following behaviours are considered harassment and are unacceptable within o
 - Advocating for, or encouraging, any of the above behaviour.
 - Sustained disruption of community events, including talks and presentations.
 - Anything illegal (duh).
+- Photography without the consent of ALL parties in the photograph. Please take care to avoid photographing any participant without their explicit consent and delete any images if requested.
 
 ## Consequences of unacceptable behaviour
 
