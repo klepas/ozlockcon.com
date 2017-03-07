@@ -54,7 +54,7 @@ Perks:
 
 - Placement of 2 banners at the speaker stage.
 - A logo next to the main stage for presenters.
-- Your logo & link featured on the landing page of the website.
+- Your logo & link featured on the landing page of the website, underneath the Tier 1 sponsor.
 - Your logo featured in prime position on the sponsors page.
 - Your company logo will be featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
 
