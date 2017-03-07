@@ -36,12 +36,12 @@ We ask that you consider the sponsorship packages below in order to help us deli
 
 Perks:
 
-- strategically place 2 banners at the entrance and closest to the speakers stage
-- have your logo featured closest next to the main stage
-- have your logo & link featured on the landing page of the website above other Tiers
-- have your logo featured prominently in the opening and closing ceremony slides
-- have your organisation individually called out and thanked at the opening and closing ceremonies
-- Your company logo will be prominently featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges
+- Strategically place 2 banners at the entrance and closest to the speakers stage.
+- Have your logo featured closest next to the main stage.
+- Have your logo & link featured on the landing page of the website above other Tiers.
+- Have your logo featured prominently in the opening and closing ceremony slides.
+- Have your organisation individually called out and thanked at the opening and closing ceremonies.
+- Your company logo will be prominently featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
 
 
 Additionally your organisation will receive 5 complimentary tickets to distribute as you like, and 5 special badges from us to mark your attendance and sponsorship.
@@ -52,12 +52,11 @@ Additionally your organisation will receive 5 complimentary tickets to distribut
 
 Perks:
 
-Tier 2
-- Placement of 2 banners at the speaker stage
-- A logo next to the main stage for presenters
-- Your logo & link featured on the landing page of the website
-- Your logo featured in prime position on the sponsors page
-- Your company logo will be featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges
+- Placement of 2 banners at the speaker stage.
+- A logo next to the main stage for presenters.
+- Your logo & link featured on the landing page of the website.
+- Your logo featured in prime position on the sponsors page.
+- Your company logo will be featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
 
  
 Additionally your organisation will receive 2 complimentary tickets to distribute as you like, and 2 special badges from us to mark your attendance and sponsorship.
@@ -70,9 +69,9 @@ Additionally your organisation will receive 2 complimentary tickets to distribut
 
 Perks:
 
-- have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors
-- have your logo featured in the opening and closing ceremony slides
-- Optionally have your company banner next to one of the workshop/villages running 
+- Have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors.
+- Have your logo featured in the opening and closing ceremony slides.
+- Optionally have your company banner next to one of the workshop/villages running.
 
 
 Additionally your organisation will receive 1 complimentary ticket, and a special badge from us to mark your attendance and sponsorship.
