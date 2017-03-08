@@ -42,3 +42,17 @@ Additionally, we're going to borrow a quote as an answer:
 <small>Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.</small>
 
 <small>[Courtesy of [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]</small>
+
+##  Hackers Helping Hackers
+
+OzLockCon is stepping up to help hackers, locksmiths and others in need.
+
+Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is caught up amid legal issues, sorting paperwork out so they can continue doing their amazing work.
+
+While these issues are occurring, they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
+
+Applicants will be notified at least one month prior to the conference, to the decision regarding their application. This will occur sooner if logistics allows it.
+
+If you have any questions or concerns, please feel free to [email us directly](mailto:admin@ozlockcon.com).
+
+Otherwise, please submit a **[Hackers Helping Hackers application](https://docs.google.com/forms/d/1YzfjMOSIwRfWDwsnS8s3tP6ZzFFip3HrksgYfAS10rQ/)**.
