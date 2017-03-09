@@ -39,6 +39,7 @@ Perks:
 - Strategically place 2 banners at the entrance and closest to the speakers stage.
 - Have your logo featured closest next to the main stage.
 - Have your logo & link featured on the landing page of the website above other Tiers.
+- Have your logo & link featured on the sponsorship page of the website in prime position above other Tiers.
 - Have your logo featured prominently in the opening and closing ceremony slides.
 - Have your organisation individually called out and thanked at the opening and closing ceremonies.
 - Your company logo will be prominently featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
@@ -55,9 +56,7 @@ Perks:
 - Placement of 2 banners at the speaker stage.
 - A logo next to the main stage for presenters.
 - Your logo & link featured on the landing page of the website, underneath the Tier 1 sponsor.
-- Your logo featured in prime position on the sponsors page.
-- Your company logo will be featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
-
+- Your logo featured in sub-prime position on the sponsors page.
  
 Additionally your organisation will receive 2 complimentary tickets to distribute as you like, and 2 special badges from us to mark your attendance and sponsorship.
 
@@ -69,9 +68,10 @@ Additionally your organisation will receive 2 complimentary tickets to distribut
 
 Perks:
 
-- Have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors.
 - Have your logo featured in the opening and closing ceremony slides.
+- Have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors.
 - Optionally have your company banner next to one of the workshop/villages running.
+- Single banner placed in workshop area
 
 
 Additionally your organisation will receive 1 complimentary ticket, and a special badge from us to mark your attendance and sponsorship.
