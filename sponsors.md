@@ -5,6 +5,36 @@ slug: sponsors
 title: "Sponsorship"
 ---
 
+## Tier 1 sponsor
+
+Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k-for-a-single-special-sponsor).
+
+## Tier 2 sponsors
+
+### Privasec
+
+<a class="sponsor-logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
+
+> Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of users within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. Find out more at [privasec.com.au](http://privasec.com.au).
+
+## Tier 3 sponsors
+
+Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#tier-3-----2k-unlimited-sponsors).
+
+## Prize sponsors
+
+### SouthOrd
+
+<a class="sponsor-logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
+
+> SouthOrd® are the industry leader in stainless steel professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
+
+### Sparrows Lock Picks
+
+<a class="sponsor-logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
+
+> Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
+
 ## Interested in being a sponsor?
 
 OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
@@ -57,7 +87,7 @@ Perks:
 - A logo next to the main stage for presenters.
 - Your logo & link featured on the landing page of the website, underneath the Tier 1 sponsor.
 - Your logo featured in sub-prime position on the sponsors page.
- 
+
 Additionally your organisation will receive 2 complimentary tickets to distribute as you like, and 2 special badges from us to mark your attendance and sponsorship.
 
 <small>The money from this Tier will primarily be used to pay for workshops and the after-parties. If you'd like to sponsor a particular party or workshop, please let us know.</small>

@@ -1,0 +1,20 @@
+// Sponsorship org name headings hidden for visual neatness
+h3#privasec,
+h3#southord,
+h3#sparrows-lock-picks {
+  @include sr-only;
+}
+
+.sponsor-logo {
+  display: block;
+  margin: 0;
+  margin-top: $line-double;
+  padding: 0;
+
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: white;
+    border-bottom: none;
+  }
+}
