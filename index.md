@@ -73,7 +73,6 @@ On the final day we will be running a panel consisting of industry leaders and v
 
 Our panel will discuss a wide variety of topics topical to physical security and locksport as a hobby in Australia.
 
-
 ## Venue map
 
 Address: 26 Errol St, North Melbourne VIC 3051
@@ -81,3 +80,15 @@ Address: 26 Errol St, North Melbourne VIC 3051
 <div class="responsive-media-gmap">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.37969940352!2d144.94741535133156!3d-37.80457437965469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d39de06dfd1%3A0xf776ec3236b1c490!2s26+Errol+St%2C+North+Melbourne+VIC+3051%2C+Australia!5e0!3m2!1sen!2sus!4v1487682222679" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
+
+## Sponsors
+
+Want to see your logo here <small>(and help fund an awesome event for the security community)</small>?
+
+### Your organisation? --- tier 1 sponsor
+
+Want to become our single tier 1 sponsor? [We have one slot open](/sponsors/#tier-1----10k-for-a-single-special-sponsor).
+
+### Privasec --- tier 2 sponsor
+
+<a class="sponsor-logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" width="200" height="49" /></a>
