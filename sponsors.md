@@ -13,7 +13,7 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 
 ### Privasec
 
-<a class="sponsor-logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
 
 > Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of users within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. Find out more at [privasec.com.au](http://privasec.com.au).
 
@@ -25,13 +25,13 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### SouthOrd
 
-<a class="sponsor-logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
+<a class="logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
 
 > SouthOrd® are the industry leader in stainless steel professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
-<a class="sponsor-logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
 
 > Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
 
