@@ -57,6 +57,7 @@ While this is the first time OzLockCon has been organised, the team running the 
 - [Platypus Con](https://letsjusthackshit.org/platypuscon2016.html)
 - [Ruxcon](https://ruxcon.org.au/)
 - [Unrestcon](http://unre.st)
+- [WAHCKon](https://wahckon.org.au/)
 
 We ask that you consider the sponsorship packages below in order to help us deliver the best OzLockCon experience for this community:
 
