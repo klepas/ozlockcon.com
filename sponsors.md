@@ -13,9 +13,9 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 
 ### Privasec
 
-<a class="sponsor-logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
 
-> Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of users within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. Find out more at [privasec.com.au](http://privasec.com.au).
+> Privasec Pty Ltd. (Privasec) is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making. Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
 
 ## Tier 3 sponsors
 
@@ -25,13 +25,13 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### SouthOrd
 
-<a class="sponsor-logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
+<a class="logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
 
-> SouthOrd® are the industry leader in stainless steel professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
+> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
-<a class="sponsor-logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
 
 > Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
 
@@ -57,6 +57,7 @@ While this is the first time OzLockCon has been organised, the team running the 
 - [Platypus Con](https://letsjusthackshit.org/platypuscon2016.html)
 - [Ruxcon](https://ruxcon.org.au/)
 - [Unrestcon](http://unre.st)
+- [WAHCKon](https://wahckon.org.au/)
 
 We ask that you consider the sponsorship packages below in order to help us deliver the best OzLockCon experience for this community:
 
