@@ -59,9 +59,13 @@ craig:
   talk:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
     abstract: >
-      We will examine a holistic approach to security leveraging on the approach taken by federal government agencies and contractors.
+      Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
 
-      Cursory examination of the Protective Security Policy Framework (PSPF) and its principles applied in a manner to provide layered and durable security measures.  Whilst it will reference government material, this material is available publicly and can be utilized by anyone. This will be an overview of the approach with some demonstrative examples.  We will aim to demonstrate that security is more than just locks and firewalls and that managing the weakest link (people) is also key to securing information and assets.
+      This talk will introduce you to the Australian Government Protective Security Policy Framework (PSPF) and show you how to apply to its principles to provide layered and durable security measures in your own workspace.
+
+      Don't get bogged down in the fruits of bureaucracy, this talk condenses reams of boring documents and gives you the high speed tour --- hopefully slightly less boring.
+
+      Whether you want to learn how to make it or break it --- Security in Depth is more than just locks and firewalls.  Managing the weakest links, people and policy, is part of the key to securing information and assets.
   hackergotchi: /images/hackergotchis/rumball.png
 
 
