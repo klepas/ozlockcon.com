@@ -1,5 +1,5 @@
 bull:
-  name: Robert ‘Bull’ Winkle
+  name: Robert ‘Bull’ Winkel
   whois: Security consultant, pentester, online investigator, lockpicker
   twitter: RobertWinkel
   workshop:
@@ -9,7 +9,7 @@ bull:
       In this challenge, you play a 2-person team of bomb-disposal experts. You will have to defeat a variety of sensors and countermeasures using your skills, knowledge and creativity with the materials on hand. You have 10 minutes to disarm the bomb. One small mistake and: BIG BADDA BOOM!
   hackergotchi: /images/hackergotchis/bull.jpg
 
-Amm0nRa:
+amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
   twitter: Amm0nRa
@@ -21,6 +21,7 @@ Amm0nRa:
       <br>
       **You will need to bring a laptop with virtualbox installed that supports USB passthrough!**
   hackergotchi: /images/hackergotchis/Amm0nRa.png
+
 
 t0py:
   name: Topaz
@@ -54,24 +55,24 @@ alex:
 
 rumballsolutions:
   name: Craig Rumball
-  whois: "Professional locksmith & safe technician"
+  whois: "Security advisor & locksmith"
   talk:
-    title: "Security in Depth --- ‘When Security Theatre Just Isn’t Enough’ (A government perspective)"
+    title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
     abstract: >
       We will examine a holistic approach to security leveraging on the approach taken by federal government agencies and contractors.
 
       Cursory examination of the Protective Security Policy Framework (PSPF) and its principles applied in a manner to provide layered and durable security measures.  Whilst it will reference government material, this material is available publicly and can be utilized by anyone. This will be an overview of the approach with some demonstrative examples.  We will aim to demonstrate that security is more than just locks and firewalls and that managing the weakest link (people) is also key to securing information and assets.
-  hackergotchi: /images/hackergotchis/mystery.gif
+  hackergotchi: /images/hackergotchis/rumball.png
 
 
-GracieNoLag:
+gracienolag:
   name: Grace Nolan
   twitter: GracieNoLag
-  hackergotchi: /images/hackergotchis/GracieNoLag.jpg
   talk:
-    title: History of lock picking
+    title: "History of lock picking"
     abstract: >
       Get into my hyperspace time cruiser and let me take you on a tour through millennia of lock picking. We’ll learn about some of the locks the aristocracy came up with to secure their valuables. We’ll see lock picking bounties and the transient era of perfect security. Yes, that’s right. Perfect Security. These are your great-great-great grandparents’ stories so buckle up kiddo, you’re in for a wild ride.
+  hackergotchi: /images/hackergotchis/GracieNoLag.jpg
 
 
 oliver:
@@ -82,12 +83,12 @@ oliver:
       Using home made CNC and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
 
       In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3d printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
-  hackergotchi: /images/hackergotchis/mystery.gif
+  hackergotchi: /images/hackergotchis/mystery.png
 
 wayne:
   name: Wayne
   talk:
-    title: Red Teaming --- ‘You Must Go Beyond the Limits’
+    title: Red Teaming --- ‘You must go beyond the limits’
     abstract: >
       Red Teams are designed to penetrate security in a real world test of effectiveness of security controls, policy, technology and infrastructure. Red Teams view security from an adversary perspective in order to simulate realistic attack scenarios that enable an organisation as a whole to prepare and protect against both simple and sophisticated threats. Red Teams build security culture and provide opportunities for staff to be trained using real world examples.
-  hackergotchi: /images/hackergotchis/mystery.gif
+  hackergotchi: /images/hackergotchis/mystery.png
