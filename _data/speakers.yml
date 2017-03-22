@@ -1,4 +1,4 @@
-bull:
+robert-bull:
   name: Robert ‘Bull’ Winkel
   whois: Security consultant, pentester, online investigator, lockpicker
   twitter: RobertWinkel
@@ -53,7 +53,7 @@ alex:
   hackergotchi: /images/hackergotchis/mystery.gif
 
 
-rumballsolutions:
+craig:
   name: Craig Rumball
   whois: "Security advisor & locksmith"
   talk:
