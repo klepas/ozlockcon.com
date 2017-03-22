@@ -39,13 +39,15 @@ $yellow:                  #eccf00;
 
 $grey:                    #6e6e6e;
 $light-grey:              lighten($grey, 15%);
-$dark-grey:               lighten($grey, 20%);
+$lighter-grey:            lighten($grey, 35%);
+$transparent-grey:        rgba(0, 0, 0, 0.1);
+
 
 $action-colour:           #477dca;
 
 // ## Type families
 //
-$font-stack-monospace: 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
+$font-stack-monospace: 'Operator Mono', 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
 
 $font-stack-system: (
   -apple-system,
@@ -139,6 +141,7 @@ $base-timing: ease;
 @import 'header';
 @import 'navigation';
 @import 'main-typography';
+@import 'speakers';
 @import 'sponsors-stuff';
 @import 'footer';
 

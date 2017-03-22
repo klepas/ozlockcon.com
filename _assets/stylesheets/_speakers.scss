@@ -1,0 +1,133 @@
+.speaker-cloud {
+  margin-bottom: $line-double;
+  font-family: $font-stack-monospace;
+  font-size: 127.5%;
+  background-color: $off-white;
+  padding: $line-single;
+
+
+  @include media($tablet) {
+    padding: 88px;
+    column-count: 2;
+    column-gap: $line-double;
+    column-width: auto;
+  }
+  @include media($desktop) {
+    column-count: 3;
+  }
+
+  li {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: $line-quarter;
+  }
+}
+
+//TODO: Maybe add a xl-desktop 2-col grid view later?
+.speaker {
+  display: block;
+  list-style: none;
+  margin: 0 0 $line-double 0;
+  text-align: center;
+  padding-bottom: $line-half;
+  border-bottom: 1px solid $transparent-grey;
+
+  @include media($tablet) {
+    margin-left: 88px;
+    margin-bottom: $line-single;
+    text-align: left;
+  }
+
+  // padding: $line-single;
+  // border-left: 6px solid darken($off-white, 20%);
+  // border-radius: 2px;
+  // box-shadow: inset 0 0 1px $light-grey, 0 2px 4px darken($off-white, 10%);
+}
+
+.speaker__id {
+  @include media($tablet) {
+    display: block;
+    position: relative;
+    height: 72px;
+    margin-left: -91px;
+    margin-bottom: 0;
+  }
+}
+.speaker__id__hackergotchi {
+  margin: 0 auto $line-quarter auto;
+  display: block;
+  width: 72px;
+  height: 72px;
+  border-radius: 48px;
+  border: 4px solid $transparent-grey;
+
+  @include media($tablet) {
+    display: inline-block;
+    padding: auto 0;
+    margin: 0 16px 0 0;
+  }
+}
+
+.speaker__id__name {
+  @include media($tablet) {
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+.speaker__about {
+  font-size: 127.5%;
+}
+
+.speaker__talk-title:before {
+  content: "talk";
+}
+
+.speaker__workshop-title:before {
+  content: "workshop";
+}
+
+%speaker-label {
+  color: $grey;
+  text-align: center;
+  margin: 0 auto $line-quarter auto;
+  display: table;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.675rem;
+  font-weight: normal;
+  padding: $line-quarter;
+  border: 1px solid $transparent-grey;
+  border-radius: 1px;
+
+  @include media($tablet) {
+    display: table;
+    margin-left: -1px;
+  }
+}
+
+.speaker__talk-title,
+.speaker__workshop-title {
+  &:before {
+    @extend %speaker-label;
+  }
+}
+
+.speaker__panel-title {
+  @extend %speaker-label;
+
+  margin-top: $line-single;
+}
+
+.speaker__talk-abstract,
+.speaker__workshop-abstract {
+  text-align: left;
+  margin-left: $line-half;
+
+  @include media($tablet) {
+    margin-left: 0;
+  }
+}
