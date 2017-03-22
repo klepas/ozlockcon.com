@@ -13,11 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+email: admin@ozlockcon.com
 title: OzLockCon
 con_year: 2017
 con_date: June 3–4th
 con_location: Melbourne, Australia
-email: admin@ozlockcon.com
+panel:
+  title: > # this means to ignore newlines until "abstract:"
+    This is the panel title!
+  abstract: > # this means to ignore newlines until "description:"
+    This is the panel abstract text. It is stored in the `_config.yml` file in the repo root.
 description: > # this means to ignore newlines until "baseurl:"
   Australia's first conference dedicated to Locksport
 tags: Lockpicking, Locksport, Physical Security, Research

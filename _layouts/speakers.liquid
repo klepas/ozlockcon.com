@@ -26,7 +26,7 @@ layout: default
     </h2>
 
     <span class="speaker__about">
-      {{ speaker.about | markdownify | remove: '<p>' | remove: '</p>' }}
+      {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
     </span>
 
     {% if speaker.panel == true %}
