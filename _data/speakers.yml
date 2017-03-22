@@ -39,9 +39,9 @@ t0py:
 klepas:
   name: klepas
   twitter: klepas
+  whois: "Accessibility front-end web designer/dev & hobbyist picker"
   panel: true
   hackergotchi: /images/hackergotchis/klepas.jpg
-  whois: "this is klapez"
 
 
 alex:
@@ -73,6 +73,15 @@ gracienolag:
     abstract: >
       Get into my hyperspace time cruiser and let me take you on a tour through millennia of lock picking. We’ll learn about some of the locks the aristocracy came up with to secure their valuables. We’ll see lock picking bounties and the transient era of perfect security. Yes, that’s right. Perfect Security. These are your great-great-great grandparents’ stories so buckle up kiddo, you’re in for a wild ride.
   hackergotchi: /images/hackergotchis/GracieNoLag.jpg
+
+
+silviocesare:
+  name: Silvio Cesare
+  whois: BSides Canberra organiser, hacker extraordinaire <br><small>[AKA Satoshi Nakamoto]</small>
+  twitter: silviocesare
+  panel: true
+  hackergotchi: /images/hackergotchis/silviocesare.jpg
+
 
 
 oliver:
