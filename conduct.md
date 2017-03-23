@@ -5,6 +5,18 @@ slug: conduct
 title: "Code of Conduct"
 ---
 
+1. [Purpose](#purpose)
+2. [Open citizenship](#open-citizenship)
+3. [Expected behaviour](#expected-behaviour)
+4. [Unacceptable behaviour](#unacceptable-behaviour)
+5. [Consequences of unacceptable behaviour](#consequences-of-unacceptable-behaviour)
+6. [Reporting guidelines](#reporting-guidelines)
+7. [Addressing grievances](#addressing-grievances)
+8. [Scope](#scope)
+9. [Confact info](#contact-info)
+10. [License and attribution](#license-and-attribution)
+{: .toc }
+
 This is our Code of Conduct. We encourage everyone to read it. If you have any
 questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.email }}">contact us</a>**.
 

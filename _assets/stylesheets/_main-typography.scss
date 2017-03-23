@@ -1,6 +1,38 @@
 ////////////////////////////////////////////////////////////////////////////////
 // #  main’s typography
 //
+%toc {
+  margin-bottom: $line-double;
+  font-size: 1.257rem;
+  padding: $line-single;
+  background-color: lighten($transparent-grey, 65%);
+  border-radius: 2px;
+  box-shadow: inset 0 0 1px darken($transparent-grey, 5%), 0 2px 3px $transparent-grey;
+
+  @include media($desktop) {
+    padding: 88px;
+    column-count: 2;
+    column-gap: $line-double;
+    column-width: auto;
+  }
+
+  li {
+    list-style: none;
+    margin-left: $line-single;
+    line-height: 2;
+
+    @include media($tablet) {
+      margin-left: 0;
+    }
+  }
+}
+
+
+.toc {
+  @extend %toc;
+}
+
+
 .lede {
   margin-bottom: $line-single;
 
