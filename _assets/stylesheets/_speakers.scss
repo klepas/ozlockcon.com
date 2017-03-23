@@ -86,15 +86,15 @@
 %tag-label {
   display: table;
   margin: 0 auto $line-quarter auto;
-  padding: 4px $line-quarter 3px;
+  padding: 3px $line-quarter;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   color: $grey;
   font-size: 0.675rem;
   font-weight: normal;
   border: 1px solid $transparent-grey;
-  border-radius: 1px;
+  border-radius: 2px;
 
   @include media($tablet) {
     display: table;
@@ -107,6 +107,12 @@
   @extend %tag-label;
 
   margin-top: $line-single;
+}
+
+
+.speaker__event-type--panel {
+  color: $white;
+  background-color: $grey;
 }
 
 
