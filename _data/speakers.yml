@@ -26,7 +26,7 @@ amm0nra:
 klepas:
   name: klepas
   twitter: klepas
-  whois: "Accessibility, front-end web, & hobbyist picker"
+  whois: "Building things (accessibility, front-end web), security, & lockpicker"
   panel: true
   hackergotchi: /images/hackergotchis/klepas.jpg
 
@@ -37,7 +37,7 @@ alex:
     title: Tricking people using magic tricks and pickpocketing
     abstract: >
       You know magicians? Pickpockets? How do they do it? How do they trick people so consistently? This talk is about using the same techniques a magician or pickpocket would use, but for social engineering and physical security mischief. We’ll exploit the wonky default settings of human brains for the sake of sneaking what you're doing past people. To a magician, your brain is probably running the wetware equivalent of Windows 95, so come along and get patched.
-  hackergotchi: /images/hackergotchis/mystery.gif
+  hackergotchi: /images/hackergotchis/mystery.png
 
 
 craig-rumball:
