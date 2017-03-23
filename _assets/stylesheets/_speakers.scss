@@ -76,15 +76,15 @@
 }
 
 %tag-label {
-  color: $grey;
-  text-align: center;
-  margin: 0 auto $line-quarter auto;
   display: table;
+  margin: 0 auto $line-quarter auto;
+  padding: 4px $line-quarter 3px;
   text-transform: uppercase;
+  text-align: center;
   letter-spacing: 1px;
+  color: $grey;
   font-size: 0.675rem;
   font-weight: normal;
-  padding: $line-quarter;
   border: 1px solid $transparent-grey;
   border-radius: 1px;
 
