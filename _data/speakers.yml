@@ -40,9 +40,10 @@ alex:
   hackergotchi: /images/hackergotchis/mystery.gif
 
 
-craig:
+craig-rumball:
   name: Craig Rumball
   whois: "Security advisor & locksmith"
+  panel: true
   talk:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
     abstract: >
