@@ -6,7 +6,7 @@ layout: default
 
 {% assign speakers = site.data.speakers | sort %}
 
-<ol class="speaker-cloud">
+<ol class="toc toc__speakers">
 {% for speaker_hash in speakers %}
 {% assign speaker = speaker_hash[1] %}
   <li><a href="#{{ speaker.name | slugify }}">{{ speaker.name }}</a></li>
