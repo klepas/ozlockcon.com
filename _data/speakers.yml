@@ -23,6 +23,25 @@ amm0nra:
   hackergotchi: /images/hackergotchis/Amm0nRa.png
 
 
+jos-weyers:
+  name: Jos Weyers
+  whois: Vice-President of [TOOOL.nl](https://toool.nl), Organiser of the Dutch LockCon conference, world-record holder in the field of lock impressioning.
+  twitter: josweyers
+  talk:
+    title: Key impressioning
+    abstract: >
+      We've all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn't it be great to have an opening technique that would supply you with a working key in the process?
+      <br>
+      <br>
+      A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
+      <br>
+      <br>
+      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
+      <br>
+      <br>
+      What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
+  hackergotchi: /images/hackergotchis/josweyers.jpg
+
 klepas:
   name: klepas
   twitter: klepas
@@ -40,6 +59,25 @@ alex:
   hackergotchi: /images/hackergotchis/mystery.png
 
 
+nullwolf:
+  name: nullwolf
+  twitter: tresacton
+  workshop:
+    title: Practical <abbr title="Radio Frequency">RF</abbr> attacks workshop
+    abstract: >
+      Ever wished you knew how to "pick" wireless digital locks (remote keyless entry systems), disarm wireless alarm systems, and impersonate valid Radio Frequency transmissions? This is probably the workshop you're looking for.
+      <br>
+      <br>
+      Participants will learn to reverse engineer a basic RF signal, and transmit the reverse engineered signal to impersonate the target device. Time permitting, participants will also learn how to brute-force simple devices, and learn the anatomy of a RollJam attack.
+      <br>
+      <br>
+      Basic Linux familiarity preferred (i.e. know how to execute terminal commands at minimum).
+      <br>
+      <br>
+      **You will need to bring a laptop!**
+  hackergotchi: /images/hackergotchis/nullwolf.jpg
+
+
 craig-rumball:
   name: Craig Rumball
   whois: "Security advisor & locksmith"
@@ -48,11 +86,14 @@ craig-rumball:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
     abstract: >
       Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
-
+      <br>
+      <br>
       This talk will introduce you to the Australian Government Protective Security Policy Framework (PSPF) and show you how to apply to its principles to provide layered and durable security measures in your own workspace.
-
+      <br>
+      <br>
       Don't get bogged down in the fruits of bureaucracy, this talk condenses reams of boring documents and gives you the high speed tour --- hopefully slightly less boring.
-
+      <br>
+      <br>
       Whether you want to learn how to make it or break it --- Security in Depth is more than just locks and firewalls.  Managing the weakest links, people and policy, is part of the key to securing information and assets.
   hackergotchi: /images/hackergotchis/rumball.png
 
@@ -82,7 +123,8 @@ oliver:
     title: Dispelling the myth of key control
     abstract: >
       Using home made CNC and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
-
+      <br>
+      <br>
       In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3d printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
   hackergotchi: /images/hackergotchis/mystery.png
 
