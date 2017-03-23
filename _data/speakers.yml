@@ -23,19 +23,6 @@ amm0nra:
   hackergotchi: /images/hackergotchis/Amm0nRa.png
 
 
-t0py:
-  name: Topaz
-  twitter: infosecfriends
-  whois: "an infosec jerk"
-  talk:
-    title: "talk title"
-    abstract: "this is my talk abstract"
-  workshop:
-    title: "workshop title"
-    abstract: "this is my workshop abstract"
-  hackergotchi: /images/hackergotchis/t0py.jpg
-
-
 klepas:
   name: klepas
   twitter: klepas
