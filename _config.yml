@@ -24,7 +24,7 @@ panel:
   abstract: > # this means to ignore newlines until "description:"
     This is the panel abstract text. It is stored in the `_config.yml` file in the repo root.
 description: > # this means to ignore newlines until "baseurl:"
-  Australia's first conference dedicated to Locksport
+  Australia’s first conference dedicated to locksport and physical security
 tags: Lockpicking, Locksport, Physical Security, Research
 
 baseurl: "" # the subpath of your site, e.g. /blog

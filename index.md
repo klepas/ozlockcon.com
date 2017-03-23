@@ -49,6 +49,7 @@ Workshops are run by experts who will demonstrate attacks such as:
 - safe manipulation
 - bumping
 - bypass techniques
+- <abbr title="Radio-frequency Identification">RFID</abbr>/radio attacks
 - and more.
 
 These provide an excellent opportunity to practice and refine your skills regardless of expertise.
