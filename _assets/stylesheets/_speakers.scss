@@ -16,6 +16,12 @@
   }
 }
 
+
+.speaker-details {
+  margin-top: $line-double;
+}
+
+
 //TODO: Maybe add a xl-desktop 2-col grid view later?
 .speaker {
   display: block;
@@ -71,9 +77,11 @@
   }
 }
 
+
 .speaker__about {
   font-size: 127.5%;
 }
+
 
 %tag-label {
   display: table;
@@ -94,11 +102,13 @@
   }
 }
 
+
 .speaker__event-type {
   @extend %tag-label;
 
   margin-top: $line-single;
 }
+
 
 .speaker__talk-abstract,
 .speaker__workshop-abstract {
