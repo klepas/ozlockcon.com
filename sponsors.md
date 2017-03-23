@@ -45,7 +45,7 @@ We expect to accommodate at least 200 security professionals and hobbyists to th
 
 We aim to run a combination of talks, several workshops, and a number of competitions. This should allow attendees to both learn by listening and through hands-on opportunities.
 
-With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the Saturday and Sunday after-party bar tabs.
+With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the costs of guest speakers from around the world.
 
 While this is the first time OzLockCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
 
