@@ -55,9 +55,9 @@ Additionally, we're going to borrow a quote as an answer:
 
 OzLockCon is stepping up to help hackers, locksmiths and others in need.
 
-Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is caught up amid legal issues, sorting paperwork out so they can continue doing their amazing work.
+Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is sorting out their charity status paperwork out so they can continue doing their amazing work.
 
-While these issues are occurring, they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
+For this year they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
 
 Applicants will be notified at least one month prior to the conference, to the decision regarding their application. This will occur sooner if logistics allows it.
 
