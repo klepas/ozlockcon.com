@@ -6,14 +6,14 @@ layout: default
 
 {% assign speakers = site.data.speakers | sort %}
 
-<ul class="speaker-cloud">
+<ol class="speaker-cloud">
 {% for speaker_hash in speakers %}
 {% assign speaker = speaker_hash[1] %}
   <li><a href="#{{ speaker.name | slugify }}">{{ speaker.name }}</a></li>
 {% endfor %}
-</ul>
+</ol>
 
-<ul class="">
+<ol class="">
 {% for speaker_hash in speakers %}
 {% assign speaker = speaker_hash[1] %}
   <li class="speaker">
@@ -31,7 +31,7 @@ layout: default
 
     {% if speaker.panel == true %}
 
-    <span class="speaker__panel-title">
+    <span class="speaker__event-type">
       Panelist
     </span>
 
@@ -40,24 +40,30 @@ layout: default
 
     {% if speaker.talk %}
 
-    <h3 class="speaker__talk-title">
+    <h3>
+      <span class="speaker__event-type">
+        Talk
+      </span>
       {{ speaker.talk.title | markdownify | remove: '<p>' | remove: '</p>' }}
     </h3>
 
     <div class="speaker__talk-abstract">
-      {{ speaker.talk.abstract | markdownify | remove: '<p>' | remove: '</p>' }}
+      {{ speaker.talk.abstract | markdownify }}
     </div>
 
     {% endif %}
 
     {% if speaker.workshop %}
 
-    <h3 class="speaker__workshop-title">
+    <h3>
+      <span class="speaker__event-type">
+        Workshop
+      </span>
       {{ speaker.workshop.title | markdownify | remove: '<p>' | remove: '</p>' }}
     </h3>
 
     <div class="speaker__workshop-abstract">
-      {{ speaker.workshop.abstract | markdownify | remove: '<p>' | remove: '</p>' }}
+      {{ speaker.workshop.abstract | markdownify }}
     </div>
 
     {% endif %}
@@ -65,4 +71,4 @@ layout: default
     <a class="skip-link" href="#content">&uarr; Return to top of content</a>
   </li>
 {% endfor %}
-</ul>
+</ol>

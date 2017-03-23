@@ -86,15 +86,7 @@
   font-size: 127.5%;
 }
 
-.speaker__talk-title:before {
-  content: "talk";
-}
-
-.speaker__workshop-title:before {
-  content: "workshop";
-}
-
-%speaker-label {
+%tag-label {
   color: $grey;
   text-align: center;
   margin: 0 auto $line-quarter auto;
@@ -113,15 +105,8 @@
   }
 }
 
-.speaker__talk-title,
-.speaker__workshop-title {
-  &:before {
-    @extend %speaker-label;
-  }
-}
-
-.speaker__panel-title {
-  @extend %speaker-label;
+.speaker__event-type {
+  @extend %tag-label;
 
   margin-top: $line-single;
 }
