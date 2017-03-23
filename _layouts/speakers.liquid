@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include lede.liquid %}
+<h2>Our speakers, panelists, and workshop presenters</h2>
 
 {% assign speakers = site.data.speakers | sort %}
 
@@ -13,7 +13,9 @@ layout: default
 {% endfor %}
 </ol>
 
-<ol class="">
+<h2>Speaker details</h2>
+
+<ol class="speaker-details">
 {% for speaker_hash in speakers %}
 {% assign speaker = speaker_hash[1] %}
   <li class="speaker">
