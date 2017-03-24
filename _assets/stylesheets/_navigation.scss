@@ -74,7 +74,7 @@
 
       &:focus,
       &:hover {
-        border-bottom: 3px solid transparentize($action-colour, .3);
+        border-bottom: 3px solid transparentize($action-colour, .1);
 
         color: $white;
       }
