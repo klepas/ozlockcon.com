@@ -64,7 +64,7 @@ To build the site locally you will need:
 - [jekyll-assets](https://github.com/jekyll/jekyll-assets) (an asset pipeline)
 - [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/)
 
-We sorta have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `master` branch. This currently points to an Amazon S3 bucket... but our web server is elsewhere so poke @klepas to do a build if you can’t and/or can’t cp files to the box.
+We sorta have automated [CI setup through semaphoreci.com](https://semaphoreci.com/klepas/ozlockcon-com) for the `develop` branch. This currently points to an Amazon S3 bucket... but our web server is elsewhere so poke @klepas or @barnie995 to do a build if you can’t and/or can’t cp files to the box.
 
 
 **[↑ back to top](#content)**
