@@ -29,7 +29,7 @@
   margin: 0 0 $line-double 0;
   text-align: center;
   padding-bottom: $line-half;
-  border-bottom: 1px solid $transparent-grey;
+  border-bottom: $base-border;
 
   @include media($tablet) {
     margin-left: 88px;
@@ -78,8 +78,16 @@
 }
 
 
-.speaker__about {
-  font-size: 127.5%;
+.speaker__whois {
+  font-style: italic;
+
+  & > small {
+    font-size: rem(16);
+  }
+}
+
+.lede--speaker {
+  font-family: $font-stack-serif;
 }
 
 
@@ -91,9 +99,9 @@
   text-align: center;
   letter-spacing: 2px;
   color: $grey;
-  font-size: 0.675rem;
+  font-size: rem(11);
   font-weight: normal;
-  border: 1px solid $transparent-grey;
+  border: $base-border;
   border-radius: 2px;
 
   @include media($tablet) {
