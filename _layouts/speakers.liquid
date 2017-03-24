@@ -27,9 +27,13 @@ layout: default
       </a>
     </h2>
 
-    <span class="speaker__about">
-      {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
-    </span>
+    {% if speaker.whois %}
+    <div class="lede lede--speaker">
+      <span class="speaker__whois">
+        {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
+      </span>
+    </div>
+    {% endif %}
 
     {% if speaker.panel == true %}
 
