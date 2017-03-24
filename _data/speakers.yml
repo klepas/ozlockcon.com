@@ -25,7 +25,7 @@ amm0nra:
 
 jos-weyers:
   name: Jos Weyers
-  whois: Vice-President of [TOOOL.nl](https://toool.nl), Organiser of the Dutch LockCon conference, world-record holder in the field of lock impressioning.
+  whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
   twitter: josweyers
   talk:
     title: Key impressioning
@@ -110,7 +110,7 @@ gracienolag:
 
 silviocesare:
   name: Silvio Cesare
-  whois: BSides Canberra organiser, hacker extraordinaire <br><small>[AKA Satoshi Nakamoto]</small>
+  whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. Satoshi Nakamoto]</small>"
   twitter: silviocesare
   panel: true
   hackergotchi: /images/hackergotchis/silviocesare.jpg
