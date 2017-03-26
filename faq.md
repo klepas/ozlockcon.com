@@ -53,14 +53,15 @@ Additionally, we're going to borrow a quote as an answer:
 
 ## Hackers Helping Hackers
 
-OzLockCon is stepping up to help hackers, locksmiths and others in need.
+OzLockCon is stepping up to help other hackers in need.
 
-Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is sorting out their charity status paperwork out so they can continue doing their amazing work.
+[*Hackers Helping Hackers*](https://hackershelpinghackers.com/) are in the process of registering formally as a charity and are therefore not in a position to sponsor participants to attend OzLockCon at this time. OzLockCon remains dedicated to widening participation and as such encourage applications to apply for tickets directly with us.
 
-For this year they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
+As a result, this application is a slimmed down and slightly modified version of the one you'd need to submit if your were applying for HHH. 
 
-Applicants will be notified at least one month prior to the conference, to the decision regarding their application. This will occur sooner if logistics allows it.
+Applicants will be notified at least one month prior to the conference as to the success of their submission, sooner if logistics allow. 
 
 If you have any questions or concerns, please feel free to [email us directly](mailto:admin@ozlockcon.com).
 
 Otherwise, please submit a **[Hackers Helping Hackers application](https://docs.google.com/forms/d/1YzfjMOSIwRfWDwsnS8s3tP6ZzFFip3HrksgYfAS10rQ/)**.
+Note: This is not affiliated with HHH."
