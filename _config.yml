@@ -29,7 +29,7 @@ tags: Lockpicking, Locksport, Physical Security, Research
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ozlockcon
+twitter_username: OzLockCon
 github_username:  klepas
 
 # Build settings

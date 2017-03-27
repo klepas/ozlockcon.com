@@ -5,15 +5,31 @@
 
   <title>
     {% if page.url == '/' %}
-      {{ site.title }} {{ site.con_year }}
+      {{ site.title | escape }} {{ site.con_year | escape }}
     {% elsif page.title %}
-      {{ page.title | escape }}
+      {{ site.title | escape }} {{ site.con_year | escape }} {{ page.title | escape }}
     {% else %}
       {{ site.title | escape }}
-      {% endif %}
+    {% endif %}
   </title>
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+  <meta property="og:title" content="
+    {% if page.url == '/' %}
+      {{ site.title | escape }} {{ site.con_year | escape }}
+    {% elsif page.title %}
+      {{ site.title | escape }} {{ site.con_year | escape }} {{ page.title | escape }}
+    {% else %}
+      {{ site.title | escape }}
+    {% endif %}" />
+
+  <meta propery="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+  <meta property="og:image" content="https://ozlockcon.com{% asset_path 'background.jpg'%}" />
+
+  <meta name="author" content="@{{ site.twitter_username }}" />
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
 
   {% css main %}
 
