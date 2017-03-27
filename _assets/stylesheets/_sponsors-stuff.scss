@@ -1,5 +1,6 @@
 // Sponsorship org name headings hidden for visual neatness
 h3#privasec,
+h3#mercury-iss,
 h3#southord,
 h3#sparrows-lock-picks {
   @include sr-only;
@@ -10,6 +11,7 @@ h3#sparrows-lock-picks {
   margin: 0;
   margin-top: $line-double;
   padding: 0;
+  border-bottom: none;
 
   &:active,
   &:focus,
