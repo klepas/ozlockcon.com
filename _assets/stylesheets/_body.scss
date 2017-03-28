@@ -42,12 +42,13 @@ footer[role='contentinfo'] {
     padding: 2px 3px;
     text-decoration: none;
     transition: color $base-duration $base-timing;
+    border-bottom: 1px solid transparent;
 
     &:active,
     &:focus,
     &:hover {
       background-color: lighten($yellow, 38%);
-      border-bottom: 1px solid transparentize($black, .65);
+      border-bottom-color: transparentize($black, .65);
       color: $off-black;
     }
   }

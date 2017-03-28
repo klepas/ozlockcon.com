@@ -5,6 +5,14 @@ slug: faq
 title: "FAQ"
 ---
 
+1. [Who are you?](#who-are-you)
+2. [Is this legal?](#is-this-legal)
+3. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
+4. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
+5. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
+6. [Hackers Helping Hackers](#hackers-helping-hackers)
+{: .toc }
+
 ## Who are you?
 
 We are a loose-knit group of physical security enthusiasts. We come from a diverse range of backgrounds; some of us work in security (eg. as locksmiths or in IT security), but we're all locksport hobbyists --- what binds us all is our common interest and passion for locks.
@@ -43,13 +51,13 @@ Additionally, we're going to borrow a quote as an answer:
 
 <small>[Courtesy of [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]</small>
 
-##  Hackers Helping Hackers
+## Hackers Helping Hackers
 
 OzLockCon is stepping up to help hackers, locksmiths and others in need.
 
-Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is caught up amid legal issues, sorting paperwork out so they can continue doing their amazing work.
+Currently, the organisation known as [*Hackers Helping Hackers*](https://hackershelpinghackers.com/) is sorting out their charity status paperwork out so they can continue doing their amazing work.
 
-While these issues are occurring, they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
+For this year they have advised us to take applications directly. As a result of this, the application is a slimmed down and slightly modified version of HHH's application.
 
 Applicants will be notified at least one month prior to the conference, to the decision regarding their application. This will occur sooner if logistics allows it.
 

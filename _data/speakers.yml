@@ -1,0 +1,150 @@
+robert-bull:
+  name: Robert ‘Bull’ Winkel
+  whois: Security consultant, pentester, online investigator, lockpicker
+  twitter: RobertWinkel
+  workshop:
+    title: “BIG BADDA BOOM!”
+    abstract: >
+      “BIG BADDA BOOM!” is a challenge where you must disarm a (simulated) bomb counting down the seconds!
+      In this challenge, you play a 2-person team of bomb-disposal experts. You will have to defeat a variety of sensors and countermeasures using your skills, knowledge and creativity with the materials on hand. You have 10 minutes to disarm the bomb. One small mistake and: BIG BADDA BOOM!
+  hackergotchi: /images/hackergotchis/bull.jpg
+
+amm0nra:
+  name: Amm0nRa
+  whois: noob with a laptop
+  twitter: Amm0nRa
+  workshop:
+    title: Practical RFID security training [BYO gear required]
+    abstract: >
+      This workshop will include both lecture style teaching about RFID access cards, covering protocols, formats and security measures as well as practical hands on training with the 'Proxmark3' open source RFID security tool. These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
+      <br>
+      <br>
+      **You will need to bring a laptop with virtualbox installed that supports USB passthrough!**
+  hackergotchi: /images/hackergotchis/Amm0nRa.png
+
+
+jos-weyers:
+  name: Jos Weyers
+  whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
+  twitter: josweyers
+  talk:
+    title: Key impressioning
+    abstract: >
+      We've all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn't it be great to have an opening technique that would supply you with a working key in the process?
+      <br>
+      <br>
+      A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
+      <br>
+      <br>
+      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
+      <br>
+      <br>
+      What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
+  hackergotchi: /images/hackergotchis/josweyers.jpg
+
+klepas:
+  name: klepas
+  twitter: klepas
+  whois: "Building things (accessibility, front-end web), security, & lockpicker"
+  panel: true
+  hackergotchi: /images/hackergotchis/klepas.jpg
+
+
+alex:
+  name: Alex Hogue
+  talk:
+    title: Tricking people using magic tricks and pickpocketing
+    abstract: >
+      You know magicians? Pickpockets? How do they do it? How do they trick people so consistently? This talk is about using the same techniques a magician or pickpocket would use, but for social engineering and physical security mischief. We’ll exploit the wonky default settings of human brains for the sake of sneaking what you're doing past people. To a magician, your brain is probably running the wetware equivalent of Windows 95, so come along and get patched.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+
+nullwolf:
+  name: nullwolf
+  twitter: tresacton
+  workshop:
+    title: Practical <abbr title="Radio Frequency">RF</abbr> attacks workshop [BYO laptop]
+    abstract: >
+      Ever wished you knew how to "pick" wireless digital locks (remote keyless entry systems), disarm wireless alarm systems, and impersonate valid Radio Frequency transmissions? This is probably the workshop you're looking for.
+      <br>
+      <br>
+      Participants will learn to reverse engineer a basic RF signal, and transmit the reverse engineered signal to impersonate the target device. Time permitting, participants will also learn how to brute-force simple devices, and learn the anatomy of a RollJam attack.
+      <br>
+      <br>
+      Basic Linux familiarity preferred (i.e. know how to execute terminal commands at minimum).
+      <br>
+      <br>
+      **Bring a laptop! Also, if you have any <abbr title="Software Defined Radios">SDR</abbr>s please bring them as well!**
+  hackergotchi: /images/hackergotchis/nullwolf.jpg
+
+
+craig-rumball:
+  name: Craig Rumball
+  whois: "Security advisor & locksmith"
+  panel: true
+  talk:
+    title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
+    abstract: >
+      Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
+      <br>
+      <br>
+      This talk will introduce you to the Australian Government Protective Security Policy Framework (PSPF) and show you how to apply to its principles to provide layered and durable security measures in your own workspace.
+      <br>
+      <br>
+      Don't get bogged down in the fruits of bureaucracy, this talk condenses reams of boring documents and gives you the high speed tour --- hopefully slightly less boring.
+      <br>
+      <br>
+      Whether you want to learn how to make it or break it --- Security in Depth is more than just locks and firewalls.  Managing the weakest links, people and policy, is part of the key to securing information and assets.
+  hackergotchi: /images/hackergotchis/rumball.png
+
+
+gracienolag:
+  name: Grace Nolan
+  twitter: GracieNoLag
+  talk:
+    title: "History of lock picking"
+    abstract: >
+      Get into my hyperspace time cruiser and let me take you on a tour through millennia of lock picking. We’ll learn about some of the locks the aristocracy came up with to secure their valuables. We’ll see lock picking bounties and the transient era of perfect security. Yes, that’s right. Perfect Security. These are your great-great-great grandparents’ stories so buckle up kiddo, you’re in for a wild ride.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+
+silviocesare:
+  name: Silvio Cesare
+  whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. Satoshi Nakamoto]</small>"
+  twitter: silviocesare
+  panel: true
+  hackergotchi: /images/hackergotchis/silviocesare.jpg
+
+
+oliver:
+  name: Oliver
+  talk:
+    title: Dispelling the myth of key control
+    abstract: >
+      Using home made CNC and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
+      <br>
+      <br>
+      In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3d printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+wayne:
+  name: Wayne
+  talk:
+    title: Red Teaming --- ‘You must go beyond the limits’
+    abstract: >
+      Red Teams are designed to penetrate security in a real world test of effectiveness of security controls, policy, technology and infrastructure. Red Teams view security from an adversary perspective in order to simulate realistic attack scenarios that enable an organisation as a whole to prepare and protect against both simple and sophisticated threats. Red Teams build security culture and provide opportunities for staff to be trained using real world examples.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+
+lucas-zhao:
+  name: Lucas Zhao
+  whois: Chinese and Asian lock researcher and aficionado
+  twitter: TheUrbanHawk
+  talk:
+    title: Chinese contemporary mechanical locks
+    abstract: >
+      Many people are familiar with American and European lock companies as well as their designs, and defeats, such as Schlage, Corbin, Medeco, ASSA, Abloy, and EVVA. However, domestic Chinese locks, never seen outside of China, are far from typical both in terms of design and vulnerabilities.
+      <br>
+      <br>
+      Many people know, and love/hate the Chinese produced locks at their local big-box or dollar stores. Although most of the locks sold in big-box stores here nowadays are produced in China, that is only one side of the story. There is a whole other dimension with unique and ingenious designs which are sold exclusively in China. These modern locks feature exotic mechanisms and anti-pick features, unlike the cheap exported locks that most people are used to. In fact, many of these locks are even more secure than many high security locks made in America, and yet feature simple yet ingenious designs. I will also discuss potential defeats of even seemingly impossible to defeat designs of these locks, such as the GoldAtom reverse sidebar lock, a seemingly impossible to defeat lock that can be defeated with a wire and some yarn.
+  hackergotchi: /images/hackergotchis/lucas-zhao.jpg
