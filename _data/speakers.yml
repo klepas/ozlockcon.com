@@ -23,6 +23,26 @@ amm0nra:
   hackergotchi: /images/hackergotchis/Amm0nRa.png
 
 
+jos-weyers:
+  name: Jos Weyers
+  whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
+  twitter: josweyers
+  talk:
+    title: Key impressioning
+    abstract: >
+      We've all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn't it be great to have an opening technique that would supply you with a working key in the process?
+      <br>
+      <br>
+      A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
+      <br>
+      <br>
+      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
+      <br>
+      <br>
+      What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
+  hackergotchi: /images/hackergotchis/josweyers.jpg
+
+
 klepas:
   name: klepas
   twitter: klepas
