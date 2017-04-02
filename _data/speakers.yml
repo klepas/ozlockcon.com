@@ -1,7 +1,8 @@
 robert-bull:
   name: Robert ‘Bull’ Winkel
   whois: Security consultant, pentester, online investigator, lockpicker
-  twitter: RobertWinkel
+  twitter: true
+  twitterHandle: RobertWinkel
   workshop:
     title: “BIG BADDA BOOM!”
     abstract: >
@@ -12,7 +13,8 @@ robert-bull:
 amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
-  twitter: Amm0nRa
+  twitter: true
+  twitterHandle: Amm0nRa
   workshop:
     title: Practical RFID security training [BYO gear required]
     abstract: >
@@ -26,7 +28,8 @@ amm0nra:
 jos-weyers:
   name: Jos Weyers
   whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
-  twitter: josweyers
+  twitter: true
+  twitterHandle: josweyers
   talk:
     title: Key impressioning
     abstract: >
@@ -45,7 +48,8 @@ jos-weyers:
 
 klepas:
   name: klepas
-  twitter: klepas
+  twitter: true
+  twitterHandle: klepas
   whois: "Building things (accessibility, front-end web), security, & lockpicker"
   panel: true
   hackergotchi: /images/hackergotchis/klepas.jpg
@@ -62,7 +66,8 @@ alex:
 
 nullwolf:
   name: nullwolf
-  twitter: tresacton
+  twitter: true
+  twitterHandle: tresacton
   workshop:
     title: Practical <abbr title="Radio Frequency">RF</abbr> attacks workshop [BYO laptop]
     abstract: >
@@ -101,7 +106,8 @@ craig-rumball:
 
 gracienolag:
   name: Grace Nolan
-  twitter: GracieNoLag
+  twitter: true
+  twitterHandle: GracieNoLag
   talk:
     title: "History of lock picking"
     abstract: >
@@ -112,7 +118,8 @@ gracienolag:
 silviocesare:
   name: Silvio Cesare
   whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. Satoshi Nakamoto]</small>"
-  twitter: silviocesare
+  twitter: true
+  twitterHandle: silviocesare
   panel: true
   hackergotchi: /images/hackergotchis/silviocesare.jpg
 
@@ -140,7 +147,8 @@ wayne:
 lucas-zhao:
   name: Lucas Zhao
   whois: Chinese and Asian lock researcher and aficionado
-  twitter: TheUrbanHawk
+  twitter: true
+  twitterHandle: TheUrbanHawk
   talk:
     title: Chinese contemporary mechanical locks
     abstract: >
@@ -152,7 +160,9 @@ lucas-zhao:
 
 christina-palmer:
   name: Christina Palmer
-  whois: Lock Pick Designer, [Elvencraft](http://elvencraft.com)
+  whois: Lock Pick Designer
+  website: true
+  websiteAddress: http://elvencraft.com
   talk:
     title: Wave Rake Design
     abstract: >

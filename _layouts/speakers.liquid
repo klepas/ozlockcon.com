@@ -22,9 +22,21 @@ layout: default
     <h2 class="speaker__id" id="{{ speaker.name | slugify }}">
       <img class="speaker__id__hackergotchi" src="{{ speaker.hackergotchi }}" alt="hackergotchi of {{ speaker.name }}" />
 
-      <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitter }}">
+
+      {% if speaker.twitter %}
+      <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitterHandle }}">
         {{ speaker.name }}
       </a>
+      {% elsif speaker.website %}
+      <a class="speaker__id__name" href="{{ speaker.websiteAddress }}">
+        {{ speaker.name }}
+      </a>
+      {% else %}
+      <a class="speaker__id__name" href="#">
+        {{ speaker.name }}
+      </a>
+      {% endif %}
+
     </h2>
 
     {% if speaker.whois %}
