@@ -24,17 +24,17 @@ layout: default
 
 
       {% if speaker.twitter %}
-      <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitterHandle }}">
+      <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitter }}">
         {{ speaker.name }}
       </a>
       {% elsif speaker.website %}
-      <a class="speaker__id__name" href="{{ speaker.websiteAddress }}">
+      <a class="speaker__id__name" href="{{ speaker.website }}">
         {{ speaker.name }}
       </a>
       {% else %}
-      <a class="speaker__id__name" href="#">
+      <span class="speaker__id__name">
         {{ speaker.name }}
-      </a>
+      </span>
       {% endif %}
 
     </h2>
