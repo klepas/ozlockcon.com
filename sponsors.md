@@ -29,7 +29,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 <a class="logo" href="http://mercuryiss.com.au/"><img src="/images/mercuryiss-logo.png" alt="Mercury ISS logo" /></a>
 
-> Mercury ISS are a Sydney-based information security consulting firm. Find out more about at [mercuryiss.com.au](http://mercuryiss.com.au/).
+> Mercury ISS are a sydney based information security consulting firm. Check out their website for a range of offerings at [mercuryiss.com.au](http://mercuryiss.com.au/).
 
 ***
 
