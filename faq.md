@@ -6,11 +6,12 @@ title: "FAQ"
 ---
 
 1. [Who are you?](#who-are-you)
-2. [Is this legal?](#is-this-legal)
-3. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
-4. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
-5. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
-6. [Hackers Helping Hackers](#hackers-helping-hackers)
+1. [Is this legal?](#is-this-legal)
+1. [Is OzLockCon affiliated with TOOOL?](#is-ozlockcon-affiliated-with-toool)
+1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
+1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
+1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
+1. [Hackers Helping Hackers](#hackers-helping-hackers)
 {: .toc }
 
 ## Who are you?
@@ -20,6 +21,12 @@ We are a loose-knit group of physical security enthusiasts. We come from a diver
 In early 2016 we started a chat channel as a place for us to share knowledge about physical security. For the most part we grew from 'hacker-conferences' and as such we've embraced the hacker spirit of sharing information: teaching each other and learning together.
 
 We aim to be like the conferences that occur in Europe and the US. We hope one day that the Australian locksport and physical security community can be regarded as highly as our fellow communities overseas.
+
+## Is OzLockCon affiliated with TOOOL?
+
+OzLockCon is not directly affiliated with [<abbr title="The Open Organisation Of Lockpickers, US">TOOOL US</abbr>](http://toool.us/), [<abbr title="The Open Organisation Of Lockpickers, Netherlands">TOOOL NL</abbr>](https://toool.nl/), or '[LockCon](https://toool.nl/LockCon)'; OzLockCon --- despite the similar name --- is not the same event.
+
+To avoid confusion in future, we plan to rename the event after OzLockCon 2017 has concluded
 
 ## Is this legal?
 
