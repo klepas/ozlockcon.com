@@ -14,7 +14,7 @@ amm0nra:
   whois: noob with a laptop
   twitter: Amm0nRa
   workshop:
-    title: Practical RFID security training [BYO gear required]
+    title: Practical <abbr title="Radio-frequency Identification">RFID</abbr> security training [BYO gear required]
     abstract: >
       This workshop will include both lecture style teaching about RFID access cards, covering protocols, formats and security measures as well as practical hands on training with the 'Proxmark3' open source RFID security tool. These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
       <br>
@@ -36,7 +36,7 @@ jos-weyers:
       A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
       <br>
       <br>
-      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
+      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10–15 minutes (and potentially faster)!
       <br>
       <br>
       What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
@@ -122,10 +122,10 @@ oliver:
   talk:
     title: Dispelling the myth of key control
     abstract: >
-      Using home made CNC and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
+      Using home made <abbr title="computer numerical control">CNC</abbr> mill and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
       <br>
       <br>
-      In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3d printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
+      In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3D printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
   hackergotchi: /images/hackergotchis/mystery.png
 
 wayne:
@@ -155,12 +155,12 @@ christina-palmer:
   whois: Lock Pick Designer
   website: http://elvencraft.com
   talk:
-    title: Wave Rake Design
+    title: Wave rake design
     abstract: >
       What makes a good wave rake? Science and engineering are applied to wave rake design.
       <br >
       <br >
-      The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of CAD software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
+      The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of <abbr title="computer-aided design">CAD</abbr> software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
   hackergotchi: /images/hackergotchis/mystery.png
 
 
@@ -169,10 +169,10 @@ huajiang-chen:
   whois: Security Researcher at the Istuary-Security Lab in Vancouver, Canada
   twitter: Kevin2600
   talk:
-    title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> Unlocking
+    title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
     abstract: >
-      Locks are an ancient technology. The current trend in locks is to make them "Smarter" by adding wireless functionality and connecting them to the Internet! But are they doing any better than mechanical only locks?
+      Locks are an ancient technology; the current trend in locks is to make them “Smarter” by adding wireless functionality and connecting them to the Internet! ...but are they doing any better than mechanical only locks?
       <br >
       <br >
-      We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples step by step; from APK file reversing to BTLE traffic sniffing and analyzing. Finally addressing the weakness of such BTLE Locks. The attendees will be benefit for the follow up the steps on similar BTLE devices.
+      We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples, step by step: from <abbr title="Android Package Kit">APK</abbr> file reversing to BTLE traffic sniffing and analysing. The talk will provide attendees an insight into the weaknesses of common BTLE implementations, and the principles of attack shared across similar such devices.
   hackergotchi: /images/hackergotchis/mystery.png
