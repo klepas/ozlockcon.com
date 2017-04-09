@@ -162,3 +162,17 @@ christina-palmer:
       <br >
       The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of CAD software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
   hackergotchi: /images/hackergotchis/mystery.png
+
+
+huajiang-chen:
+  name: Huajiang 'Kevin2600' Chen
+  whois: Security Researcher at the Istuary-Security Lab in Vancouver, Canada
+  twitter: Kevin2600
+  talk:
+    title: Bluetooth that bites - BTLE Unlocking
+    abstract: >
+      Locks are an ancient technology. The current trend in locks is to make them "Smarter" by adding wireless functionality and connecting them to the Internet! But are they doing any better than mechanical only locks?
+      <br >
+      <br >
+      We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples step by step; from APK file reversing to BTLE traffic sniffing and analyzing. Finally addressing the weakness of such BTLE Locks. The attendees will be benefit for the follow up the steps on similar BTLE devices.
+  hackergotchi: /images/hackergotchis/mystery.png
