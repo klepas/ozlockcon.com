@@ -169,7 +169,7 @@ huajiang-chen:
   whois: Security Researcher at the Istuary-Security Lab in Vancouver, Canada
   twitter: Kevin2600
   talk:
-    title: Bluetooth that bites - BTLE Unlocking
+    title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> Unlocking
     abstract: >
       Locks are an ancient technology. The current trend in locks is to make them "Smarter" by adding wireless functionality and connecting them to the Internet! But are they doing any better than mechanical only locks?
       <br >
