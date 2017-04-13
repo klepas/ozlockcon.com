@@ -165,7 +165,7 @@ christina-palmer:
 
 
 huajiang-chen:
-  name: Huajiang Chen
+  name: Huajiang ‘Kevin2600’ Chen
   whois: Security Researcher at the Istuary-Security Lab in Vancouver, Canada
   twitter: Kevin2600
   talk:
@@ -175,4 +175,4 @@ huajiang-chen:
       <br >
       <br >
       We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples, step by step: from <abbr title="Android Package Kit">APK</abbr> file reversing to BTLE traffic sniffing and analysing. The talk will provide attendees an insight into the weaknesses of common BTLE implementations, and the principles of attack shared across similar such devices.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/Kevin2600.jpg
