@@ -13,9 +13,13 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 
 ### Privasec
 
-<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
 
-> Privasec Pty Ltd. (Privasec) is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making. Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
+> Privasec Pty Ltd. is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making.
+>
+> Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit.
+>
+> At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
 
 ***
 
@@ -27,9 +31,24 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Mercury ISS
 
-<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/mercuryiss-logo.png" alt="Mercury ISS logo" /></a>
+<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
 
-> Mercury ISS are a sydney based information security consulting firm. Check out their website for a range of offerings at [mercuryiss.com.au](http://mercuryiss.com.au/).
+> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [mercuryiss.com.au](http://mercuryiss.com.au/).
+
+### Loop Technology
+
+<a class="logo" href="https://www.looptech.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
+
+> Loop Technology is a specialist cyber security firm delivering a wide range of services to manage cyber risk and protect business assets. Solutions include:
+> * Managed Security Services
+> * Offensive Security Services
+> * Cyber Security Consulting
+> * A wide range of leading security technologies.
+>
+> Managed Security Services are controlled from our World Class Security Operations Centre in Melbourne, Australia. We offer both cloud-based security controls and on-premise management of technology.
+>
+> Loop has significant expertise and certifications in security consulting and penetration testing. Our teams assist customers in determining the effectiveness of their cyber defences and security management systems then establish governance processes and controls that minimise vulnerabilities and risks. For more info see [looptech.com.au](https://www.looptech.com.au/).
+
 
 ***
 
@@ -41,13 +60,13 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### SouthOrd
 
-<a class="logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" /></a>
+<a class="logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
 
 > Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
-<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" /></a>
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
 
 > Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
 

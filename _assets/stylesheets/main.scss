@@ -94,6 +94,7 @@ $base-timing: ease;
   @return ($pxval / $base-size) * 1rem;
 }
 
+
 @mixin wrapper-padding {
   @include media($desktop) {
     padding-left: $gutter * 2;
@@ -108,10 +109,12 @@ $base-timing: ease;
   width: 100%;
 }
 
+
 @mixin wrapper {
   @include wrapper-padding;
   @include outer-container;
 }
+
 
 @mixin sr-only {
   border: 0;
@@ -124,6 +127,7 @@ $base-timing: ease;
   width: 1px;
 }
 
+
 @mixin ie-clearfix {
   &::after {
     clear: both;
@@ -134,11 +138,100 @@ $base-timing: ease;
 }
 
 
+// ## Replace a string with a string
+// http://codepen.io/jakob-e/pen/doMoML
+//
+// @author @eriksen_dk <https://twitter.com/eriksen_dk>
+//
+// @param  {string} $string   - The haystack string to be manipulated
+// @param  {string} $search   - The needle to be replace
+// @param  {string} $replace  - The replacement
+//
+// @return {string}           - The manipulated string with replaced values
+@function replace( $string, $search, $replace: '' ) {
+	@if type-of( $string ) != 'string' {
+		@error "The first argument for replace must be a string.";
+	}
+	@if type-of( $search ) != 'string' {
+		@error "The second argument for replace must be a string.";
+	}
+	@if type-of( $replace ) != 'string' {
+		@error "The third argument for replace must be a string.";
+	}
+	$index: str-index( $string, $search );
+	@return if( $index,
+		str-slice( $string, 1, $index - 1 ) +
+		$replace +
+		replace(
+			str-slice( $string, $index + str-length( $search )
+		), $search, $replace ),
+		$string
+	);
+}
+
+
+// ## Generate an optimized SVG data-uri for
+// https://codepen.io/tigt/post/optimizing-svgs-in-data-uris
+// http://codepen.io/jakob-e/pen/doMoML
+//
+// @author @eriksen_dk <https://twitter.com/eriksen_dk>
+//
+// @param  {string} $svg - The SVG to be converted
+//
+// @return {string}      - An optimized data-uri
+@function svguri( $svg ) {
+	@if type-of( $svg ) != 'string' {
+		@error "The svguri function only takes a string.";
+	}
+	@if not str-index( $svg, xmlns ) { //Add missing namespace
+		$svg: replace( $svg, '<svg','<svg xmlns="http://www.w3.org/2000/svg"' );
+	}
+	$encoded:'';
+	$slice: 2000;
+	$index: 0;
+	$loops: ceil( str-length( $svg ) / $slice ); //Chunk up string in order to avoid "stack level too deep" error
+	@for $i from 1 through $loops {
+		$chunk: str-slice( $svg, $index, $index + $slice - 1 );
+		$chunk: replace( $chunk,'"', "'" );
+		$chunk: replace( $chunk,'	', " " );
+		$chunk: replace( $chunk,'  ', " " );
+		$chunk: replace( $chunk,'%', '%25' );
+		$chunk: replace( $chunk,'&', '%26' );
+		$chunk: replace( $chunk,'#', '%23' );
+		$chunk: replace( $chunk,'{', '%7B' );
+		$chunk: replace( $chunk,'}', '%7D' );
+		$chunk: replace( $chunk,'<', '%3C' );
+		$chunk: replace( $chunk,'>', '%3E' );
+
+		/*    The maybe list
+			 Keep size and compile time down
+			 ... only add on documented fail
+		 $chunk: uikit-replace( $chunk, '|', '%7C' );
+		 $chunk: uikit-replace( $chunk, '[', '%5B' );
+		 $chunk: uikit-replace( $chunk, ']', '%5D' );
+		 $chunk: uikit-replace( $chunk, '^', '%5E' );
+		 $chunk: uikit-replace( $chunk, '`', '%60' );
+		 $chunk: uikit-replace( $chunk, ';', '%3B' );
+		 $chunk: uikit-replace( $chunk, '?', '%3F' );
+		 $chunk: uikit-replace( $chunk, ':', '%3A' );
+		 $chunk: uikit-replace( $chunk, '@', '%40' );
+		 $chunk: uikit-replace( $chunk, '=', '%3D' );
+		*/
+
+		$encoded: #{ $encoded }#{ $chunk };
+		$index: $index + $slice;
+	}
+
+	@return url("data:image/svg+xml,#{ $encoded }");
+}
+
+
 ////////////////////////////////////////////////////////////////////////////////
 // #  Custom partial imports
 //
 @import 'body';
 @import 'responsive-media';
+@import 'icons';
 @import 'headings';
 @import 'header';
 @import 'navigation';

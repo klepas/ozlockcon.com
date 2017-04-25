@@ -52,7 +52,7 @@ We hope not. Anyone found to have criminal intent attending the conference will 
 
 Additionally, we're going to borrow a quote as an answer:
 
-> Rogues knew a good deal about lock-picking long before locksmiths discussed it [...] If a lock is not so inviolable as it has hitherto been deemed to be, surely it is to the interest of honest persons to know this fact, because the dishonest are... certain to apply the knowledge practically… the spread of the knowledge is necessary to give fair play to those who might suffer by ignorance.
+> Rogues knew a good deal about lock-picking long before locksmiths discussed it [...] If a lock is not so inviolable as it has hitherto been deemed to be, surely it is to the interest of honest persons to know this fact, because the dishonest are [...] certain to apply the knowledge practically [...] the spread of the knowledge is necessary to give fair play to those who might suffer by ignorance.
 
 <small>Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.</small>
 
