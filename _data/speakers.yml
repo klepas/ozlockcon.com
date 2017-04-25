@@ -105,7 +105,7 @@ craig-rumball:
   whois: "Security advisor & locksmith"
   panel: true
   talk:
-    title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(A government perspective)</small>"
+    title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(a government perspective)</small>"
     abstract: >
       Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
       <br>
@@ -168,8 +168,8 @@ christina-palmer:
     title: Wave rake design
     abstract: >
       What makes a good wave rake? Science and engineering are applied to wave rake design.
-      <br >
-      <br >
+      <br>
+      <br>
       The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of <abbr title="computer-aided design">CAD</abbr> software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
   hackergotchi: /images/hackergotchis/mystery.png
 
@@ -182,8 +182,8 @@ huajiang-chen:
     title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
     abstract: >
       Locks are an ancient technology; the current trend in locks is to make them “Smarter” by adding wireless functionality and connecting them to the Internet! ...but are they doing any better than mechanical only locks?
-      <br >
-      <br >
+      <br>
+      <br>
       We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples, step by step: from <abbr title="Android Package Kit">APK</abbr> file reversing to BTLE traffic sniffing and analysing. The talk will provide attendees an insight into the weaknesses of common BTLE implementations, and the principles of attack shared across similar such devices.
   hackergotchi: /images/hackergotchis/Kevin2600.jpg
 
@@ -193,8 +193,8 @@ ben-tweek:
   workshop:
     title: Tamper-evidence challenge
     abstract: >
-      Physical seals are intended to provide assurance that the sealed object has not been tampered with - to detect theft, contamination or unathorised access.
-      <br >
-      <br >
+      Physical seals are intended to provide assurance that the sealed object has not been tampered with --- to detect theft, contamination, or unathorised access.
+      <br>
+      <br>
       This challenge will be a hands-on, participant-led excersise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weakness, and also show some ways to detect tampering. Fame, glory and possibly actual prizes will be awarded to participants who succeed in defeating each kind of seal.
   hackergotchi: /images/hackergotchis/mystery.png
