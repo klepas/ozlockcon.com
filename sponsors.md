@@ -33,7 +33,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Loop Technology
 
-<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="269" height="145" /></a>
+<a class="logo" href="https://www.looptech.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="269" height="145" /></a>
 
 > Loop Technology is a specialist cyber security firm delivering a wide range of services to manage cyber risk and protect business assets. Solutions include:
 > * Managed Security Services
