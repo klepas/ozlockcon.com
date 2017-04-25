@@ -31,7 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OzLockCon
 stasibook_url: https://www.facebook.com/ozlockcon/
-github_username:  klepas
+github_username: klepas
 
 # Build settings
 markdown: kramdown
