@@ -15,7 +15,11 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 
 <a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
 
-> Privasec Pty Ltd. (Privasec) is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making. Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit. At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
+> Privasec Pty Ltd. is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making.
+>
+> Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit.
+>
+> At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
 
 ***
 
@@ -33,7 +37,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Loop Technology
 
-<a class="logo" href="https://www.looptech.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="269" height="145" /></a>
+<a class="logo" href="https://www.looptech.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
 
 > Loop Technology is a specialist cyber security firm delivering a wide range of services to manage cyber risk and protect business assets. Solutions include:
 > * Managed Security Services
