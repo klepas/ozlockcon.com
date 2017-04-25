@@ -9,6 +9,17 @@ robert-bull:
       In this challenge, you play a 2-person team of bomb-disposal experts. You will have to defeat a variety of sensors and countermeasures using your skills, knowledge and creativity with the materials on hand. You have 10 minutes to disarm the bomb. One small mistake and: BIG BADDA BOOM!
   hackergotchi: /images/hackergotchis/bull.jpg
 
+
+beardpunish:
+  name: Alex ‘Beardpunish’
+  whois: Professional jeweller
+  workshop:
+    title: Lost wax casting of complex keys
+    abstract: >
+      Explore an ancient technique of lost wax casting, where anything made in wax can be made into metal. We’ll cover casting principles and basic techniques used, non-shrink moulding techniques, <abbr title="Room Temperature Vulcanization">RTV</abbr> silicone mould making, wax injection, cleanup and finishing of the casted copy.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+
 amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
@@ -57,6 +68,16 @@ alex:
     title: Tricking people using magic tricks and pickpocketing
     abstract: >
       You know magicians? Pickpockets? How do they do it? How do they trick people so consistently? This talk is about using the same techniques a magician or pickpocket would use, but for social engineering and physical security mischief. We’ll exploit the wonky default settings of human brains for the sake of sneaking what you're doing past people. To a magician, your brain is probably running the wetware equivalent of Windows 95, so come along and get patched.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+
+michael-maynard:
+  name: Michael Maynard
+  whois: Tinkering optometrist
+  talk:
+    title: "Safes: banks, burglars, budgets... and the average Joe"
+    abstract: >
+      The perfect safe doesn't exist of course, and physical security is always going to be a balancing act between the demands of the customer, the technology available at the time of manufacture, and, of course, budget. I take you through a tour of safes and safe theory, and invite you to think a bit deeper than just nuts and bolts. (Oh, and we'll get to look at the design of a three wheel combination safe lock because, you know, it's undeniably cool.)
   hackergotchi: /images/hackergotchis/mystery.png
 
 
@@ -117,17 +138,6 @@ silviocesare:
   hackergotchi: /images/hackergotchis/silviocesare.jpg
 
 
-oliver:
-  name: Oliver
-  talk:
-    title: Dispelling the myth of key control
-    abstract: >
-      Using home made <abbr title="computer numerical control">CNC</abbr> mill and 3D printers one can recreate any mechanical key. The hard work has been done by the open source movement and now anyone with limited skill can get a computer to produce any key they need... and if the computer is producing keys for you, why not produce 32 variations?
-      <br>
-      <br>
-      In this talk I will discuss the tools required and practical challenges involved in using a small CNC mill/3D printer to produce keys, and go on to extend that idea to automating privilege escalation attacks in master key systems.
-  hackergotchi: /images/hackergotchis/mystery.png
-
 wayne:
   name: Wayne
   talk:
@@ -152,7 +162,7 @@ lucas-zhao:
 
 christina-palmer:
   name: Christina Palmer
-  whois: Lock Pick Designer
+  whois: Lock pick designer
   website: http://elvencraft.com
   talk:
     title: Wave rake design
@@ -181,7 +191,7 @@ ben-tweek:
   name: Ben and Tweek
   whois: Security Engineers at Google
   workshop:
-    title: Tamper Evidence Challenge
+    title: Tamper-evidence challenge
     abstract: >
       Physical seals are intended to provide assurance that the sealed object has not been tampered with - to detect theft, contamination or unathorised access.
       <br >
