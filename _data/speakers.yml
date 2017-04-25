@@ -176,7 +176,7 @@ christina-palmer:
 
 huajiang-chen:
   name: Huajiang ‘Kevin2600’ Chen
-  whois: Security Researcher at the Istuary-Security Lab in Vancouver, Canada
+  whois: Security researcher at the Istuary-Security Lab in Vancouver, Canada
   twitter: Kevin2600
   talk:
     title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
@@ -189,7 +189,7 @@ huajiang-chen:
 
 ben-tweek:
   name: Ben and Tweek
-  whois: Security Engineers at Google
+  whois: Security engineers at Google
   workshop:
     title: Tamper-evidence challenge
     abstract: >
