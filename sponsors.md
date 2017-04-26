@@ -74,7 +74,9 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 <a class="logo" href="https://pentesterlab.com/"><img src="/images/sponsors/pentesterlab-logo.png" alt="PentesterLab Logo" width="200" /></a>
 
->  PentesterLab provides a unique platform to learn web security and penetration testing. This platform is available for both individuals and enterprises. Our labs cover all the most recent vulnerabilities as well as the well-known issues (SQL injection, XSS,...). Hands-on practices using real scenario impacting real systems ensure that you or your team learn how to detect and exploit the issues! We also provide plenty of free content to give back to the community.
+> PentesterLab provides a unique platform to learn web security and penetration testing. This platform is available for both individuals and enterprises. Our labs cover all the most recent vulnerabilities as well as the well-known issues (SQL injection, XSS, ...).
+>
+> Hands-on practices using real scenario impacting real systems ensure that you or your team learn how to detect and exploit the issues! We also provide plenty of free content to give back to the community.
 
 ## Interested in being a sponsor?
 
