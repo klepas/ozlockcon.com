@@ -13,7 +13,7 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 
 ### Privasec
 
-<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
 
 > Privasec Pty Ltd. is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making.
 >
@@ -31,13 +31,13 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Mercury ISS
 
-<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
+<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
 
 > Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [mercuryiss.com.au](http://mercuryiss.com.au/).
 
 ### Loop Technology
 
-<a class="logo" href="https://www.looptech.com.au/"><img src="/images/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
+<a class="logo" href="https://www.looptech.com.au/"><img src="/images/sponsors/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
 
 > Loop Technology is a specialist cyber security firm delivering a wide range of services to manage cyber risk and protect business assets. Solutions include:
 > * Managed Security Services
@@ -60,15 +60,21 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### SouthOrd
 
-<a class="logo" href="http://www.southord.com/"><img src="/images/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
+<a class="logo" href="http://www.southord.com/"><img src="/images/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
 
 > Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
-<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
 
 > Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
+
+### PentesterLab
+
+<a class="logo" href="https://pentesterlab.com/"><img src="/images/sponsors/pentesterlab-logo.png" alt="PentesterLab Logo" width="200" /></a>
+
+>  PentesterLab provides a unique platform to learn web security and penetration testing. This platform is available for both individuals and enterprises. Our labs cover all the most recent vulnerabilities as well as the well-known issues (SQL injection, XSS,...). Hands-on practices using real scenario impacting real systems ensure that you or your team learn how to detect and exploit the issues! We also provide plenty of free content to give back to the community.
 
 ## Interested in being a sponsor?
 
