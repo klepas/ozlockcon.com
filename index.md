@@ -92,4 +92,4 @@ Want to become our single tier 1 sponsor? [We have one slot open](/sponsors/#tie
 
 ### Privasec --- tier 2 sponsor
 
-<a class="logo" href="http://privasec.com.au/"><img src="/images/privasec-logo.png" alt="Privasec logo" width="200" height="49" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="200" height="49" /></a>
