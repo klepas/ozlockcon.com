@@ -145,7 +145,7 @@ Perks:
 - Have your logo featured in the opening and closing ceremony slides.
 - Have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors.
 - Optionally have your company banner next to one of the workshop/villages running.
-- Single banner placed in workshop area
+- Single banner placed in workshop area.
 
 
 Additionally your organisation will receive 1 complimentary ticket, and a special badge from us to mark your attendance and sponsorship.
