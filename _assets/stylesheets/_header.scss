@@ -14,6 +14,8 @@ header[role='banner'] {
   border-bottom: 3px solid $light-grey;
   color: $white;
 
+  text-align: left;
+
   .hero__logo {
     img {
       @include media($tablet) {

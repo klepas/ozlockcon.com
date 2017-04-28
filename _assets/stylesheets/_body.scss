@@ -16,12 +16,14 @@ body {
   font-size: rem(16);
   line-height: $leading-body;
   margin: 0;
+  text-align: center;
 }
 
 main {
   @include wrapper-padding;
   @include outer-container;
 
+  text-align: left;
   @include media($desktop) {
     padding-top: $line-double;
   }
