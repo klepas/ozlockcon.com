@@ -78,6 +78,14 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 >
 > Hands-on practices using real scenario impacting real systems ensure that you or your team learn how to detect and exploit the issues! We also provide plenty of free content to give back to the community.
 
+## Workshop sponsors
+
+### NooElec
+
+<a class="logo" href="http://www.nooelec.com/store/"><img src="/images/sponsors/nooelec-logo.png" alt="NooElec Logo" width="200"/></a>
+
+> NooElec is an engineering company which designs, manufactures and distributes electronics to tech enthusiasts around the globe.  For more information, visit their website at [nooelec.com](http://www.nooelec.com/store/).
+
 ## Interested in being a sponsor?
 
 OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
