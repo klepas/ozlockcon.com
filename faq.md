@@ -26,7 +26,7 @@ We aim to be like the conferences that occur in Europe and the US. We hope one d
 
 OzLockCon is not directly affiliated with [<abbr title="The Open Organisation Of Lockpickers, US">TOOOL US</abbr>](http://toool.us/), [<abbr title="The Open Organisation Of Lockpickers, Netherlands">TOOOL NL</abbr>](https://toool.nl/), or '[LockCon](https://toool.nl/LockCon)'; OzLockCon --- despite the similar name --- is not the same event.
 
-To avoid confusion in future, we plan to rename the event after OzLockCon 2017 has concluded
+To avoid confusion in future, we plan to rename the event after OzLockCon 2017 has concluded.
 
 ## Is this legal?
 
