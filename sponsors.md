@@ -49,6 +49,16 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 >
 > Loop has significant expertise and certifications in security consulting and penetration testing. Our teams assist customers in determining the effectiveness of their cyber defences and security management systems then establish governance processes and controls that minimise vulnerabilities and risks. For more info see [looptech.com.au](https://www.looptech.com.au/).
 
+### Tenable
+
+<a class="logo" href="http://lookbook.tenable.com/securitycenter-cv-product-lookbook/continuous_monitoring_infographic?utm_campaign=00009612&utm_promoter=tenable-apac&utm_medium=banner&utm_content=infographic&utm_source=ozlockcon.com"><img src="/images/sponsors/tenable-logo.png" alt="Tenable logo" width="275" /></a>
+#### Tenable Network Security
+
+> Tenable transforms security technology for the business needs of tomorrow through comprehensive solutions that provide continuous visibility and critical context, enabling decisive actions to protect your organisation. Tenable eliminates blind spots, prioritises threats, and reduces exposure and loss.
+>
+> With more than one million users and more than 21,000 customers worldwide, organisations trust Tenable for proven security innovation. Tenable customers range from Fortune Global 500 companies, to the global public sector, to mid-sized enterprises in all sectors, including finance, government, healthcare, higher education, retail and energy.
+>
+> Transform security with Tenable, the creators of Nessus and leaders in continuous monitoring.
 
 ***
 
