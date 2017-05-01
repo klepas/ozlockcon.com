@@ -31,7 +31,7 @@ OzLockCon will be held on the 3rd–4th of June 2017 in Melbourne between 10AM t
 
 The venue, "The Comics Lounge" is located at 26 Errol St, North Melbourne VIC 3051. There’s a [Google map at the bottom of the page](#venue-map).
 
-We will publish the schedule after the [Call for Papers & Workshops](/cfpw/) closes.
+We will publish the schedule shortly after the Call for Papers & Workshops closes.
 
 ### Talks
 
