@@ -26,6 +26,7 @@ main {
     padding-top: $line-double;
   }
 
+  display: block; // B/c IE sucks.
   padding-top: $line-single;
 }
 
