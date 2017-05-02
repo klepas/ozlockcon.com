@@ -22,6 +22,7 @@ questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.emai
 
 <small>Our code has been adapted from the [*Citizen Code of Conduct*](http://citizencodeofconduct.org/).</small>
 
+
 ## Purpose
 
 <small>[ §1 ]</small>
@@ -32,6 +33,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in OzLockCon to help us create safe and positive experiences for everyone.
 
+
 ## Open citizenship
 
 <small>[ §2 ]</small>
@@ -41,6 +43,7 @@ A supplemental goal of this Code of Conduct is to increase open [source/culture/
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and who encourages all participants to contribute to the fullest extent, commend them and/or let us know.
+
 
 ## Expected behaviour
 
@@ -65,7 +68,7 @@ The following behaviours are considered harassment and are unacceptable within o
 
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
+- Posting or displaying sexually explicit or violent material. This _especially_ includes sexualised marketing and uniforms, viz., ‘booth babes’.
 - Posting or threatening to post other people’s personally identifying information ("doxing").
 - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 - Inappropriate photography or recording.
@@ -76,6 +79,7 @@ The following behaviours are considered harassment and are unacceptable within o
 - Sustained disruption of community events, including talks and presentations.
 - Anything illegal (duh).
 - Photography without the consent of ALL parties in the photograph. Please take care to avoid photographing any participant without their explicit consent and delete any images if requested.
+
 
 ## Consequences of unacceptable behaviour
 
@@ -89,6 +93,7 @@ If a conference-goer engages in unacceptable behaviour, the OzLockCon Consmiths 
 
 Anyone who is expelled should not expect to receive a refund.
 
+
 ## Reporting guidelines
 
 <small>[ §6 ]</small>
@@ -96,6 +101,7 @@ Anyone who is expelled should not expect to receive a refund.
 If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a anyone from the OzLockCon Consmiths as soon as possible. You can also **<a href="mailto:{{ site.email }}">email us</a>**.
 
 Additionally, OzLockCon Consmiths are available to help conference-goers engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
+
 
 ## Addressing grievances
 
@@ -105,6 +111,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We may chose to make public reference to a warning during and/or after the event, in a general manner. In the event of an expulsion or otherwise serious breach of the Code of Conduct, we will publicly make reference to the breach, while respecting first and foremost the desired privacy of any victim(s).
 
+
 ## Scope
 
 <small>[ §8 ]</small>
@@ -113,11 +120,13 @@ We expect all participants (contributors, paid or otherwise; sponsors; and other
 
 This Code of Conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of conference activities when such behaviour has the potential to adversely affect the safety and well-being of conference members.
 
+
 ## Contact info
 
 <small>[ §9 ]</small>
 
 Outside of finding someone from the OzLockCon Consmiths in person, please **<a href="mailto:{{ site.email }}">contact us via email</a>**.
+
 
 ## License and attribution
 
