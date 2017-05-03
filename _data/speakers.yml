@@ -198,3 +198,20 @@ ben-tweek:
       <br>
       This challenge will be a hands-on, participant-led excersise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weakness, and also show some ways to detect tampering. Fame, glory and possibly actual prizes will be awarded to participants who succeed in defeating each kind of seal.
   hackergotchi: /images/hackergotchis/mystery.png
+
+ryan-jeremy:
+  name: Ryan and Jeremy
+  whois: >
+    "A menance to society" --- Metlstorm, <a href="https://twitter.com/ryankurte">Ryans Twitter</a> and <a href="https://twitter.com/jsstott">Jeremys Twitter</a>
+  talk:
+    title: >
+      Contactless Access Control 2: Life, uh, finds a way
+    abstract: >
+      Have you ever spent days waiting to clone the right access to get (back) into your highly secure access controlled building? Remembered your lockpicks but left the proxmark and the <abbr title="Software Defined Radio">SDR</abbr> at home?
+      <br>
+      <br>
+      We have a solution for you! Presenting the sledgehammer approach to completely avoiding the problem and exploiting the weakest link with out latest must-have portable-ish physical security appliance.
+      <br>
+      <br>
+      Now 86% less likely to explode...
+  hackergotchi: /images/hackergotchis/mystery.png
