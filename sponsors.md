@@ -60,6 +60,14 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 >
 > Transform security with Tenable, the creators of Nessus and leaders in continuous monitoring.
 
+### Insomnia Security
+
+<a class="logo" href="https://www.insomniasec.com/"><img src="/images/sponsors/insomnia-logo.png" alt="Insomnia Security logo" /></a>
+
+> Insomnia Security is a New Zealand based company dedicated to providing highly specialised information security consultancy services to customers.
+>
+> Find out more [here](https://www.insomniasec.com).
+
 ***
 
 Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#tier-3-----2k-unlimited-sponsors).
