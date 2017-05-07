@@ -27,9 +27,10 @@ amm0nra:
   workshop:
     title: Practical <abbr title="Radio-frequency Identification">RFID</abbr> security training [BYO gear required]
     abstract: >
-      This workshop will include both lecture style teaching about RFID access cards, covering protocols, formats and security measures as well as practical hands on training with the 'Proxmark3' open source RFID security tool. These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
-      <br>
-      <br>
+      This workshop will include both lecture style teaching about RFID access cards, covering protocols, formats and security measures as well as practical hands on training with the 'Proxmark3' open source RFID security tool.
+          
+      These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
+          
       **You will need to bring a laptop with virtualbox installed that supports USB passthrough!**
   hackergotchi: /images/hackergotchis/Amm0nRa.png
 
@@ -42,14 +43,11 @@ jos-weyers:
     title: Key impressioning
     abstract: >
       We've all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn't it be great to have an opening technique that would supply you with a working key in the process?
-      <br>
-      <br>
+          
       A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
-      <br>
-      <br>
+          
       Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10–15 minutes (and potentially faster)!
-      <br>
-      <br>
+          
       What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
   hackergotchi: /images/hackergotchis/josweyers.jpg
 
@@ -88,14 +86,11 @@ nullwolf:
     title: Practical <abbr title="Radio Frequency">RF</abbr> attacks workshop [BYO laptop]
     abstract: >
       Ever wished you knew how to "pick" wireless digital locks (remote keyless entry systems), disarm wireless alarm systems, and impersonate valid Radio Frequency transmissions? This is probably the workshop you're looking for.
-      <br>
-      <br>
+          
       Participants will learn to reverse engineer a basic RF signal, and transmit the reverse engineered signal to impersonate the target device. Time permitting, participants will also learn how to brute-force simple devices, and learn the anatomy of a RollJam attack.
-      <br>
-      <br>
+          
       Basic Linux familiarity preferred (i.e. know how to execute terminal commands at minimum).
-      <br>
-      <br>
+          
       **Bring a laptop! Also, if you have any <abbr title="Software Defined Radios">SDR</abbr>s please bring them as well!**
   hackergotchi: /images/hackergotchis/nullwolf.jpg
 
@@ -108,14 +103,11 @@ craig-rumball:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(a government perspective)</small>"
     abstract: >
       Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
-      <br>
-      <br>
+          
       This talk will introduce you to the Australian Government Protective Security Policy Framework (PSPF) and show you how to apply to its principles to provide layered and durable security measures in your own workspace.
-      <br>
-      <br>
+          
       Don't get bogged down in the fruits of bureaucracy, this talk condenses reams of boring documents and gives you the high speed tour --- hopefully slightly less boring.
-      <br>
-      <br>
+          
       Whether you want to learn how to make it or break it --- Security in Depth is more than just locks and firewalls.  Managing the weakest links, people and policy, is part of the key to securing information and assets.
   hackergotchi: /images/hackergotchis/rumball.png
 
@@ -155,8 +147,7 @@ lucas-zhao:
     title: Chinese contemporary mechanical locks
     abstract: >
       Many people are familiar with American and European lock companies as well as their designs, and defeats, such as Schlage, Corbin, Medeco, ASSA, Abloy, and EVVA. However, domestic Chinese locks, never seen outside of China, are far from typical both in terms of design and vulnerabilities.
-      <br>
-      <br>
+          
       Many people know, and love/hate the Chinese produced locks at their local big-box or dollar stores. Although most of the locks sold in big-box stores here nowadays are produced in China, that is only one side of the story. There is a whole other dimension with unique and ingenious designs which are sold exclusively in China. These modern locks feature exotic mechanisms and anti-pick features, unlike the cheap exported locks that most people are used to. In fact, many of these locks are even more secure than many high security locks made in America, and yet feature simple yet ingenious designs. I will also discuss potential defeats of even seemingly impossible to defeat designs of these locks, such as the GoldAtom reverse sidebar lock, a seemingly impossible to defeat lock that can be defeated with a wire and some yarn.
   hackergotchi: /images/hackergotchis/lucas-zhao.jpg
 
@@ -168,8 +159,7 @@ christina-palmer:
     title: Wave rake design
     abstract: >
       What makes a good wave rake? Science and engineering are applied to wave rake design.
-      <br>
-      <br>
+          
       The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of <abbr title="computer-aided design">CAD</abbr> software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
   hackergotchi: /images/hackergotchis/mystery.png
 
@@ -182,8 +172,7 @@ huajiang-chen:
     title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
     abstract: >
       Locks are an ancient technology; the current trend in locks is to make them “Smarter” by adding wireless functionality and connecting them to the Internet! ...but are they doing any better than mechanical only locks?
-      <br>
-      <br>
+          
       We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples, step by step: from <abbr title="Android Package Kit">APK</abbr> file reversing to BTLE traffic sniffing and analysing. The talk will provide attendees an insight into the weaknesses of common BTLE implementations, and the principles of attack shared across similar such devices.
   hackergotchi: /images/hackergotchis/Kevin2600.jpg
 
@@ -194,24 +183,24 @@ ben-tweek:
     title: Tamper-evidence challenge
     abstract: >
       Physical seals are intended to provide assurance that the sealed object has not been tampered with --- to detect theft, contamination, or unathorised access.
-      <br>
-      <br>
+          
       This challenge will be a hands-on, participant-led excersise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weakness, and also show some ways to detect tampering. Fame, glory and possibly actual prizes will be awarded to participants who succeed in defeating each kind of seal.
   hackergotchi: /images/hackergotchis/mystery.png
+
 
 ryan-jeremy:
   name: Ryan and Jeremy
   whois: >
-    "A menance to society" --- Metlstorm, <a href="https://twitter.com/ryankurte">Ryans Twitter</a> and <a href="https://twitter.com/jsstott">Jeremys Twitter</a>
+    "A menance to society" ---Metlstorm
   talk:
     title: >
       Contactless Access Control 2: Life, uh, finds a way
     abstract: >
       Have you ever spent days waiting to clone the right access to get (back) into your highly secure access controlled building? Remembered your lockpicks but left the proxmark and the <abbr title="Software Defined Radio">SDR</abbr> at home?
-      <br>
-      <br>
+          
       We have a solution for you! Presenting the sledgehammer approach to completely avoiding the problem and exploiting the weakest link with out latest must-have portable-ish physical security appliance.
-      <br>
-      <br>
+          
       Now 86% less likely to explode...
+          
+      <small>→ Twitter:</small> [**@ryankurte**](https://twitter.com/ryankurte) <span class="amp">&amp;</span> [**@jsstott**](https://twitter.com/jsstott)
   hackergotchi: /images/hackergotchis/mystery.png
