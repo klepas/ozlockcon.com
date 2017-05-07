@@ -7,7 +7,8 @@ title: "Sponsorship"
 
 ## Tier 1 sponsor
 
-Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k-for-a-single-special-sponsor).
+Want to become our single tier 1 sponsor? [We have **one slot open**](#tier-1----10k-for-a-single-special-sponsor).
+
 
 ## Tier 2 sponsors
 
@@ -19,7 +20,7 @@ Want to become our single tier 1 sponsor? [We have one slot open](#tier-1----10k
 >
 > Over the last decade, our consultants have delivered a broad range of engagements across a spectrum of industry sectors within Australia, particularly Government, Financial Services, Retail, IT, Health, Entertainment and Not-For Profit.
 >
-> At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [privasec.com.au](http://privasec.com.au).
+> At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [**privasec.com.au**](http://privasec.com.au).
 
 ***
 
@@ -27,13 +28,15 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ***
 
+
 ## Tier 3 sponsors
 
 ### Mercury ISS
 
 <a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
 
-> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [mercuryiss.com.au](http://mercuryiss.com.au/).
+> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](http://mercuryiss.com.au/).
+
 
 ### Loop Technology
 
@@ -47,7 +50,8 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 >
 > Managed Security Services are controlled from our World Class Security Operations Centre in Melbourne, Australia. We offer both cloud-based security controls and on-premise management of technology.
 >
-> Loop has significant expertise and certifications in security consulting and penetration testing. Our teams assist customers in determining the effectiveness of their cyber defences and security management systems then establish governance processes and controls that minimise vulnerabilities and risks. For more info see [looptech.com.au](https://www.looptech.com.au/).
+> Loop has significant expertise and certifications in security consulting and penetration testing. Our teams assist customers in determining the effectiveness of their cyber defences and security management systems then establish governance processes and controls that minimise vulnerabilities and risks. For more info see [**looptech.com.au**](https://www.looptech.com.au/).
+
 
 ### Tenable
 
@@ -60,13 +64,14 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 >
 > Transform security with Tenable, the creators of Nessus and leaders in continuous monitoring.
 
+
 ### Insomnia Security
 
-<a class="logo" href="https://www.insomniasec.com/"><img src="/images/sponsors/insomnia-logo.png" alt="Insomnia Security logo" /></a>
+<a class="logo" href="https://www.insomniasec.com/"><img src="/images/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
 
 > Insomnia Security is a New Zealand based company dedicated to providing highly specialised information security consultancy services to customers.
 >
-> Find out more [here](https://www.insomniasec.com).
+> Find out more at [**insomniasec.com**](https://www.insomniasec.com).
 
 ***
 
@@ -74,19 +79,20 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ***
 
+
 ## Prize sponsors
 
 ### SouthOrd
 
 <a class="logo" href="http://www.southord.com/"><img src="/images/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
 
-> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [www.southord.com](http://www.southord.com).
+> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [***southord.com**](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
 <a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
 
-> Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [www.sparrowslockpicks.com](http://www.sparrowslockpicks.com/).
+> Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [**sparrowslockpicks.com**](http://www.sparrowslockpicks.com/).
 
 ### PentesterLab
 
@@ -95,6 +101,8 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 > PentesterLab provides a unique platform to learn web security and penetration testing. This platform is available for both individuals and enterprises. Our labs cover all the most recent vulnerabilities as well as the well-known issues (SQL injection, XSS, ...).
 >
 > Hands-on practices using real scenario impacting real systems ensure that you or your team learn how to detect and exploit the issues! We also provide plenty of free content to give back to the community.
+>
+> Find out more at [**pentesterlab.com**](https://pentesterlab.com/).
 
 ## Workshop sponsors
 
@@ -102,7 +110,8 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 <a class="logo" href="http://www.nooelec.com/store/"><img src="/images/sponsors/nooelec-logo.png" alt="NooElec Logo" width="200"/></a>
 
-> NooElec is an engineering company which designs, manufactures and distributes electronics to tech enthusiasts around the globe.  For more information, visit their website at [nooelec.com](http://www.nooelec.com/store/).
+> NooElec is an engineering company which designs, manufactures and distributes electronics to tech enthusiasts around the globe.  For more information, visit their website at [**nooelec.com**](http://www.nooelec.com/store/).
+
 
 ## Interested in being a sponsor?
 
@@ -184,7 +193,7 @@ We are also open to donations of tools and other lock or security hardware and w
 
 If you have an idea or want to sponsor something specific not listed above such as a party on Saturday/Sunday night, please get in touch.
 
-Note: as a sponsor we do ask your organisation’s representatives to follow our [Code of Conduct](/conduct/).
+Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
 
 ***
 
