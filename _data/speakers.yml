@@ -24,6 +24,7 @@ amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
   twitter: Amm0nRa
+  slot_time: 014:00
   workshop:
     title: Practical <abbr title="Radio-frequency Identification">RFID</abbr> security training [BYO gear required]
     abstract: >
@@ -62,6 +63,7 @@ klepas:
 
 alex:
   name: Alex Hogue
+  slot_time: 09:00
   talk:
     title: Tricking people using magic tricks and pickpocketing
     abstract: >
@@ -124,7 +126,7 @@ gracienolag:
 
 silviocesare:
   name: Silvio Cesare
-  whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. Satoshi Nakamoto]</small>"
+  whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. *Satoshi Nakamoto*]</small>"
   twitter: silviocesare
   panel: true
   hackergotchi: /images/hackergotchis/silviocesare.jpg
@@ -200,7 +202,7 @@ ryan-jeremy:
           
       We have a solution for you! Presenting the sledgehammer approach to completely avoiding the problem and exploiting the weakest link with out latest must-have portable-ish physical security appliance.
           
-      Now 86% less likely to explode...
+      <small>[Now 86% less likely to explode...]</small>
           
       <small>→ Twitter:</small> [**@ryankurte**](https://twitter.com/ryankurte) <span class="amp">&amp;</span> [**@jsstott**](https://twitter.com/jsstott)
   hackergotchi: /images/hackergotchis/mystery.png
