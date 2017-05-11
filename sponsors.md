@@ -151,8 +151,6 @@ Perks:
 - Have your logo & link featured on the sponsorship page of the website in prime position above other Tiers.
 - Have your logo featured prominently in the opening and closing ceremony slides.
 - Have your organisation individually called out and thanked at the opening and closing ceremonies.
-- Your company logo will be prominently featured on the delegate/sponsor and VIP badges indicating that you are a sponsor of the event and badges.
-
 
 Additionally your organisation will receive 5 complimentary tickets to distribute as you like, and 5 special badges from us to mark your attendance and sponsorship.
 
