@@ -63,12 +63,14 @@ klepas:
 
 alex:
   name: Alex Hogue
+  whois: a kid with a laptop and a pocketful of memes
+  website: https://defaultnamehere.tumblr.com/
   slot_time: 09:00
   talk:
     title: Tricking people using magic tricks and pickpocketing
     abstract: >
       You know magicians? Pickpockets? How do they do it? How do they trick people so consistently? This talk is about using the same techniques a magician or pickpocket would use, but for social engineering and physical security mischief. We’ll exploit the wonky default settings of human brains for the sake of sneaking what you're doing past people. To a magician, your brain is probably running the wetware equivalent of Windows 95, so come along and get patched.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/alex-hogue.jpg
 
 
 michael-maynard:
@@ -116,6 +118,7 @@ craig-rumball:
 
 gracienolag:
   name: Grace Nolan
+  whois: "[gracenolan.me](http://gracenolan.me/)"
   twitter: GracieNoLag
   talk:
     title: "History of lock picking"
@@ -133,12 +136,14 @@ silviocesare:
 
 
 wayne:
-  name: Wayne
+  name: Wayne Ronaldson
+  whois: Technical Director, Risk Offensive
+  website: http://riskoffensive.com/
   talk:
     title: Red Teaming --- ‘You must go beyond the limits’
     abstract: >
       Red Teams are designed to penetrate security in a real world test of effectiveness of security controls, policy, technology and infrastructure. Red Teams view security from an adversary perspective in order to simulate realistic attack scenarios that enable an organisation as a whole to prepare and protect against both simple and sophisticated threats. Red Teams build security culture and provide opportunities for staff to be trained using real world examples.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/wayne-ronaldson.jpg
 
 
 lucas-zhao:
