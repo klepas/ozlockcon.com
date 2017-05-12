@@ -24,7 +24,8 @@ amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
   twitter: Amm0nRa
-  slot_time: 014:00
+  session_time: "14:00"
+  day: "1"
   workshop:
     title: Practical <abbr title="Radio-frequency Identification">RFID</abbr> security training [BYO gear required]
     abstract: >
@@ -65,7 +66,8 @@ alex:
   name: Alex Hogue
   whois: a kid with a laptop and a pocketful of memes
   website: https://defaultnamehere.tumblr.com/
-  slot_time: 09:00
+  session_time: "09:00"
+  day: "1"
   talk:
     title: Tricking people using magic tricks and pickpocketing
     abstract: >
@@ -124,7 +126,7 @@ gracienolag:
     title: "History of lock picking"
     abstract: >
       Get into my hyperspace time cruiser and let me take you on a tour through millennia of lock picking. We’ll learn about some of the locks the aristocracy came up with to secure their valuables. We’ll see lock picking bounties and the transient era of perfect security. Yes, that’s right. Perfect Security. These are your great-great-great grandparents’ stories so buckle up kiddo, you’re in for a wild ride.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/grace-nolan.jpg
 
 
 silviocesare:
