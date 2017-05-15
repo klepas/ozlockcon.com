@@ -104,6 +104,12 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 >
 > Find out more at [**pentesterlab.com**](https://pentesterlab.com/).
 
+### OzHack
+
+<a class="logo" href="https://www.ozhack.com/"><img src="/images/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
+
+>OZ Hack! Australia and New Zealand's only online computer security hardware and hacking store. Stocking the latest in Software Defined Radio, Testing Tools and tech gadgets for professionals and enthusiasts!
+
 ## Workshop sponsors
 
 ### NooElec
