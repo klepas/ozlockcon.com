@@ -4,19 +4,17 @@
 table {
   border-collapse: collapse;
   margin: $line-single 0;
-  table-layout: fixed;
   width: 100%;
 }
 
 th {
-  border-bottom: $grey;
-  font-weight: 600;
+  border-bottom: $table-bord-bot;
   padding: $line-single 0;
   text-align: left;
 }
 
 td {
-  border-bottom: $lighter-grey;
+  border-bottom: $table-bord-bot;
   padding: $line-single 0;
 }
 
