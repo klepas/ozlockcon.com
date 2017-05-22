@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////////
+// #  styling for the table
+//
+table {
+  border-collapse: collapse;
+  margin: $line-single 0;
+  table-layout: fixed;
+  width: 100%;
+}
+
+th {
+  border-bottom: $grey;
+  font-weight: 600;
+  padding: $line-single 0;
+  text-align: left;
+}
+
+td {
+  border-bottom: $lighter-grey;
+  padding: $line-single 0;
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}
