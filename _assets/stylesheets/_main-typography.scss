@@ -73,6 +73,24 @@ main {
     max-width: 50em;
   }
 
+  // Abbreviations/acronyms.
+  abbr,
+  abbr[title] {
+    font-size: 106.25%;
+    // 17px; using % since abbr should be nested inside another text element,
+    // and we need to match the small-cap height with the regular x-height.
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-bottom: 1px dotted $light-grey;
+    cursor: help;
+
+    &:hover {
+      border-bottom: none;
+    }
+  }
+
   blockquote {
     margin: $line-half 0;
     padding: 0 rem(36);
