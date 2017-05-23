@@ -33,7 +33,9 @@ amm0nra:
           
       These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
           
-      **You will need to bring a laptop with virtualbox installed that supports USB passthrough!**
+      **You will need to bring a laptop with virtualbox installed that supports USB passthrough! You’ll need to bring your own ethernet cable and adapter as necessary.**
+          
+      **If you have a proxmark 3 or newer, please also bring it along (we only have 20 Proxmarks available for general use).**
   hackergotchi: /images/hackergotchis/Amm0nRa.png
 
 

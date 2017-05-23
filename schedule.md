@@ -39,8 +39,12 @@ title: "Schedule"
 
 - Lockpicking
 - [**Impressioning workshop**, by Alex 'Beardpunish'](https://ozlockcon.com/speakers/#alex-beardpunish)
-- [**RFID Hacking workshop**, by Amm0nRa](https://ozlockcon.com/speakers/#amm0nra)
+- [**RFID Hacking workshop**, by Amm0nRa](https://ozlockcon.com/speakers/#amm0nra).
+	- You will need to bring a laptop with virtualbox installed that supports USB passthrough! You’ll need to bring your own ethernet cable and adapter as necessary.
+	- If you have a Proxmark 3 or newer, please also bring it along (we only have 20 Proxmarks available for general use).
 - [**Alarm System Hacking workshop**, by nullwolf](https://ozlockcon.com/speakers/#nullwolf)
+	- You’ll need to bring your own laptop.
+	- If you have a RTL-SDRs and Yard stick One, please bring it (we only have 20 of each available for general use).
 - [**Tamper Evident Seals workshop**, by Ben & Tweek](https://ozlockcon.com/speakers/#ben-and-tweek)
 - **Safe-Cracking Workshop**
 - ['**Big-bada-boom**' workshop, by Robert 'Bull' Winkel](https://ozlockcon.com/speakers/#robert-bull-winkel)
