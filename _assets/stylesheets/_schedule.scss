@@ -7,19 +7,26 @@ table {
   width: 100%;
 }
 
+thead {
+  border-bottom: 2px solid $lighter-grey;
+}
+
 th {
-  border-bottom: $table-bord-bot;
-  padding: $line-single 0;
-  text-align: left;
+  padding: $line-single $line-half;
 }
 
 td {
-  border-bottom: $table-bord-bot;
-  padding: $line-single 0;
+  border-bottom: 2px solid $lighter-grey;
+  padding: $line-single $line-half;
 }
 
 tr,
 td,
 th {
   vertical-align: middle;
+}
+
+
+tbody tr:nth-child(odd) {
+  background-color: #f0f3f5;
 }
