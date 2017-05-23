@@ -45,6 +45,7 @@ $transparent-grey:        rgba(0, 0, 0, 0.1);
 
 $action-colour:           #477dca;
 
+
 // ## Type families
 //
 $font-stack-monospace: 'Operator Mono', 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
@@ -239,6 +240,7 @@ $base-timing: ease;
 @import 'speakers';
 @import 'sponsors-stuff';
 @import 'footer';
+@import 'schedule';
 
 .wrapper {
   @include wrapper;
