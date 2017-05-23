@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<h2 class="display-2--lighter">Schedule</h2>
+
+{% assign speakers = site.data.speakers | sort %}
+
+Do a capture instead, using plus 0?
+{% assign speakers_day_1 = speakers | where: "day", '1' | plus: 0 %}
+{% assign speakers_day_2 = speakers | where: "day", '2' | plus: 0 %}
+
+<table>
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Session</th>
+		</tr>
+	</thead>
+	{% for speaker in speakers_day_1 %}
+	<!-- {% if speaker.day == "1" %} -->
+		<tr>
+			<td>{{ speaker.session_time }}</td>
+
+				{% if speaker.talk %}
+					<td>
+						<h3>
+							<span class="">
+								Talk
+							</span>
+							{{ speaker.talk.title | markdownify | remove: '<p>' | remove: '</p>' }}
+						</h3>
+
+						<a class="" href="/speakers/#{{ speaker.name | slugify }}">
+							{{ speaker.name }}
+						</a>
+
+						<div class="">
+							{{ speaker.talk.abstract | markdownify }}
+						</div>
+					</td>
+
+				{% else speaker.workshop %}
+					<h3>
+						<span class="">
+							Workshop
+						</span>
+						{{ speaker.workshop.title | markdownify | remove: '<p>' | remove: '</p>' }}
+					</h3>
+
+					<a class="" href="/speakers/#{{ speaker.name | slugify }}">
+						{{ speaker.name }}
+					</a>
+
+					<div class="">
+						{{ speaker.workshop.abstract | markdownify }}
+					</div>
+				{% endif %}
+			</td>
+		</tr>
+	<!-- {% endif %} -->
+	{% endfor %}
+</table>
