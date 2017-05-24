@@ -1,33 +1,35 @@
 ////////////////////////////////////////////////////////////////////////////////
 // #  styling for the table
 //
-table {
-  border-collapse: collapse;
-  margin: $line-single 0;
-  width: 100%;
-}
+.schedule {
+    table {
+    border-collapse: collapse;
+    margin: $line-single 0;
+    width: 100%;
+  }
 
-thead,
-td {
-  border-bottom: 2px solid $lighter-grey;
-}
+  thead,
+  td {
+    border-bottom: 2px solid $lighter-grey;
+  }
 
-th,
-td {
-  padding: $line-single $line-half;
-}
+  th,
+  td {
+    padding: $line-single $line-half;
+  }
 
-th {
-  padding-bottom: $line-quarter;
-}
+  th {
+    padding-bottom: $line-quarter;
+  }
 
-tr,
-td,
-th {
-  vertical-align: middle;
-}
+  tr,
+  td,
+  th {
+    vertical-align: middle;
+  }
 
-// Zebra-striping.
-tbody tr:nth-child(odd) {
-  background-color: #f0f3f5;
+  // Zebra-striping.
+  tbody tr:nth-child(odd) {
+    background-color: #f0f3f5;
+  }
 }

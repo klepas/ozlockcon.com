@@ -1,0 +1,49 @@
+.merch {
+
+  table {
+    border-collapse: collapse;
+    margin: $line-single 0;
+    width: 100%;
+  }
+
+  th,
+  td {
+    padding: $line-single $line-half;
+  }
+
+  th {
+    padding-bottom: $line-quarter;
+  }
+
+  tr,
+  td,
+  th {
+    vertical-align: middle;
+  }
+}
+
+.shirt {
+
+  table {
+    border-collapse: collapse;
+    margin: $line-single 0;
+    width: 100%;
+  }
+
+  th,
+  td {
+    padding: $line-single $line-half;
+    border-left: 2px solid $lighter-grey;
+    border-right: 2px solid $lighter-grey;
+  }
+
+  th {
+    padding-bottom: $line-quarter;
+  }
+
+  tr,
+  td,
+  th {
+    vertical-align: middle;
+  }
+}
