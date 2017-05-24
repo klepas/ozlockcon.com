@@ -10,7 +10,7 @@ title: "Merchandise"
 While we have merchandise in our **[teespring shop](https://teespring.com/stores/ozlockcon)**, we’ve realised the shipping costs of teespring makes merchandise somewhat inaccessible so for a limited time, we’re accepting orders which will be made and shipped from within Australia where shipping will be at a flat rate of $15.*
 <br /> <br />
 
-Please place all order by **midnight on Sunday June 4th 2017**.
+Please place all orders by **midnight on Sunday June 4th 2017**.
 For more information or to place orders, please contact Lana by [email](mailto:alannahguo@gmail.com) or talk to her in person at the con!
 
 <br />

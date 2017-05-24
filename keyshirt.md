@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /merch/keyshirt
+permalink: /merch/keyshirt/
 slug: shirt
 title: "Key Shirt"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /merch/hoodie
+permalink: /merch/hoodie/
 slug: hoodie
 title: "Loctopus Hoodie"
 ---

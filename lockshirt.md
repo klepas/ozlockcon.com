@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /merch/lockshirt
+permalink: /merch/lockshirt/
 slug: shirt
 title: "Loctopus Shirt"
 ---
