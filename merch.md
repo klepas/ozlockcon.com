@@ -19,8 +19,9 @@ For more information or to place an order, please contact Lana by [email](mailto
 
 | | | |
 | :------------- | :------------- | :------------- |
-| <a href="/merch/hoodie"> Insert Image Here  <br /> Loctopus Hoodie -- $60 </a> | <a href="/merch/lockshirt"> Insert Image Here  <br /> Loctopus Shirt -- $25 </a>       | <a href="/merch/keyshirt"> Insert Image Here  <br /> Key Shirt -- $25 </a> |
+| <img src="/images/merch/hoodie_front.png" alt="Front of the Hoodie" height = "250" /> <a href="/merch/hoodie"> <br /> Loctopus Hoodie -- $60 </a> |  <img src="/images/merch/out_locto_front.png" alt="Outlined Loctopus" height = "250" /> <a href="/merch/outlockshirt">  <br /> Outlined Loctopus Shirt -- $25 </a>       | <img src="/images/merch/key_back.png" alt="Key Shirt" height = "250" /> <br /> <a href="/merch/keyshirt"> Key Shirt -- $25 </a> |
+| | <img src="/images/merch/fill_locto_front.png" alt="Filled In Loctopus" height = "250" />  <br /> <a href="/merch/filllockshirt"> Colored In Loctopus Shirt -- $25 </a> | |
 
 
 
-<small> <b>* For domestic orders only </b> </small>
+<small> <b>* For domestic orders only.  Pick up can be arranged for Canberra residents.  Contact Lana for more information. </b> </small>
