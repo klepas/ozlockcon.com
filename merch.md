@@ -14,15 +14,17 @@ For a limited time, we’re accepting orders where shipping will be at a flat ra
 All shirts have both male and female versions.  In your order please specify which version you want.
 
 Please place all order by ***midnight on Sunday 4th of June 2017***.
+<br /> <br />
 
-For more information or to place an order, please contact Lana by [email](mailto:alannahguo@gmail.com) or you can find her at the conference!
+### To place an order
+For more information or to ***place an order, please contact Lana by [email](mailto:alannahguo@gmail.com) or you can find her at the conference!***
 <br /> <br />
 
 
 | | | |
 | :------------- | :------------- | :------------- |
-| <img src="/images/merch/hoodie_front.png" alt="Front of the Hoodie" height = "250" /> <a href="/merch/hoodie"> <br /> Loctopus Hoodie -- $60 </a> |  <img src="/images/merch/out_locto_front.png" alt="Outlined Loctopus" height = "250" /> <a href="/merch/outlockshirt">  <br /> Outlined Loctopus Shirt -- $25 </a>       | <img src="/images/merch/key_back.png" alt="Key Shirt" height = "250" /> <br /> <a href="/merch/keyshirt"> Key Shirt -- $25 </a> |
-| | <img src="/images/merch/fill_locto_front.png" alt="Filled In Loctopus" height = "250" />  <br /> <a href="/merch/filllockshirt"> Colored In Loctopus Shirt -- $30 </a> | |
+| <img src="/images/merch/hoodie_front.png" alt="Front of the Hoodie" height = "250" /> <a href="/merch/hoodie"> <br /> Kraken Hoodie -- $60 </a> |  <img src="/images/merch/out_krack_front.png" alt="Outlined Kraken" height = "250" /> <a href="/merch/outkrackshirt">  <br /> Outlined Kraken Shirt -- $25 </a>       | <img src="/images/merch/key_back.png" alt="Key Shirt" height = "250" /> <br /> <a href="/merch/keyshirt"> Key Shirt -- $25 </a> |
+| | <img src="/images/merch/fill_krack_front.png" alt="Filled In Kraken" height = "250" />  <br /> <a href="/merch/fillkrackshirt"> Colored In Kraken Shirt -- $30 </a> | |
 
 
 

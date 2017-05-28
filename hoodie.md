@@ -2,15 +2,15 @@
 layout: default
 permalink: /merch/hoodie/
 slug: hoodie
-title: "Loctopus Hoodie"
+title: "Kraken Hoodie"
 ---
 
-## Loctopus Hoodie
+## Kraken Hoodie
 
-Keep warm this winter with the Loctopus hoodie.
+Keep warm this winter with the Kraken hoodie.
 
 Skully design by [@bull](https://twitter.com/robertwinkel). <br />
-Loctopus design by [@lana](https://twitter.com/AlannahGuo).
+Kraken design by [@lana](https://twitter.com/AlannahGuo).
 
 | Front | | Back |
 | :------------- | :------------- | :------------- |
