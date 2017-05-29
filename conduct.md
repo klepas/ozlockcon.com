@@ -29,6 +29,8 @@ questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.emai
 
 A primary goal of OzLockCon is to be inclusive to the largest number of people interested in locksport, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
+OzLockCon encourages the sharing of information about all things so that people can be better informed and make better informed decisions.  We are also firm believers in the belief that lock sport is a great hobby that can be enjoyed by anyone.
+
 This code of conduct outlines our expectations for all those who participate in OzLockCon, as well as the consequences for unacceptable behaviour.
 
 We invite all those who participate in OzLockCon to help us create safe and positive experiences for everyone.
@@ -90,6 +92,8 @@ Unacceptable behaviour of any sort, listed here explicity or not, from any confe
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
 If a conference-goer engages in unacceptable behaviour, the OzLockCon Consmiths may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the conference without warning, or the calling of local police.
+
+We do not condone any form of illegal activity and anyone found to have intent to commit a crime, or with a history of committing crimes will be subsequently expelled from the event and reported to the police. Delegates are encouraged to report anyone who they believe to be acting suspiciously to the staff.
 
 Anyone who is expelled should not expect to receive a refund.
 
