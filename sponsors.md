@@ -79,6 +79,18 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ***
 
+## Locksport sponsor
+
+### PickPals locksport sponsor
+
+<a class="logo" href="https://www.pickpals.com.au/"><img src="/images/sponsors/pickpals-logo.png" alt="Pick Pals logo" width="210" /></a>
+
+> PickPals is your home for durable, quality, cutting-edge lock pick sets, by-pass and locksmith tools.
+> 
+> Across Australia, New Zealand and now the globe, we stock the latest lock pick sets from the most reputable global brands --- Sparrows, SouthOrd, Peterson, Brockhage, A1 Security Manufacturing and more.
+> 
+> The trusted supplier to the lock sport community.
+
 
 ## Prize sponsors
 
