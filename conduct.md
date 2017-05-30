@@ -29,7 +29,7 @@ questions, concerns, or suggestions we ask you to **<a href="mailto:{{ site.emai
 
 A primary goal of OzLockCon is to be inclusive to the largest number of people interested in locksport, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-OzLockCon encourages the sharing of information about all things so that people can be better informed and make better informed decisions.  We are also firm believers in the belief that lock sport is a great hobby that can be enjoyed by anyone.
+OzLockCon encourages the sharing of information about all things so that people can be better informed and make better informed decisions. We are also firm believers in the belief that lock sport is a great hobby that can be enjoyed by anyone.
 
 This code of conduct outlines our expectations for all those who participate in OzLockCon, as well as the consequences for unacceptable behaviour.
 

@@ -11,8 +11,8 @@ Show your support for OzLockCon with the Kraken t-shirt, because who doesn't wan
 
 Kraken design by [@lana](https://twitter.com/AlannahGuo).
 
-Sizing information can be found [here](/sizing/).
+For the right fit see the manufacturer’s [sizing sizing information](/sizing/).
 
- <img src="/images/merch/out_krack_front.png" alt="Front of Outlined Kraken" height = "500" />
- <br />
- ***Front***
+<img src="/images/merch/out_krack_front.png" alt="Front of Outlined Kraken" height="500" />
+
+***Front***

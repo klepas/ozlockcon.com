@@ -9,10 +9,10 @@ title: "Filled In Kraken Shirt"
 
 Show your support for OzLockCon with the Kraken t-shirt, because who doesn't want an Kraken picking locks?
 
-Loctopus design by [@lana](https://twitter.com/AlannahGuo).
+‘Loctopus’ design by [@lana](https://twitter.com/AlannahGuo).
 
-Sizing information can be found [here](/sizing/).
+For the right fit see the manufacturer’s [sizing sizing information](/sizing/).
 
- <img src="/images/merch/fill_krack_front.png" alt="Front of Filled in Kraken" height = "500" />
- <br />
- ***Front***
+<img src="/images/merch/fill_krack_front.png" alt="Front of filled-in Kraken t-shirt" height="500" />
+
+***Front***
