@@ -73,6 +73,15 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 >
 > Find out more at [**insomniasec.com**](https://www.insomniasec.com).
 
+
+### HackLabs
+
+<a class="logo" href="https://www.hacklabs.com/"><img src="/images/sponsors/hacklabs-logo.jpg" alt="HackLabs logo" width="300"/></a>
+
+>HackLabs is a Penetration Testing company.  The company has been formed by a team of industry professionals with the aim of providing improved and most importantly thorough and appropriate security testing.
+>
+>The team at HackLabs are very passionate about their work and want to ensure that the client has the best information and presented in a cutting edge deliverable to ensure optimum knowledge to the right audiences.
+
 ***
 
 Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#tier-3-----2k-unlimited-sponsors).
@@ -86,9 +95,9 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 <a class="logo" href="https://www.pickpals.com.au/"><img src="/images/sponsors/pickpals-logo.png" alt="Pick Pals logo" width="210" /></a>
 
 > PickPals is your home for durable, quality, cutting-edge lock pick sets, by-pass and locksmith tools.
-> 
+>
 > Across Australia, New Zealand and now the globe, we stock the latest lock pick sets from the most reputable global brands --- Sparrows, SouthOrd, Peterson, Brockhage, A1 Security Manufacturing and more.
-> 
+>
 > The trusted supplier to the lock sport community.
 
 
