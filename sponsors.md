@@ -78,9 +78,9 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 <a class="logo" href="https://www.hacklabs.com/"><img src="/images/sponsors/hacklabs-logo.jpg" alt="HackLabs logo" width="300"/></a>
 
->HackLabs is a Penetration Testing company.  The company has been formed by a team of industry professionals with the aim of providing improved and most importantly thorough and appropriate security testing.
+> HackLabs specialises in Red Team & Penetration Testing and have experienced staff who have collectively performed thousands of tests over the last 20 years.
 >
->The team at HackLabs are very passionate about their work and want to ensure that the client has the best information and presented in a cutting edge deliverable to ensure optimum knowledge to the right audiences.
+> Come join us @  [**hacklabs.com**](https://hacklabs.com).
 
 ***
 
