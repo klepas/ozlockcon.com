@@ -46,7 +46,7 @@ title: "Schedule"
 	- You’ll need to bring your own laptop.
 	- If you have a RTL-SDRs and Yard stick One, please bring it (we only have 20 of each available for general use).
 - Competitions
-	- ['**Big-bada-boom**', by Robert 'Bull' Winkel](https://ozlockcon.com/speakers/#robert-bull-winkel) --- first team to disarm the device successfully wins!
+	- [<s>‘<strong>Big-bada-boom</strong>’, by Robert 'Bull' Winkel</s>](https://ozlockcon.com/speakers/#robert-bull-winkel) --- first team to disarm the device successfully wins! **NOTE:** Sadly this event has been cancelled due to Bull being unwell.
 	- **Safe Scoping** --- practice at the workshop, then see if you can open a more complex lock the fastest!
 	- [**Impressioning**, by Alex 'Beardpunish'](https://ozlockcon.com/speakers/#alex-beardpunish) --- got skills? Can you impression a 6-pin lock the fastest?
 	- Lockpicking --- two competitions will be run: one points based based on the complexity of locks picked; the other, based on the total time taken to open the competition locks.
