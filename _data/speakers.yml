@@ -3,10 +3,12 @@ robert-bull:
   whois: Security consultant, pentester, online investigator, lockpicker
   twitter: RobertWinkel
   workshop:
-    title: “BIG BADDA BOOM!”
+    title: <s>“BIG BADDA BOOM!”</s>
     abstract: >
       “BIG BADDA BOOM!” is a challenge where you must disarm a (simulated) bomb counting down the seconds!
       In this challenge, you play a 2-person team of bomb-disposal experts. You will have to defeat a variety of sensors and countermeasures using your skills, knowledge and creativity with the materials on hand. You have 10 minutes to disarm the bomb. One small mistake and: BIG BADDA BOOM!
+          
+      **Note** that sadly this event has been cancelled due to Bull being unwell.
   hackergotchi: /images/hackergotchis/bull.jpg
 
 
@@ -141,8 +143,7 @@ silviocesare:
 
 wayne:
   name: Wayne Ronaldson
-  whois: Technical Director, Risk Offensive
-  website: http://riskoffensive.com/
+  whois: Technical Director, <abbr>TSS</abbr>
   talk:
     title: Red Teaming --- ‘You must go beyond the limits’
     abstract: >
