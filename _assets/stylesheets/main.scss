@@ -126,6 +126,27 @@ $base-timing: ease;
 }
 
 
+/// Clearfix mixin for clearing floats.
+///
+/// Expected usage: use when required to clear (force content to sit after
+/// floated elements) non-floating elements that wrap around floated ones.
+///
+/// You shouldn’t need this much; we don’t intend to make heavy use of floats.
+///
+/// @output    Clearfix using pseudo-elements.
+@mixin clearfix() {
+  &::before,
+  &::after {
+    content: ' ';
+    display: table;
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
+
 @mixin ie-clearfix {
 	&::after {
 		clear: both;
@@ -274,6 +295,7 @@ $base-timing: ease;
 ////////////////////////////////////////////////////////////////////////////////
 // #  Custom partial imports
 //
+@import 'grid';
 @import 'body';
 @import 'responsive-media';
 @import 'icons';

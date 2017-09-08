@@ -1,0 +1,211 @@
+//------------------------------------------------------------------------------
+// GRID
+//
+// A reimplementation of the 12-column Bootstrap 3 grid system.
+//
+// Function:
+// Use as you would the Bootstrap grid system.
+//
+// Contents:
+// - Variables
+//   - column count
+//   - gutter width
+// - Mixins
+//   - Padding amount calculation helper mixin
+//   - Float helper mixin
+//   - Column width calculation helper mixin
+//   - ‘Combinator’ mixin
+//   - Grid generation mixin (combines above mixins)
+// - .grid
+//   - .container
+//   - .container-fluid
+//   - .row
+//   - and all the other regular Bootstrap 3 grid classes
+//------------------------------------------------------------------------------
+
+// void
+
+//------------------------------------------------------------------------------
+// # Local variables
+//------------------------------------------------------------------------------
+
+$grid-cols:                  12 !default; // number of columns
+$grid-gutter-width:          24px !default; // space between columns
+
+
+//------------------------------------------------------------------------------
+// # Mixins
+//------------------------------------------------------------------------------
+
+/// Padding amount calculation helper mixin.
+///
+/// Iterates through all 12 columns (≥2) to calculate the rihgt amount of left
+/// and right padding for each of the Bootstrap grid classes.
+///
+/// @output   Bootstrap grid classes with the correct left and right padding.
+@mixin grid-make-grid-cols($i: 1, $list: ".col-xs-#{ $i }, .col-sm-#{ $i }, .col-md-#{ $i }, .col-lg-#{ $i }") {
+  @for $i from (1 + 1) through $grid-cols {
+    $list: "#{ $list }, .col-xs-#{ $i }, .col-sm-#{ $i }, .col-md-#{ $i }, .col-lg-#{ $i }";
+  }
+
+  #{ $list } {
+    box-sizing: border-box; // B/c we can’t assume that has been added on * {}.
+    position: relative;
+    min-height: 1px;
+    padding-left: ceil(($grid-gutter-width / 2));
+    padding-right: floor(($grid-gutter-width / 2));
+  }
+}
+
+
+/// Float helper mixin.
+///
+/// Iterates through the columns list (≥2) to set the float.
+///
+/// @output   Bootstrap grid classes with float set.
+@mixin grid-float-grid-cols($class, $i: 1, $list: ".col-#{ $class }-#{ $i }") {
+  @for $i from (1 + 1) through $grid-cols {
+    $list: "#{ $list }, .col-#{ $class }-#{ $i }";
+  }
+
+  #{ $list } {
+    float: left;
+  }
+}
+
+
+/// Column width calculation helper mixin.
+///
+/// Calculates the correct widths as a % based on the column count, breakpoint
+/// class, and the type (pull or offset).
+///
+/// @output   Bootstrap grid classes with correct % widths, and l/r offsets.
+@mixin grid-calc-grid-cols($index, $class, $type) {
+  @if ($type == width) and ($index > 0) {
+    .col-#{ $class }-#{ $index } {
+      width: percentage(($index / $grid-cols));
+    }
+  }
+
+  @if ($type == push) and ($index > 0) {
+    .col-#{ $class }-push-#{ $index } {
+      left: percentage(($index / $grid-cols));
+    }
+  }
+
+  @if ($type == push) and ($index == 0) {
+    .col-#{ $class }-push-0 {
+      left: auto;
+    }
+  }
+
+  @if ($type == pull) and ($index > 0) {
+    .col-#{ $class }-pull-#{ $index } {
+      right: percentage(($index / $grid-cols));
+    }
+  }
+
+  @if ($type == pull) and ($index == 0) {
+    .col-#{ $class }-pull-0 {
+      right: auto;
+    }
+  }
+
+  @if ($type == offset) {
+    .col-#{ $class }-offset-#{ $index } {
+      margin-left: percentage(($index / $grid-cols));
+    }
+  }
+}
+
+
+/// Calculation helper combinator mixin.
+///
+/// Combines the above mixins to loop through all columns, auto-generate
+/// Bootstrap grid classes, including type.
+///
+/// @output   Bootstrap grid classes with correct % widths, and l/r offsets.
+@mixin grid-loop-grid-cols($columns, $class, $type) {
+  @for $i from 0 through $columns {
+    @include grid-calc-grid-cols($i, $class, $type);
+  }
+}
+
+
+/// Grid generation mixin.
+///
+/// Uses the looping combinator mixin to now generate all our grid classes.
+///
+/// @output   Complete Bootstrap grid classes with desired properties.
+@mixin grid-make-grid($class) {
+  @include grid-float-grid-cols($class);
+  @include grid-loop-grid-cols($grid-cols, $class, width);
+  @include grid-loop-grid-cols($grid-cols, $class, pull);
+  @include grid-loop-grid-cols($grid-cols, $class, push);
+  @include grid-loop-grid-cols($grid-cols, $class, offset);
+}
+
+
+//------------------------------------------------------------------------------
+// # .grid
+//------------------------------------------------------------------------------
+
+.grid {
+  // Sets the main container and the width and takes into account page gutters.
+  .container {
+    box-sizing: border-box;
+
+    @include breakpoint(sm) {
+      width: ($viewport-sm - $grid-gutter-width);
+    }
+
+    @include breakpoint(md) {
+      width: ($viewport-md - $grid-gutter-width);
+    }
+
+    @include breakpoint(lg) {
+      width: ($viewport-lg - $grid-gutter-width);
+    }
+  }
+
+  .container,
+  .container-fluid {
+    @include clearfix;
+
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: floor(($grid-gutter-width / 2));
+    padding-right: ceil(($grid-gutter-width / 2));
+  }
+
+  // Sets the rows, taking into account gutters.
+  .row {
+    @include clearfix;
+
+    margin-left: ceil(($grid-gutter-width / -2));
+    margin-right: floor(($grid-gutter-width / -2));
+  }
+
+  // Instantiates the grid column classes.
+  @include grid-make-grid-cols;
+
+  // Creates the -xs- classes; no need to wrap in the media query mixin, since
+  // we’re mobile-first.
+  @include grid-make-grid(xs);
+
+  // Creates the -sm- classes
+  @include breakpoint(sm) {
+    @include grid-make-grid(sm);
+  }
+
+  // Creates the -md- classes
+  @include breakpoint(md) {
+    @include grid-make-grid(md);
+  }
+
+  // Creates the -lg- classes
+  @include breakpoint(lg) {
+    @include grid-make-grid(lg);
+  }
+}
