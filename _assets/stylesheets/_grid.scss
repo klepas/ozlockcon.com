@@ -39,7 +39,7 @@ $grid-gutter-width:          24px !default; // space between columns
 
 /// Padding amount calculation helper mixin.
 ///
-/// Iterates through all 12 columns (≥2) to calculate the rihgt amount of left
+/// Iterates through all 12 columns (≥2) to calculate the right amount of left
 /// and right padding for each of the Bootstrap grid classes.
 ///
 /// @output   Bootstrap grid classes with the correct left and right padding.
