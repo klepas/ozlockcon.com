@@ -1,6 +1,5 @@
-@import 'neat-helpers'; // this is calling data from the gem
-
 // (16 * 48) + (15 * 24)
+$max-width: 1200px;
 $column: 3em; // 48, presuming base of 16px
 $gutter: 1.5em; // 24, presuming base of 16px
 

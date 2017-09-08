@@ -6,7 +6,7 @@
 }
 
 body {
-  @include media($tablet) {
+  @include breakpoint(sm) {
     font-size: rem(17);
   }
 
@@ -19,10 +19,7 @@ body {
 }
 
 main {
-  @include wrapper-padding;
-  @include outer-container;
-
-  @include media($desktop) {
+  @include breakpoint(md) {
     padding-top: $line-double;
   }
 

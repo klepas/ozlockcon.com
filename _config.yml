@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: admin@ozlockcon.com
-title: OzLockCon
-con_year: 2017
-con_date: June 3–4
+title: OzSecCon
+con_year: '2017'
+con_date: 'June 3–4'
 con_location: Melbourne, Australia
 panel:
   title: > # this means to ignore newlines until "abstract:"
@@ -36,7 +36,7 @@ github_username: klepas
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-assets
   - bourbon
   - neat

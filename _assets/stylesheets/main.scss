@@ -1,9 +1,6 @@
 @charset 'utf-8';
 
 @import 'bourbon';
-@import 'grid-settings';
-@import 'neat';
-@import 'grid-settings';
 
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -26,6 +23,28 @@ $line-double:             ($line-single * 2);
 $line-three-quarter:      ($line-single * .75);
 $line-half:               ($line-single / 2);
 $line-quarter:            ($line-single / 4);
+
+
+// ## Media query breakpoints
+//
+/// Extra-small breakpoint.
+//
+$viewport-xs: 576px !global;
+
+/// Small breakpoint.
+///
+/// @type string
+$viewport-sm: 768px !global;
+
+/// Medium breakpoint.
+///
+/// @type string
+$viewport-md: 992px !global;
+
+/// Large (desktop) breakpoint.
+///
+/// @type string
+$viewport-lg: 1200px !global;
 
 // ## Colours
 //
@@ -51,25 +70,25 @@ $action-colour:           #477dca;
 $font-stack-monospace: 'Operator Mono', 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
 
 $font-stack-system: (
-  -apple-system,
-  BlinkMacSystemFont,
-  'Avenir Next',
-  'Avenir',
-  'Segoe UI',
-  'Lucida Grande',
-  'Helvetica Neue',
-  'Helvetica',
-  'Fira Sans',
-  'Roboto',
-  'Noto',
-  'Droid Sans',
-  'Cantarell',
-  'Oxygen',
-  'Ubuntu',
-  'Franklin Gothic Medium',
-  'Century Gothic',
-  'Liberation Sans',
-  sans-serif,
+	-apple-system,
+	BlinkMacSystemFont,
+	'Avenir Next',
+	'Avenir',
+	'Segoe UI',
+	'Lucida Grande',
+	'Helvetica Neue',
+	'Helvetica',
+	'Fira Sans',
+	'Roboto',
+	'Noto',
+	'Droid Sans',
+	'Cantarell',
+	'Oxygen',
+	'Ubuntu',
+	'Franklin Gothic Medium',
+	'Century Gothic',
+	'Liberation Sans',
+	sans-serif,
 );
 
 $font-stack-serif: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
@@ -90,52 +109,30 @@ $base-timing: ease;
 // Effectively re-implements Bourbon’s pixel to rem calc function from <5.0.0.
 //
 @function rem($pxval) {
-  $base-size: $type-size-body;
+	$base-size: $type-size-body;
 
-  @return ($pxval / $base-size) * 1rem;
+	@return ($pxval / $base-size) * 1rem;
 }
-
-
-@mixin wrapper-padding {
-  @include media($desktop) {
-    padding-left: $gutter * 2;
-    padding-right: $gutter * 2;
-    width: 100%;
-  }
-
-  box-sizing: border-box;
-  padding-left: $gutter;
-  padding-right: $gutter;
-
-  width: 100%;
-}
-
-
-@mixin wrapper {
-  @include wrapper-padding;
-  @include outer-container;
-}
-
 
 @mixin sr-only {
-  border: 0;
-  clip: rect(0, 0, 0, 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
+	border: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
 }
 
 
 @mixin ie-clearfix {
-  &::after {
-    clear: both;
-    content: '';
-    display: table;
-    height: 0;
-  }
+	&::after {
+		clear: both;
+		content: '';
+		display: table;
+		height: 0;
+	}
 }
 
 
@@ -168,6 +165,53 @@ $base-timing: ease;
 		), $search, $replace ),
 		$string
 	);
+}
+
+
+/// Media query mixin.
+///
+/// Inlude the mixin and pass it one of the breakpoint keywords as an argument to
+/// create a media query.
+///
+/// @param     {keywords} $breakpoint   anyone one of: `xs`, `sm`, `md`, `lg`
+///
+/// @output    Styles passed in `@content`, wrapped inside a media query matching breakpoint given as a keyword.
+///
+@mixin breakpoint($breakpoint) {
+	@if type-of($breakpoint) != 'string' {
+		@error 'ERROR: the breakpoint() mixin only accepts strings!';
+	}
+
+	@if $breakpoint != 'xs'
+		and $breakpoint != 'sm'
+		and $breakpoint != 'md'
+		and $breakpoint != 'lg' {
+		@error 'ERROR: the breakpoint() only takes the following breakpoint strings: `xs`, `sm`, `md`, `lg`!';
+	}
+
+	@if ($breakpoint == 'xs') {
+		@media (min-width: $viewport-xs) {
+			@content;
+		}
+	}
+
+	@if ($breakpoint == 'sm') {
+		@media (min-width: $viewport-sm) {
+			@content;
+		}
+	}
+
+	@if ($breakpoint == 'md') {
+		@media (min-width: $viewport-md) {
+			@content;
+		}
+	}
+
+	@if ($breakpoint == 'lg') {
+		@media (min-width: $viewport-lg) {
+			@content;
+		}
+	}
 }
 
 
@@ -242,7 +286,3 @@ $base-timing: ease;
 @import 'footer';
 @import 'schedule';
 @import 'merch';
-
-.wrapper {
-  @include wrapper;
-}
