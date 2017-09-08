@@ -3,11 +3,11 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="grid">
 
     {% include header.html %}
 
-    <main role="main" id="content" class="{% if page.slug %}{{ page.slug }}{% endif %}">
+    <main role="main" id="content" class="container {% if page.slug %}{{ page.slug }}{% endif %}">
 
       {{ content }}
 
