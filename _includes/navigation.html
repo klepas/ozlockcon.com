@@ -6,18 +6,13 @@
       {% endunless %}
 
       <li class="cta">
-        <a href="https://www.eventbrite.com.au/e/ozlockcon-2017-tickets-32282231022">
-          Tickets
+        <a href="/speakers"{% if page.url == '/speakers/' %} class="is-current"{% endif %}>
+          Speakers
         </a>
       </li>
       <li>
         <a href="/merch/"{% if page.url == '/merch/' %} class="is-current"{% endif %}>
           Merchandise
-        </a>
-      </li>
-      <li>
-        <a href="/speakers"{% if page.url == '/speakers/' %} class="is-current"{% endif %}>
-          Speakers
         </a>
       </li>
       <li>
