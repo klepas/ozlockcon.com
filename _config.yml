@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: admin@ozlockcon.com
+email: admin@ozseccon.com
 title: OzSecCon
-con_year: '2017'
-con_date: 'June 3–4'
+con_year: '2018'
+con_date: 'June 2-3'
 con_location: Melbourne, Australia
 panel:
   title: > # this means to ignore newlines until "abstract:"
@@ -29,7 +29,7 @@ tags: Lockpicking, Locksport, Physical Security, Research
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: OzLockCon
+twitter_username: OzSecCon
 stasibook_url: https://www.facebook.com/ozlockcon/
 github_username: klepas
 

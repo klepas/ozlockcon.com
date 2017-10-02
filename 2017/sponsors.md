@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /sponsors/
+layout: 2017temp
+permalink: /2017/sponsors/
 slug: sponsors
 title: "Sponsorship"
 ---
@@ -142,7 +142,7 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ## Interested in being a sponsor?
 
-OzLockCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
+OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
 
 The conference aims to bring this community together to share knowledge and build awareness around physical security, and to both enable and inspire future research.
 
@@ -152,7 +152,7 @@ We aim to run a combination of talks, several workshops, and a number of competi
 
 With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the costs of guest speakers from around the world.
 
-While this is the first time OzLockCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
+While this is the first time OzSecCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
 
 - [AppSec Day](https://www.eventbrite.com.au/e/owasp-melbourne-appsec-day-tickets-27378844862#)
 - [AusCERT](https://conference.auscert.org.au/)
@@ -164,7 +164,7 @@ While this is the first time OzLockCon has been organised, the team running the 
 - [Unrestcon](http://unre.st)
 - [WAHCKon](https://wahckon.org.au/)
 
-We ask that you consider the sponsorship packages below in order to help us deliver the best OzLockCon experience for this community:
+We ask that you consider the sponsorship packages below in order to help us deliver the best OzSecCon experience for this community:
 
 ### Tier 1 --– $10K for a single special sponsor
 
@@ -222,4 +222,4 @@ Note: as a sponsor we do ask your organisation’s representatives to follow our
 
 ***
 
-Thank you for considering to help us make OzLockCon a reality!
+Thank you for considering to help us make OzSecCon a reality!

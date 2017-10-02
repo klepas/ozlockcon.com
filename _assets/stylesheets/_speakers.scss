@@ -79,7 +79,9 @@
 }
 
 
-.speaker__whois {
+.speaker__whois,
+.speaker__talk,
+.speaker__handout {
   font-style: italic;
 
   & > small {

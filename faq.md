@@ -60,15 +60,15 @@ Additionally, we're going to borrow a quote as an answer:
 
 ## Hackers Helping Hackers
 
-OzLockCon is stepping up to help other hackers in need.
+OzSecCon is stepping up to help other hackers in need.
 
-[*Hackers Helping Hackers*](https://hackershelpinghackers.com/) are in the process of registering formally as a charity and are therefore _not_ in a position to sponsor participants to attend OzLockCon at this time. OzLockCon remains dedicated to widening participation and as such encourage applications to apply for tickets directly with us.
+[*Hackers Helping Hackers*](https://hackershelpinghackers.com/) are in the process of registering formally as a charity and are therefore _not_ in a position to sponsor participants to attend OzSecCon at this time. OzSecCon remains dedicated to widening participation and as such encourage applications to apply for tickets directly with us.
 
 As a result, this application we are offering is a modified version of the one you'd need to submit if you were applying for HHH.
 
 Applicants will be notified at least one month prior to the conference as to the success of their submission, sooner if logistics allow.
 
-If you have any questions or concerns, please feel free to [email us directly](mailto:admin@ozlockcon.com).
+If you have any questions or concerns, please feel free to [email us directly](mailto:admin@OzSecCon.com).
 
 Otherwise, please submit a **[financial assistance application](https://docs.google.com/forms/d/1YzfjMOSIwRfWDwsnS8s3tP6ZzFFip3HrksgYfAS10rQ/)**.
 
