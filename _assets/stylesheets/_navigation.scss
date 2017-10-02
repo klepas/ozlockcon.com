@@ -2,12 +2,11 @@
 // #  Main navigation styling
 //
 .skip-to {
-  @include wrapper-padding;
 
-  @include media($tablet) {
+  @include breakpoint(sm) {
     text-align: left;
   }
-  @include media($desktop) {
+  @include breakpoint(md) {
     @include sr-only;
   }
 
@@ -36,7 +35,7 @@
   width: 100%;
 
   ul {
-    @include media($tablet) {
+    @include breakpoint(sm) {
       align-items: baseline;
       display: flex;
       flex-wrap: wrap;
@@ -49,7 +48,7 @@
   }
 
   li {
-    @include media($tablet) {
+    @include breakpoint(sm) {
       margin-bottom: 0;
       padding-right: $line-single;
       text-align: left;
@@ -86,7 +85,7 @@
   }
 
   .nav--primary {
-    @include media($tablet) {
+    @include breakpoint(sm) {
       margin-bottom: 0;
     }
 

@@ -4,19 +4,20 @@
       {% unless page.url == '/' %}
       <li><a href="/">Home</a></li>
       {% endunless %}
-      <li>
-        <a href="/faq/"{% if page.url == '/faq/' %} class="is-current"{% endif %}>
-          <abbr>FAQ</abbr>
-        </a>
-      </li>
-      <li>
-        <a href="/conduct/"{% if page.url == '/conduct/' %} class="is-current"{% endif %}>
-          Code of Conduct
-        </a>
-      </li>
+
       <li>
         <a href="/2017/"{% if page.url == '/2017/' %} class="is-current"{% endif %}>
-          2017 Site
+          2017 Home
+        </a>
+      </li>
+      <li>
+        <a href="/2017/speakers/"{% if page.url == '/2017/speakers/' %} class="is-current"{% endif %}>
+          Speakers
+        </a>
+      </li>
+      <li>
+        <a href="/2017/sponsors/"{% if page.url == '/2017/sponsors/' %} class="is-current"{% endif %}>
+          Sponsors
         </a>
       </li>
     </ul>

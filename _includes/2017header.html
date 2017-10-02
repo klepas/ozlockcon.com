@@ -10,17 +10,17 @@
       </div>
 
       {% if page.url == '/' %}
-      <h1>{{ site.title }} {{ site.con_year }}</h1>
+      <h1>OzLockCon 2017</h1>
       {{ site.description | markdownify }}
-      <p>{{ site.con_date }} {{ site.con_location }}</p>
+      <p>June 3-4 {{ site.con_location }}</p>
 
       {% else %}
       <h1>{{ page.title }}</h1>
-      <p><small>for {{ site.title }} {{ site.con_year }}</small></p>
-      <p>{{ site.con_date }} {{ site.con_location }}</p>
+      <p><small>for OzlockCon 2017</small></p>
+      <p>June 3-4 {{ site.con_location }}</p>
       {% endif %}
     </div>
   </div>
 
-  {% include navigation.html %}
+  {% include 2017navigation.html %}
 </header>

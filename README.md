@@ -1,9 +1,9 @@
-OzLockCon Jekyll website
+OzSecCon Jekyll website
 =============
 
 [![Build Status](https://semaphoreci.com/api/v1/klepas/ozlockcon-com/branches/master/badge.svg)](https://semaphoreci.com/klepas/ozlockcon-com)
 
-> Code that builds a static copy of the OzLockCon website.
+> Code that builds a static copy of the OzSecCon website.
 
 
 ## Content
@@ -22,11 +22,11 @@ OzLockCon Jekyll website
 Most of the con’s details are tracked in the config file (`_config.yml`), for example:
 
 ```yaml
-title: OzLockCon
+title: OzSecCon
 con_year: 2017
 con_date: June 3–4th
 con_location: Melbourne
-email: admin@ozlockcon.com
+email: admin@OzSecCon.com
 ```
 
 Check out what’s there before you hardcode stuff. (:
@@ -111,7 +111,7 @@ Code is licensed under [MIT](https://raw.githubusercontent.com/klepas/ozlockcon.
 
 [Code of Conduct](https://raw.githubusercontent.com/klepas/ozlockcon.com/master/conduct.md) is licensed under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Content is © 2016– OzLockCon Consmiths.
+Content is © 2016– OzSecCon Consmiths.
 
 
 **[↑ back to top](#content)**

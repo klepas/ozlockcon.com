@@ -2,7 +2,7 @@
 // #  Page header styling
 //
 header[role='banner'] {
-  @include media($tablet) {
+  @include breakpoint(sm) {
     background-position: center center;
   }
 
@@ -17,7 +17,7 @@ header[role='banner'] {
 
   .hero__logo {
     img {
-      @include media($tablet) {
+      @include breakpoint(sm) {
         margin-left: 0;
         margin-right: 0;
         text-align: left;
@@ -42,7 +42,7 @@ header[role='banner'] {
     text-shadow: 2px 1px 3px desaturate(darken($action-colour, 40%), 15%); //clean me up :)
 
     h1 {
-      @include media($tablet) {
+      @include breakpoint(sm) {
         font-size: rem(48);
         margin-bottom: 0;
         margin-top: 0;
@@ -54,7 +54,7 @@ header[role='banner'] {
     }
 
     p {
-      @include media($tablet) {
+      @include breakpoint(sm) {
         font-size: rem(28);
         text-align: left;
       }
