@@ -4,7 +4,7 @@ layout: 2017temp
 
 <h2 class="display-2--lighter">Our speakers, panelists, and workshop presenters</h2>
 
-{% assign speakers = site.data.2017speakers | sort %}
+{% assign speakers = site.data.yearonespeakers | sort %}
 
 <ol class="toc toc__speakers">
 {% for speaker_hash in speakers %}
@@ -44,6 +44,22 @@ layout: 2017temp
       <span class="speaker__whois">
         {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
       </span>
+    </div>
+    {% endif %}
+
+    {% if speaker.youtube %}
+    <div class="lede lede--speaker">
+      <a class="speaker__youtube" href="{{ speaker.youtube }}">
+        Link to talk
+      </a>
+    </div>
+    {% endif %}
+
+    {% if speaker.slides %}
+    <div class="lede lede--speaker">
+      <a class="speaker__slides" href="{{ speaker.slides }}">
+        Link to handouts
+      </a>
     </div>
     {% endif %}
 
