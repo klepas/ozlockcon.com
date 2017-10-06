@@ -25,7 +25,7 @@ beardpunish:
 amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
-  slides: /Presentations/00-Amm0nra%20-%20RFID%20Workshop.odp
+  slides: /Presentations/00-Amm0nRa%20-%20RFID%20Workshop.odp
   twitter: Amm0nRa
   session_time: "14:00"
   day: "1"
@@ -73,7 +73,7 @@ alex:
   name: Alex Hogue
   whois: a kid with a laptop and a pocketful of memes
   website: https://defaultnamehere.tumblr.com/
-  slides: /Presentations/09-Alex%20Houge%20-%20Dark%20Magic%20tricks%20for%20steel-plated%20picks.pptx
+  slides: /Presentations/09-Alex%20Hogue%20-%20Dark%20Magic%20tricks%20for%20steel-plated%20picks.pptx
   session_time: "09:00"
   day: "1"
   talk:
@@ -115,7 +115,7 @@ craig-rumball:
   name: Craig Rumball
   whois: "Security advisor & locksmith"
   youtube: https://youtu.be/Mt-8JuKiZ4I
-  slides: /Presentations/02-Craig%20Rumball%20-%20Security%20in%20Depth.pdf
+  slides: /Presentations/02-Craig%20Rumball%20-%20Security%20In%20Depth.pdf
   panel: true
   talk:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(a government perspective)</small>"
