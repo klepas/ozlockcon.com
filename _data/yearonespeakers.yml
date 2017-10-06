@@ -25,6 +25,7 @@ beardpunish:
 amm0nra:
   name: Amm0nRa
   whois: noob with a laptop
+  slides: /Presentations/00-Amm0nra%20-%20RFID%20Workshop.odp
   twitter: Amm0nRa
   session_time: "14:00"
   day: "1"
@@ -44,6 +45,8 @@ amm0nra:
 jos-weyers:
   name: Jos Weyers
   whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
+  youtube: https://youtu.be/KtBT-69i6AE
+  slides: /Presentations/06-Jos%20Weyers%20-%20Impressioning.pptx
   twitter: josweyers
   talk:
     title: Key impressioning
@@ -70,6 +73,7 @@ alex:
   name: Alex Hogue
   whois: a kid with a laptop and a pocketful of memes
   website: https://defaultnamehere.tumblr.com/
+  slides: /Presentations/09-Alex%20Houge%20-%20Dark%20Magic%20tricks%20for%20steel-plated%20picks.pptx
   session_time: "09:00"
   day: "1"
   talk:
@@ -82,6 +86,8 @@ alex:
 michael-maynard:
   name: Michael Maynard
   whois: Tinkering optometrist
+  youtube: https://youtu.be/XSuvtiWp-64
+  slides: /Presentations/08-Michael%20Maynard%20-%20Safes.pptx
   talk:
     title: "Safes: banks, burglars, budgets... and the average Joe"
     abstract: >
@@ -108,6 +114,8 @@ nullwolf:
 craig-rumball:
   name: Craig Rumball
   whois: "Security advisor & locksmith"
+  youtube: https://youtu.be/Mt-8JuKiZ4I
+  slides: /Presentations/02-Craig%20Rumball%20-%20Security%20in%20Depth.pdf
   panel: true
   talk:
     title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(a government perspective)</small>"
@@ -125,6 +133,8 @@ craig-rumball:
 gracienolag:
   name: Grace Nolan
   whois: "[gracenolan.me](http://gracenolan.me/)"
+  youtube: https://youtu.be/7hYF_1obzMg
+  slides: /Presentations/04-Grace%20Nolan%20-%20History%20of%20Locks.pptx
   twitter: GracieNoLag
   talk:
     title: "History of lock picking"
@@ -144,6 +154,7 @@ silviocesare:
 wayne:
   name: Wayne Ronaldson
   whois: Technical Director, <abbr>TSS</abbr>
+  slides: /Presentations/05-Wayne%20Ronaldson%20-%20Red%20Teaming.pptx
   talk:
     title: Red Teaming --- ‘You must go beyond the limits’
     abstract: >
@@ -154,6 +165,7 @@ wayne:
 lucas-zhao:
   name: Lucas Zhao
   whois: Chinese and Asian lock researcher and aficionado
+  youtube: https://youtu.be/AWFyH3KaRJc
   twitter: TheUrbanHawk
   talk:
     title: Chinese contemporary mechanical locks
@@ -167,6 +179,7 @@ christina-palmer:
   name: Christina Palmer
   whois: Lock pick designer
   website: http://elvencraft.com
+  slides: /Presentations/07-Christina%20Palmer%20-%20OzLockCon%20Wave%20Rake%20Design.odp
   talk:
     title: Wave rake design
     abstract: >
@@ -179,6 +192,8 @@ christina-palmer:
 huajiang-chen:
   name: Huajiang ‘Kevin2600’ Chen
   whois: Security researcher at the Istuary-Security Lab in Vancouver, Canada
+  youtube: https://youtu.be/jJ1QCFa4kDw
+  slides: /Presentations/03-Kevin%20Chen%20-%20BTLE.pdf
   twitter: Kevin2600
   talk:
     title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
@@ -216,3 +231,4 @@ ryan-jeremy:
 
       <small>→ Twitter:</small> [**@ryankurte**](https://twitter.com/ryankurte) <span class="amp">&amp;</span> [**@jsstott**](https://twitter.com/jsstott)
   hackergotchi: /images/hackergotchis/mystery.png
+  youtube: https://youtu.be/CkHWsLQnSDE

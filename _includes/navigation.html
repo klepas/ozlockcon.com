@@ -5,6 +5,11 @@
       <li><a href="/">Home</a></li>
       {% endunless %}
       <li>
+        <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
+          <abbr>Sponsors</abbr>
+        </a>
+      </li>
+      <li>
         <a href="/faq/"{% if page.url == '/faq/' %} class="is-current"{% endif %}>
           <abbr>FAQ</abbr>
         </a>
