@@ -5,29 +5,29 @@ slug: sponsors
 title: "Sponsorship"
 ---
 
-## Tier 1 sponsor
+## Platinum Tier Sponsor
 
-Want to become our single tier 1 sponsor? [We have **one slot open**](#tier-1----10k-for-a-single-special-sponsor).
-
-
-## Tier 2 sponsors
-
+Want to become our Platinum Tier Sponsor? [We have **one slot open**](#platinum-tier)
 
 ***
 
-Want to become a tier 2 sponsor? [We’re looking for tier 2 sponsors](#tier-2-----5k-up-to-5-sponsors).
+## Gold Tier Sponsor
+
+Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
 
 ***
 
+## Silver Tier Sponsor
 
-## Tier 3 sponsors
-
-***
-
-Want to become a tier 3 sponsor? [We’re looking for tier 3 sponsors](#tier-3-----2k-unlimited-sponsors).
+Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier)
 
 ***
 
+## Bronze Tier Sponsor
+
+Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
+
+***
 ## Interested in being a sponsor?
 
 OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
@@ -54,49 +54,61 @@ While this is the second time OzSecCon has been organised, the team running the 
 
 We ask that you consider the sponsorship packages below in order to help us deliver the best OzSecCon experience for this community:
 
-### Tier 1 --– $10K for a single special sponsor
+## Platinum Tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
 Perks:
 
-- Strategically place 2 banners at the entrance and closest to the speakers stage.
-- Have your logo featured closest next to the main stage.
-- Have your logo & link featured on the landing page of the website above other Tiers.
-- Have your logo & link featured on the sponsorship page of the website in prime position above other Tiers.
-- Have your logo featured prominently in the opening and closing ceremony slides.
-- Have your organisation individually called out and thanked at the opening and closing ceremonies.
+- Large Conference Booth
+- Large Banners on the stage
+- Website Listings
+- Flyers and Merchandise Space on the Registration Desks
+- Sponsor Mentions During Opening And Closing
+- Tickets (???)
 
-Additionally your organisation will receive 5 complimentary tickets to distribute as you like, and 5 special badges from us to mark your attendance and sponsorship.
+Aud $15K   ( Dunno how to word this Pam )
 
-### Tier 2 --- $5K up to 5 sponsors
-
-&rarr; **[Contact us](mailto:{{ site.email }})**
-
-Perks:
-
-- Placement of 2 banners at the speaker stage.
-- A logo next to the main stage for presenters.
-- Your logo & link featured on the landing page of the website, underneath the Tier 1 sponsor.
-- Your logo featured in sub-prime position on the sponsors page.
-
-Additionally your organisation will receive 2 complimentary tickets to distribute as you like, and 2 special badges from us to mark your attendance and sponsorship.
-
-<small>The money from this Tier will primarily be used to pay for workshops and the after-parties. If you'd like to sponsor a particular party or workshop, please let us know.</small>
-
-### Tier 3 --- $2K unlimited sponsors
+## Gold Tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
 Perks:
 
-- Have your logo featured in the opening and closing ceremony slides.
-- Have your logo & link featured under the sponsorship page, underneath the Tier 2 sponsors.
-- Optionally have your company banner next to one of the workshop/villages running.
-- Single banner placed in workshop area.
+- Medium Conference Booth
+- Smaller Banner on the stage
+- Website Listings
+- Flyers and Merchandise Space on the Registration Desks
+- Sponsor Mentions During Opening And Closing
+- Tickets (???)
 
+Aud $10K   ( Dunno how to word this Pam )
 
-Additionally your organisation will receive 1 complimentary ticket, and a special badge from us to mark your attendance and sponsorship.
+## Silver Tier
+
+&rarr; **[Contact us](mailto:{{ site.email }})**
+
+Perks:
+
+- Smaller Banner on the stage
+- Website Listings
+- Flyers and Merchandise Space on the Registration Desks
+- Sponsor Mentions During Opening And Closing
+- Tickets (???)
+
+Aud $5K   ( Dunno how to word this Pam )
+
+## Bronze Tier
+
+&rarr; **[Contact us](mailto:{{ site.email }})**
+
+Perks:
+
+- Website Listings
+- Sponsor Mentions During Opening And Closing
+- Tickets (???)
+
+Aud $2K   ( Dunno how to word this Pam )
 
 ***
 
@@ -107,6 +119,8 @@ We are also open to donations of tools and other lock or security hardware and w
 If you have an idea or want to sponsor something specific not listed above such as a party on Saturday/Sunday night, please get in touch.
 
 Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
+
+Please see our [sponsors pack]() for anymore information.
 
 ***
 
