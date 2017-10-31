@@ -65,9 +65,9 @@ Perks:
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
-- Tickets (???)
+- Five tickets
 
-Aud $15K   ( Dunno how to word this Pam )
+$15 000 AUD
 
 ## Gold Tier
 
@@ -80,9 +80,9 @@ Perks:
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
-- Tickets (???)
+- Three Tickets
 
-Aud $10K   ( Dunno how to word this Pam )
+$10 000 AUD
 
 ## Silver Tier
 
@@ -94,9 +94,9 @@ Perks:
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
-- Tickets (???)
+- Two Tickets
 
-Aud $5K   ( Dunno how to word this Pam )
+$5 000 AUD
 
 ## Bronze Tier
 
@@ -106,9 +106,9 @@ Perks:
 
 - Website Listings
 - Sponsor Mentions During Opening And Closing
-- Tickets (???)
+- One Ticket
 
-Aud $2K   ( Dunno how to word this Pam )
+$2 000 AUD
 
 ***
 
@@ -120,7 +120,7 @@ If you have an idea or want to sponsor something specific not listed above such 
 
 Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
 
-Please see our [sponsors pack]() for anymore information.
+Please see our [sponsors pack](/2018SponsorPack.pdf) for anymore information.
 
 ***
 
