@@ -15,9 +15,9 @@ We aim to bring the openness to share information found in conferences of the in
 
 Please fill out the Google forms below to submit talk or workshop proposal.
 
-&rarr; **[Talks]()**
+&rarr; **[Talks](https://goo.gl/forms/fnQ5gCJHrKSSNAch2)**
 
-&rarr; **[Workshops]()**
+&rarr; **[Workshops](https://goo.gl/forms/0ZM81flCBfomGFLV2)**
 
 <small>Submissions close <strong>April 30th 2018</strong>.</small>
 

@@ -9,7 +9,7 @@ title: "OzSecCon"
 
 The conference went great with over 200 people in attendance from all over.  Thank you to everyone who came and made it such a great success.
 
-Slides and vidoes will be coming out as soon as possible.  These will be available over on the **[2017 speakers page](/2017/speakers/)**.
+Slides and vidoes are available.  These can be found over on the **[2017 speakers page](/2017/speakers/)**.
 
 To avoid confusion and to better reflect the focus of the conference OzLockCon will be renaming to OzSecCon in 2018.
 
