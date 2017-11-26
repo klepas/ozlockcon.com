@@ -4,9 +4,14 @@
       {% unless page.url == '/' %}
       <li><a href="/">Home</a></li>
       {% endunless %}
-      <li>
+      <li class="cta">
         <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
           <abbr>Sponsors</abbr>
+        </a>
+      </li>
+      <li class="cta">
+        <a href="/cfpw/"{% if page.url == '/cfpw/' %} class="is-current"{% endif %}>
+          <abbr title="Call For Papers">CFP</abbr> &amp; Workshops
         </a>
       </li>
       <li>

@@ -7,11 +7,9 @@ title: "FAQ"
 
 1. [Who are you?](#who-are-you)
 1. [Is this legal?](#is-this-legal)
-1. [Is OzLockCon affiliated with TOOOL?](#is-ozlockcon-affiliated-with-toool)
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
 1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
-1. [Hackers Helping Hackers](#hackers-helping-hackers)
 {: .toc }
 
 ## Who are you?
@@ -21,12 +19,6 @@ We are a loose-knit group of physical security enthusiasts. We come from a diver
 In early 2016 we started a chat channel as a place for us to share knowledge about physical security. For the most part we grew from 'hacker-conferences' and as such we've embraced the hacker spirit of sharing information: teaching each other and learning together.
 
 We aim to be like the conferences that occur in Europe and the US. We hope one day that the Australian locksport and physical security community can be regarded as highly as our fellow communities overseas.
-
-## Is OzLockCon affiliated with TOOOL?
-
-OzLockCon is not directly affiliated with [<abbr title="The Open Organisation Of Lockpickers, US">TOOOL US</abbr>](http://toool.us/), [<abbr title="The Open Organisation Of Lockpickers, Netherlands">TOOOL NL</abbr>](https://toool.nl/), or '[LockCon](https://toool.nl/LockCon)'; OzLockCon --- despite the similar name --- is not the same event.
-
-To avoid confusion in future, we plan to rename the event after OzLockCon 2017 has concluded.
 
 ## Is this legal?
 
@@ -57,19 +49,3 @@ Additionally, we're going to borrow a quote as an answer:
 <small>Source: A.C. Hobbs, *Locks and Safes: The Construction of Locks*. London, 1853.</small>
 
 <small>[Courtesy of [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]</small>
-
-## Hackers Helping Hackers
-
-OzSecCon is stepping up to help other hackers in need.
-
-[*Hackers Helping Hackers*](https://hackershelpinghackers.com/) are in the process of registering formally as a charity and are therefore _not_ in a position to sponsor participants to attend OzSecCon at this time. OzSecCon remains dedicated to widening participation and as such encourage applications to apply for tickets directly with us.
-
-As a result, this application we are offering is a modified version of the one you'd need to submit if you were applying for HHH.
-
-Applicants will be notified at least one month prior to the conference as to the success of their submission, sooner if logistics allow.
-
-If you have any questions or concerns, please feel free to [email us directly](mailto:admin@OzSecCon.com).
-
-Otherwise, please submit a **[financial assistance application](https://docs.google.com/forms/d/1YzfjMOSIwRfWDwsnS8s3tP6ZzFFip3HrksgYfAS10rQ/)**.
-
-<small>Note: This application is not affiliated with HHH.</small>
