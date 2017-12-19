@@ -14,7 +14,7 @@ Want to become our single tier 1 sponsor? [We have **one slot open**](#tier-1---
 
 ### Privasec
 
-<a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
+<a class="logo" href="http://privasec.com.au/"><img src="/2017/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
 
 > Privasec Pty Ltd. is an independent security, governance, risk, and compliance consulting firm. We are driven by business outcomes and we bridge the gap between the technical and business world to create meaningful business cases and enhance decision making.
 >
@@ -33,14 +33,14 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Mercury ISS
 
-<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
+<a class="logo" href="http://mercuryiss.com.au/"><img src="/2017/sponsors/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
 
 > Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](http://mercuryiss.com.au/).
 
 
 ### Loop Technology
 
-<a class="logo" href="https://www.looptech.com.au/"><img src="/images/sponsors/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
+<a class="logo" href="https://www.looptech.com.au/"><img src="/2017/sponsors/looptech-logo.png" alt="Loop Technology logo" width="255" height="137" /></a>
 
 > Loop Technology is a specialist cyber security firm delivering a wide range of services to manage cyber risk and protect business assets. Solutions include:
 > * Managed Security Services
@@ -55,7 +55,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Tenable
 
-<a class="logo" href="http://lookbook.tenable.com/securitycenter-cv-product-lookbook/continuous_monitoring_infographic?utm_campaign=00009612&utm_promoter=tenable-apac&utm_medium=banner&utm_content=infographic&utm_source=ozlockcon.com"><img src="/images/sponsors/tenable-logo.png" alt="Tenable logo" width="275" /></a>
+<a class="logo" href="http://lookbook.tenable.com/securitycenter-cv-product-lookbook/continuous_monitoring_infographic?utm_campaign=00009612&utm_promoter=tenable-apac&utm_medium=banner&utm_content=infographic&utm_source=ozlockcon.com"><img src="/2017/sponsors/tenable-logo.png" alt="Tenable logo" width="275" /></a>
 #### Tenable Network Security
 
 > Tenable transforms security technology for the business needs of tomorrow through comprehensive solutions that provide continuous visibility and critical context, enabling decisive actions to protect your organisation. Tenable eliminates blind spots, prioritises threats, and reduces exposure and loss.
@@ -67,7 +67,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### Insomnia Security
 
-<a class="logo" href="https://www.insomniasec.com/"><img src="/images/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
+<a class="logo" href="https://www.insomniasec.com/"><img src="/2017/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
 
 > Insomnia Security is a New Zealand based company dedicated to providing highly specialised information security consultancy services to customers.
 >
@@ -76,7 +76,7 @@ Want to become a tier 2 sponsor? [We’re still looking for tier 2 sponsors](#ti
 
 ### HackLabs
 
-<a class="logo" href="https://www.hacklabs.com/"><img src="/images/sponsors/hacklabs-logo.jpg" alt="HackLabs logo" width="300"/></a>
+<a class="logo" href="https://www.hacklabs.com/"><img src="/2017/sponsors/hacklabs-logo.jpg" alt="HackLabs logo" width="300"/></a>
 
 > HackLabs specialises in Red Team & Penetration Testing and have experienced staff who have collectively performed thousands of tests over the last 20 years.
 >
@@ -92,7 +92,7 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### PickPals locksport sponsor
 
-<a class="logo" href="https://www.pickpals.com.au/"><img src="/images/sponsors/pickpals-logo.png" alt="Pick Pals logo" width="210" /></a>
+<a class="logo" href="https://www.pickpals.com.au/"><img src="/2017/sponsors/pickpals-logo.png" alt="Pick Pals logo" width="210" /></a>
 
 > PickPals is your home for durable, quality, cutting-edge lock pick sets, by-pass and locksmith tools.
 >
@@ -105,19 +105,19 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### SouthOrd
 
-<a class="logo" href="http://www.southord.com/"><img src="/images/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
+<a class="logo" href="http://www.southord.com/"><img src="/2017/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
 
 > Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [***southord.com**](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
-<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/2017/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
 
 > Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community. Find out more at [**sparrowslockpicks.com**](http://www.sparrowslockpicks.com/).
 
 ### PentesterLab
 
-<a class="logo" href="https://pentesterlab.com/"><img src="/images/sponsors/pentesterlab-logo.png" alt="PentesterLab Logo" width="200" /></a>
+<a class="logo" href="https://pentesterlab.com/"><img src="/2017/sponsors/pentesterlab-logo.png" alt="PentesterLab Logo" width="200" /></a>
 
 > PentesterLab provides a unique platform to learn web security and penetration testing. This platform is available for both individuals and enterprises. Our labs cover all the most recent vulnerabilities as well as the well-known issues (SQL injection, XSS, ...).
 >
@@ -127,7 +127,7 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### OzHack
 
-<a class="logo" href="https://www.ozhack.com/"><img src="/images/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
+<a class="logo" href="https://www.ozhack.com/"><img src="/2017/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
 
 >OZ Hack! Australia and New Zealand's only online computer security hardware and hacking store. Stocking the latest in Software Defined Radio, Testing Tools and tech gadgets for professionals and enthusiasts!
 
@@ -135,7 +135,7 @@ Want to become a tier 3 sponsor? [We’re still looking for tier 3 sponsors](#ti
 
 ### NooElec
 
-<a class="logo" href="http://www.nooelec.com/store/"><img src="/images/sponsors/nooelec-logo.png" alt="NooElec Logo" width="200"/></a>
+<a class="logo" href="http://www.nooelec.com/store/"><img src="/2017/sponsors/nooelec-logo.png" alt="NooElec Logo" width="200"/></a>
 
 > NooElec is an engineering company which designs, manufactures and distributes electronics to tech enthusiasts around the globe.  For more information, visit their website at [**nooelec.com**](http://www.nooelec.com/store/).
 
