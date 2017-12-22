@@ -15,6 +15,8 @@ OzSecCon is excited to announce our venue for 2018 will be the fantastic Melbour
 
 This, in conjunction with multiple classrooms and lecture theatres means we will be able to run multiple different activities simultaneously throughout the weekend.
 
+The locksmithing and metalworking departments are located in building B, in the north-west of the campus.  More information regarding this fantastic venue can be found [here](https://www.melbournepolytechnic.edu.au/campuses/heidelberg).
+
 <iframe
   width="600"
   height="450"
