@@ -5,7 +5,7 @@ slug: home
 title: "OzSecCon"
 ---
 
-## OzSecCon 2018 <abbr title="Call For Papers">CFP</abbr> &amp; Workshops
+## <abbr title="Call For Papers">CFP</abbr> &amp; Workshops
 
 We have opened the Call for Papers/Workshops for 2018.  Head on over [here](/cfpw/) for more information relating to talks and workshops and to submit your talks or/and workshops.
 
