@@ -7,7 +7,7 @@ title: "Call for Papers & Workshops"
 
 ## Call for Papers
 
-OzSecCon will be the first conference in Australia specifically on physical security research and offensive/defensive techniques.
+OzSecCon is the first conference in Australia focused specifically on physical security research and offensive/defensive techniques. Talks will be on average 30-60 minutes long.
 
 We aim to bring the openness to share information found in conferences of the information security industry to a different crowd.
 
@@ -64,5 +64,15 @@ So, some topic ideas:
 In addition to traditional 'talks' (like at most other conferences), OzSecCon will have hands-on content.
 
 We are looking for people to run workshops. These can run anywhere between an hour to the full course of the conference.
+
+Some workshop topic ideas are as follows:
+
+- impressioning
+- picking
+- safe manipulation
+- bumping
+- bypass techniques
+- <abbr title="Radio-frequency Identification">RFID</abbr>/radio attacks
+- and more.
 
 <small>If you require financial assistance in order to run such a workshop (eg. to purchase a large number of key blanks and files to teach impressioning techniques) please let us know in your submission and we'll try to help you out.</small>
