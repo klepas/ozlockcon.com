@@ -5,19 +5,22 @@ slug: home
 title: "OzSecCon"
 ---
 
-## <b>Post Conference</b>
+## OzSecCon 2018 <abbr title="Call For Papers">CFP</abbr> &amp; Workshops
 
-The conference went great with over 200 people in attendance from all over.  Thank you to everyone who came and made it such a great success.
+We have opened the Call for Papers/Workshops for 2018.  Head on over [here](/cfpw/) for more information relating to talks and workshops and to submit your talks or/and workshops.
 
-Slides and vidoes are available.  These can be found over on the **[2017 speakers page](/2017/speakers/)**.
+## Venue
 
-To avoid confusion and to better reflect the focus of the conference OzLockCon will be renaming to OzSecCon in 2018.
+OzSecCon is excited to announce our venue for 2018 will be the fantastic Melbourne Polytechnic venue located in West Heidelberg, this venue is also used to teach young professional locksmiths and we have graciously been granted access to use the locksmithing and metalworking departments for our demonstrations and workshops.
 
-We hope to see you all there with the conference growing and with new exciting presentations and workshops.
+This, in conjunction with multiple classrooms and lecture theatres means we will be able to run multiple different activities simultaneously throughout the weekend.
 
-Thanks again!
-
-~ The OzSecCon (Formerly OzLockCon) Consmiths
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCXIGwwDlvjDUeDZP32EM2xunXoRAn3I3w&q=Melbourne+Polytechnic+(Heidelberg+Campus),+Bell Street,+Heidelberg+West,+Victoria,+Australia">
+</iframe>
 
 ## What's this?
 
@@ -38,38 +41,3 @@ Our sessions will be open to all attendees, run by industry-leading instructors 
 Our aim is to cover not only traditional physical security controls (such as locks and safes) but also access control systems (alarm systems and <abbr title="Radio-frequency Identification">RFID</abbr>). This will include both networked and <abbr title="radio frequency">RF</abbr> devices.
 
 We hope that all those attending find the experience both informative, engaging, and importantly, fun.
-
-### Talks
-
-Talks will be range from 30–60 minutes long on all things physical security.
-
-We will have some of the best talent in the world attend and present both
-time-honoured techniques as well as the latest research.
-
-### Workshops
-
-Workshops are run by experts who will demonstrate attacks such as:
-
-- impressioning
-- picking
-- safe manipulation
-- bumping
-- bypass techniques
-- <abbr title="Radio-frequency Identification">RFID</abbr>/radio attacks
-- and more.
-
-These provide an excellent opportunity to practice and refine your skills regardless of expertise.
-
-Workshops will run anywhere between an hour to all-weekend long without fixed class sizes.
-
-### Demonstrations
-
-Similar to workshops, but not hands on. These will demo advanced skills such as destructive entry techniques, safe repair, lock making, and more.
-
-### Competitions
-
-Lock-picking and handcuff evasion competitions have become increasingly popular across infosec conferences in Australia. These have usually attracted a fairly small and relatively inexperienced crowd, with familiar faces showing up at most events.
-
-At OzSecCon we aim to find out who the best lock-picker in Australia is by testing their skills and knowledge.
-
-More details as to the format and types of competitions will be announced closer to the date.
