@@ -5,6 +5,15 @@ slug: home
 title: "OzSecCon"
 ---
 
+## Tickets
+
+OzSecCon tickets are now on sale!
+Please head [here](http://ozseccon.eventzilla.net/web/event?eventid=2138915646) to secure your ticket!
+
+If you require any assistance to attend, please see [here](faq/#access-for-all).
+
+All ticket types will allow access to all the talks, workshops and competitions over the weekend. No other registration is necessary!
+
 ## <abbr title="Call For Papers">CFP</abbr> &amp; Workshops
 
 We have opened the Call for Papers/Workshops for 2018.  Head on over [here](/cfpw/) for more information relating to talks and workshops and to submit your talks or/and workshops.
