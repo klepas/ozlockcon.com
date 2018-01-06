@@ -1,8 +1,7 @@
 OzSecCon Jekyll website
 =============
 
-[![Build Status](https://semaphoreci.com/api/v1/klepas/ozlockcon-com/branches/master/badge.svg)](https://semaphoreci.com/klepas/ozlockcon-com)
-
+[![Build Status](https://semaphoreci.com/api/v1/barnie995/ozlockcon-com-3/branches/master/badge.svg)](https://semaphoreci.com/barnie995/ozlockcon-com-3)
 > Code that builds a static copy of the OzSecCon website.
 
 
