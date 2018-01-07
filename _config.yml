@@ -30,8 +30,8 @@ tags: Lockpicking, Locksport, Physical Security, Research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OzSecCon
-stasibook_url: https://www.facebook.com/ozlockcon/
-github_username: klepas
+stasibook_url: https://www.facebook.com/groups/ozseccon/about/
+github_username: ozseccon
 
 # Build settings
 markdown: kramdown

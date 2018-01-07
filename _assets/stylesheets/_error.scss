@@ -5,7 +5,11 @@
 .error {
   h2,
   h3,
-  p {
+  h4 {
     text-align: center;
+  }
+  h3,
+  h4 {
+    font-weight: normal;
   }
 }
