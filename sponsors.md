@@ -28,6 +28,12 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
 
 ***
+## Badge & Lanyard Sponsor
+
+Want to become a Badge & Lanyard Sponsor? [We have **two slots open**](#badge-and-lanyard)
+
+***
+
 ## Interested in being a sponsor?
 
 OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
@@ -61,7 +67,7 @@ We ask that you consider the sponsorship packages below in order to help us deli
 Perks:
 
 - Large Conference Booth
-- Large Banners on the stage
+- 2x fabric media walls (no larger than 3m x 2.5m x 0.5m) placed in area of your choosing
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
@@ -76,7 +82,7 @@ $15 000 AUD
 Perks:
 
 - Medium Conference Booth
-- Smaller Banner on the stage
+- 2x regular sized pull up banners placed in area of your choosing
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
@@ -90,7 +96,7 @@ $10 000 AUD
 
 Perks:
 
-- Smaller Banner on the stage
+- 1x pull up banner placed in area of your choosing
 - Website Listings
 - Flyers and Merchandise Space on the Registration Desks
 - Sponsor Mentions During Opening And Closing
@@ -109,6 +115,14 @@ Perks:
 - One Ticket
 
 $2 000 AUD
+
+## Badge and Lanyard
+
+&rarr; **[Contact us](mailto:{{ site.email }})**
+
+* Lanyard sponsorship $2.5k
+* Badge sponsorship $2.5k
+* Lanyard and Badge $4.5k
 
 ***
 
