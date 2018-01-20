@@ -25,6 +25,14 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 
 ## Bronze Tier Sponsor
 
+### Mercury ISS
+
+<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.jpg" alt="Mercury ISS logo" width="269" height="54" /></a>
+
+> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](http://mercuryiss.com.au/).
+
+***
+
 Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
 
 ***
@@ -33,6 +41,14 @@ Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze
 Want to become a Badge & Lanyard Sponsor? [We have **two slots open**](#badge-and-lanyard)
 
 ***
+
+## Prize Sponsor
+
+### OzHack
+
+<a class="logo" href="https://www.ozhack.com/"><img src="/images/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
+
+>OZ Hack! Australia and New Zealand's only online computer security hardware and hacking store. Stocking the latest in Software Defined Radio, Testing Tools and tech gadgets for professionals and enthusiasts!
 
 ## Interested in being a sponsor?
 
