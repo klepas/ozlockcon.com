@@ -10,7 +10,7 @@ title: "FAQ"
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
 1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
-1. [Accees for all](#access-for-all)
+1. [Access for all](#access-for-all)
 {: .toc }
 
 ## Who are you?
