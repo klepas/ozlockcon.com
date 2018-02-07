@@ -31,6 +31,14 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 
 > Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](http://mercuryiss.com.au/).
 
+### Insomnia Security
+
+<a class="logo" href="https://www.insomniasec.com/"><img src="/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
+
+> Insomnia Security is a New Zealand based company dedicated to providing highly specialised information security consultancy services to customers.
+>
+> Find out more at [**insomniasec.com**](https://www.insomniasec.com).
+
 ***
 
 Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
