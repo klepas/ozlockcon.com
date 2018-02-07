@@ -33,7 +33,7 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 
 ### Insomnia Security
 
-<a class="logo" href="https://www.insomniasec.com/"><img src="/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
+<a class="logo" href="https://www.insomniasec.com/"><img src="/images/sponsors/insomnia-logo.png" alt="Insomnia Security logo" width="265" /></a>
 
 > Insomnia Security is a New Zealand based company dedicated to providing highly specialised information security consultancy services to customers.
 >
