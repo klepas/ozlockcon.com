@@ -29,9 +29,18 @@ Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
 >
 > At Privasec we believe in partnering with our customers by building long-lasting relationships based on trust, integrity and care. We uphold high standards in honesty, rigor, flexibility and service. Our success is our people and that’s why we take the time to find not only the right skillsets but also the right culture-fit. Find out more at [**privasec.com.au**](http://privasec.com.au).
 
+
+### Datacom
+
+<a class="logo" href="https://www.datacomtss.com.au/"><img src="/images/sponsors/datacom-logo.png" alt="Datacom TSS" width="265" /></a>
+
+> Discreet \| Niche \| Tailored
+>
+> Find out more at [**datacomtss.com.au**](https://www.datacomtss.com.au/).
+
 ***
 
-Want to become a Silver Tier Sponsor? [We have **four slots open**](#silver-tier)
+Want to become a Silver Tier Sponsor? [We have **three slots open**](#silver-tier)
 
 ***
 
@@ -78,6 +87,8 @@ Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, t
 <a class="logo" href="https://www.ozhack.com/"><img src="/images/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
 
 > OZ Hack! Australia and New Zealand's only online computer security hardware and hacking store. Stocking the latest in Software Defined Radio, Testing Tools and tech gadgets for professionals and enthusiasts!
+
+***
 
 ## Interested in being a sponsor?
 
