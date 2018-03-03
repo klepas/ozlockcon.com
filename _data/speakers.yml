@@ -1,218 +1,104 @@
-robert-bull:
-  name: Robert ‘Bull’ Winkel
-  whois: Security consultant, pentester, online investigator, lockpicker
-  twitter: RobertWinkel
-  workshop:
-    title: <s>“BIG BADDA BOOM!”</s>
+andre-vornbrock:
+  name: Andre Vornbrock
+  whois: Discovered MCS vulnerabilities - background in high security NDE
+  talk:
+    title: High Security Lockpicking
     abstract: >
-      “BIG BADDA BOOM!” is a challenge where you must disarm a (simulated) bomb counting down the seconds!
-      In this challenge, you play a 2-person team of bomb-disposal experts. You will have to defeat a variety of sensors and countermeasures using your skills, knowledge and creativity with the materials on hand. You have 10 minutes to disarm the bomb. One small mistake and: BIG BADDA BOOM!
-          
-      **Note** that sadly this event has been cancelled due to Bull being unwell.
-  hackergotchi: /images/hackergotchis/bull.jpg
+      Practical applications for how to pick nearly any high security lock with a sidebar.
 
-
-beardpunish:
-  name: Alex ‘Beardpunish’
-  whois: Professional jeweller
-  workshop:
-    title: Lost wax casting of complex keys
-    abstract: >
-      Explore an ancient technique of lost wax casting, where anything made in wax can be made into metal. We’ll cover casting principles and basic techniques used, non-shrink moulding techniques, <abbr title="Room Temperature Vulcanization">RTV</abbr> silicone mould making, wax injection, cleanup and finishing of the casted copy.
+      The main focus of the talk will center around the legendary MCS lock and it's newly published vulnerabilities.
   hackergotchi: /images/hackergotchis/mystery.png
 
-
-amm0nra:
-  name: Amm0nRa
-  whois: noob with a laptop
-  twitter: Amm0nRa
-  session_time: "14:00"
-  day: "1"
-  workshop:
-    title: Practical <abbr title="Radio-frequency Identification">RFID</abbr> security training [BYO gear required]
-    abstract: >
-      This workshop will include both lecture style teaching about RFID access cards, covering protocols, formats and security measures as well as practical hands on training with the 'Proxmark3' open source RFID security tool.
-          
-      These exercises  will include how to identify an unknown RFID card, how to read the data from the card and how to clone it to a new blank card. It will cover both Low Frequency and High Frequency cards. Training will cover RFID card security measures and the options and attacks for cracking the cryptographic keys. Examples of insecure systems and suggestions for implementing secure access control systems will also be covered.
-          
-      **You will need to bring a laptop with virtualbox installed that supports USB passthrough! You’ll need to bring your own ethernet cable and adapter as necessary.**
-          
-      **If you have a proxmark 3 or newer, please also bring it along (we only have 20 Proxmarks available for general use).**
-  hackergotchi: /images/hackergotchis/Amm0nRa.png
-
-
-jos-weyers:
-  name: Jos Weyers
-  whois: Vice-President of [TOOOL.nl](https://toool.nl), organiser of the Dutch LockCon conference, & world-record holder in the field of lock impressioning
-  twitter: josweyers
+peter-field:
+  name: Peter Field
+  whois: Director of Research at Medeco Security Locks
   talk:
-    title: Key impressioning
+    title: Elements of Lock Cylinder Design Cylinders & Keys made with Moveable Elements
     abstract: >
-      We've all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn't it be great to have an opening technique that would supply you with a working key in the process?
-          
-      A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got "re-invented" by the lockpick community and the skill evolved to the level now shown at several international championships.
-          
-      Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10–15 minutes (and potentially faster)!
-          
-      What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.
-  hackergotchi: /images/hackergotchis/josweyers.jpg
+      ***Elements of Lock Cylinder Design*** is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can   increase or decrease the security of the lock.
 
 
-klepas:
-  name: klepas
-  twitter: klepas
-  whois: "Building things (accessibility, front-end web), security, & lockpicker"
-  panel: true
-  hackergotchi: /images/hackergotchis/klepas.jpg
+      By analyzing the components in a cylinder, it is possible to develop a summary of the security rating of the lock. We will use illustrations and photographs of the cylinder  to understand how various locks operate.
 
 
-alex:
-  name: Alex Hogue
-  whois: a kid with a laptop and a pocketful of memes
-  website: https://defaultnamehere.tumblr.com/
-  session_time: "09:00"
-  day: "1"
-  talk:
-    title: Tricking people using magic tricks and pickpocketing
-    abstract: >
-      You know magicians? Pickpockets? How do they do it? How do they trick people so consistently? This talk is about using the same techniques a magician or pickpocket would use, but for social engineering and physical security mischief. We’ll exploit the wonky default settings of human brains for the sake of sneaking what you're doing past people. To a magician, your brain is probably running the wetware equivalent of Windows 95, so come along and get patched.
-  hackergotchi: /images/hackergotchis/alex-hogue.jpg
+      ***Cylinders and Keys made with Moveable Elements*** is a historical study of locks that are operated by keys with moveable components. In the late 1900s there was a rapid   development of locks with mechanically complex keys.
 
 
-michael-maynard:
-  name: Michael Maynard
-  whois: Tinkering optometrist
-  talk:
-    title: "Safes: banks, burglars, budgets... and the average Joe"
-    abstract: >
-      The perfect safe doesn't exist of course, and physical security is always going to be a balancing act between the demands of the customer, the technology available at the time of manufacture, and, of course, budget. I take you through a tour of safes and safe theory, and invite you to think a bit deeper than just nuts and bolts. (Oh, and we'll get to look at the design of a three wheel combination safe lock because, you know, it's undeniably cool.)
-  hackergotchi: /images/hackergotchis/michael.png
+      We will use illustrations and photographs to see what the lock and keys look like, how they operate and estimatewhat security they provide.
 
-
-nullwolf:
-  name: nullwolf
-  twitter: tresacton
-  workshop:
-    title: Practical <abbr title="Radio Frequency">RF</abbr> attacks workshop [BYO laptop]
-    abstract: >
-      Ever wished you knew how to "pick" wireless digital locks (remote keyless entry systems), disarm wireless alarm systems, and impersonate valid Radio Frequency transmissions? This is probably the workshop you're looking for.
-          
-      Participants will learn to reverse engineer a basic RF signal, and transmit the reverse engineered signal to impersonate the target device. Time permitting, participants will also learn how to brute-force simple devices, and learn the anatomy of a RollJam attack.
-          
-      Basic Linux familiarity preferred (i.e. know how to execute terminal commands at minimum).
-          
-      **Bring a laptop! Also, if you have any <abbr title="Software Defined Radios">SDR</abbr>s please bring them as well!**
-  hackergotchi: /images/hackergotchis/nullwolf.jpg
-
-
-craig-rumball:
-  name: Craig Rumball
-  whois: "Security advisor & locksmith"
-  panel: true
-  talk:
-    title: "Security in depth --- ‘When security theatre just isn’t enough’ <small>(a government perspective)</small>"
-    abstract: >
-      Get exposed to holistic security doctrine and leverage on the approach taken by government agencies and contractors.
-          
-      This talk will introduce you to the Australian Government Protective Security Policy Framework (PSPF) and show you how to apply to its principles to provide layered and durable security measures in your own workspace.
-          
-      Don't get bogged down in the fruits of bureaucracy, this talk condenses reams of boring documents and gives you the high speed tour --- hopefully slightly less boring.
-          
-      Whether you want to learn how to make it or break it --- Security in Depth is more than just locks and firewalls.  Managing the weakest links, people and policy, is part of the key to securing information and assets.
-  hackergotchi: /images/hackergotchis/rumball.png
-
-
-gracienolag:
-  name: Grace Nolan
-  whois: "[gracenolan.me](http://gracenolan.me/)"
-  twitter: GracieNoLag
-  talk:
-    title: "History of lock picking"
-    abstract: >
-      Get into my hyperspace time cruiser and let me take you on a tour through millennia of lock picking. We’ll learn about some of the locks the aristocracy came up with to secure their valuables. We’ll see lock picking bounties and the transient era of perfect security. Yes, that’s right. Perfect Security. These are your great-great-great grandparents’ stories so buckle up kiddo, you’re in for a wild ride.
-  hackergotchi: /images/hackergotchis/grace-nolan.jpg
-
-
-silviocesare:
-  name: Silvio Cesare
-  whois: "[BSides Canberra](http://www.bsidesau.com.au/) organiser, hacker extraordinaire <br><small>[Cf. *Satoshi Nakamoto*]</small>"
-  twitter: silviocesare
-  panel: true
-  hackergotchi: /images/hackergotchis/silviocesare.jpg
-
-
-wayne:
-  name: Wayne Ronaldson
-  whois: Technical Director, <abbr>TSS</abbr>
-  talk:
-    title: Red Teaming --- ‘You must go beyond the limits’
-    abstract: >
-      Red Teams are designed to penetrate security in a real world test of effectiveness of security controls, policy, technology and infrastructure. Red Teams view security from an adversary perspective in order to simulate realistic attack scenarios that enable an organisation as a whole to prepare and protect against both simple and sophisticated threats. Red Teams build security culture and provide opportunities for staff to be trained using real world examples.
-  hackergotchi: /images/hackergotchis/wayne-ronaldson.jpg
-
-
-lucas-zhao:
-  name: Lucas Zhao
-  whois: Chinese and Asian lock researcher and aficionado
-  twitter: TheUrbanHawk
-  talk:
-    title: Chinese contemporary mechanical locks
-    abstract: >
-      Many people are familiar with American and European lock companies as well as their designs, and defeats, such as Schlage, Corbin, Medeco, ASSA, Abloy, and EVVA. However, domestic Chinese locks, never seen outside of China, are far from typical both in terms of design and vulnerabilities.
-          
-      Many people know, and love/hate the Chinese produced locks at their local big-box or dollar stores. Although most of the locks sold in big-box stores here nowadays are produced in China, that is only one side of the story. There is a whole other dimension with unique and ingenious designs which are sold exclusively in China. These modern locks feature exotic mechanisms and anti-pick features, unlike the cheap exported locks that most people are used to. In fact, many of these locks are even more secure than many high security locks made in America, and yet feature simple yet ingenious designs. I will also discuss potential defeats of even seemingly impossible to defeat designs of these locks, such as the GoldAtom reverse sidebar lock, a seemingly impossible to defeat lock that can be defeated with a wire and some yarn.
-  hackergotchi: /images/hackergotchis/lucas-zhao.jpg
-
-christina-palmer:
-  name: Christina Palmer
-  whois: Lock pick designer
-  website: http://elvencraft.com
-  talk:
-    title: Wave rake design
-    abstract: >
-      What makes a good wave rake? Science and engineering are applied to wave rake design.
-          
-      The quest to improve wave rakes begins with the history of the bogota. Raking techniques are listed and tested. Critical analysis of commercial wave rakes reveal their shortcomings and what can be done to improve them. Various curve shapes are considered. Elements of pick design including shaft taper and undercuts for strain relief are optimized and integrated. Euler-Bernoulli beam theory be praised. The limits of <abbr title="computer-aided design">CAD</abbr> software are sorely tested. Prototypes are made with a variety of wave lengths and wave shapes, and there is much experimentation. A virtual measuring widget in a CAD program reveals undercut errors. Mathematica is used to improve the undercuts. The new wave rake designs are offered to pick manufacturers. Some of them actually accept, and there is much rejoicing.
   hackergotchi: /images/hackergotchis/mystery.png
 
-
-huajiang-chen:
-  name: Huajiang ‘Kevin2600’ Chen
-  whois: Security researcher at the Istuary-Security Lab in Vancouver, Canada
-  twitter: Kevin2600
+lucas-peter:
+  name: Peter Field & Lucas Zhao
+  whois: Peter is Director of Research at Medeco Security Locks & Lucas is a Chinese and Asian lock researcher and aficionado
   talk:
-    title: Bluetooth that bites --- <abbr title="Bluetooth Low Energy">BTLE</abbr> unlocking
+    title: Interesting Chinese Cylinder Innovations
     abstract: >
-      Locks are an ancient technology; the current trend in locks is to make them “Smarter” by adding wireless functionality and connecting them to the Internet! ...but are they doing any better than mechanical only locks?
-          
-      We will walk through a case study on BTLE Smart locks. This talk will provide practical reversing examples, step by step: from <abbr title="Android Package Kit">APK</abbr> file reversing to BTLE traffic sniffing and analysing. The talk will provide attendees an insight into the weaknesses of common BTLE implementations, and the principles of attack shared across similar such devices.
-  hackergotchi: /images/hackergotchis/Kevin2600.jpg
+      Many of the locks that have been manufactured and sold in China represent significant cylinder inventions that areoften overlooked.
 
-ben-tweek:
-  name: Ben and Tweek
-  whois: Security engineers at Google
-  workshop:
-    title: Tamper-evidence challenge
-    abstract: >
-      Physical seals are intended to provide assurance that the sealed object has not been tampered with --- to detect theft, contamination, or unathorised access.
-          
-      This challenge will be a hands-on, participant-led excercise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weakness, and also show some ways to detect tampering. Fame, glory and possibly actual prizes will be awarded to participants who succeed in defeating each kind of seal.
+      Using photographs, illustrations and video animations, we will evaluate several clever cylinder ideas and see how they have been manufactured, modied and incorporated into other models. We will also introduce some new products recently developed in China.
+
+
+      <small>→ Twitter:</small> [**@TheUrbanHawk**](https://twitter.com/TheUrbanHawk)
   hackergotchi: /images/hackergotchis/mystery.png
 
-
-ryan-jeremy:
-  name: Ryan and Jeremy
-  whois: >
-    "A menance to society" ---Metlstorm
+connor-emily:
+  name: Connor & Emily Morrison
+  twitter: MrOldSkinny
+  whois: Kid duo eagerly learning all the things and breaking all the things in the process
   talk:
-    title: >
-      Contactless Access Control 2: Life, uh, finds a way
+    title: Tamper Resistance Bypasses
     abstract: >
-      Have you ever spent days waiting to clone the right access to get (back) into your highly secure access controlled building? Remembered your lockpicks but left the proxmark and the <abbr title="Software Defined Radio">SDR</abbr> at home?
-          
-      We have a solution for you! Presenting the sledgehammer approach to completely avoiding the problem and exploiting the weakest link with out latest must-have portable-ish physical security appliance.
-          
-      <small>[Now 86% less likely to explode...]</small>
-          
-      <small>→ Twitter:</small> [**@ryankurte**](https://twitter.com/ryankurte) <span class="amp">&amp;</span> [**@jsstott**](https://twitter.com/jsstott)
+      Be prepared to delve into the realm of tamper resistance by-passes with this interactive presentation.
+
+      Having discovered tamper-resistance by-poasses over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices.  In doing so, demon strarting that tamper resistance really is just child's play.
+
+
+      The presentation will demonstrate the use of a number of solvents and their application to tamper resistance by-passes and as well basic hand-cuff and cable tie removal. A must-see presentation for those wanting to get into tamper-proof by-passing.
+
+  hackergotchi: /images/hackergotchis/mystery.png
+
+jaakko-fagerlund:
+  name: Jaakko Fagerlund
+  twitter: JaakkoFagerlund
+  whois: Tool/die maker by profession, lockpick designer, safe cracker as a side job and very much into electronics and coding and combining all these to make whatever comes to mind
+  talk:
+    title: Manipulation aids in opening safe locks
+    abstract: >
+      An analysis of weaknesses present in typical mechanical safe combination locks and how to exploit them to gain knowledge of the combination by using electronic measuring tools and PC software.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+jos-holly:
+  name: Jos Weyers & Holly Poer
+  whois: Jos is the World Record Holder at impressioning and holds several international championship titles.  Holly is an American based locksmith and won 2nd in the 2016 USA Championships, making her the fastest American
+  workshop:
+    title: Impressioning with Jos Weyers and Holly Poer
+    abstract: >
+      This is a very special workshop on impressioning, a covert entry technique used to generate a working key for a lock given only information obtained by manipulating a ***blank key*** in a lock. Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently create a key in 10-15 minutes ( and potentially faster! ). This will be a full, hands-on workshop on this technique.
+
+
+      <small>→ Twitter:</small> [**@josweyers**](https://twitter.com/josweyers)
+  hackergotchi: /images/hackergotchis/mystery.png
+
+matt-smith:
+  name: Matt Smith
+  twitter: Matt_Smith_Hux
+  whois: Security subversionist, inveigler, finagler, blaggard, 7th gen locksmith, toolmaker, goalkeeper. Physical 0-days. Abloy NDE training. BSc (hons) Comp Sc. Fin.
+  talk:
+    title: Adventures in Discworld
+    abstract: >
+      Disc detainer locks form a small, but fascinating area within the locksport world. This talk will shed some light on the operation and vulnerabilities of several high security mechanisms in use today, including locks made by Abus and Abloy. It will also cover several techniques on how to NDE them and some of the NDE countermeasures employed by lock makers.
+
+
+      This talk will draw on my limited but useful experience as a lockpicker and toolmaker, specialising in disc
+  hackergotchi: /images/hackergotchis/mystery.png
+
+jek-hyde:
+  name: Jek Hyde
+  twitter: HydeNS33k
+  whois: Red teamer and Social Engineer
+  talk:
+    title: Keynote
+    abstract: >
+      TBA
   hackergotchi: /images/hackergotchis/mystery.png
