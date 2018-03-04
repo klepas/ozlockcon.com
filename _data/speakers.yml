@@ -102,3 +102,20 @@ jek-hyde:
     abstract: >
       TBA
   hackergotchi: /images/hackergotchis/mystery.png
+
+attacus:
+  name: Attacus
+  twitter: attacus_au
+  whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs
+  talk:
+    title: How to Disappear Completely
+    abstract: >
+      If you've ever wanted an invisibility cloak, this talk is for you.
+
+
+      Cameras peer at us from street corners, from phones, from the dashes of passing cars, and from shopping mall advertisements. Even when you're not posing for a selfie, you might end up in the background of someone else's picture while you're out at dinner – and if that photograph is uploaded to a social media site, facial recognition can pick you out of the lineup.
+
+      Machines are getting better at recognising our faces – but if you want to sneak through the streets of your city like a young wizard in the corridors after midnight, there is still hope.
+      
+      This talk provides an overview of the latest urban camouflage technology and how to deploy it in order to foil facial recognition. During this session you'll learn the ways machines "see" us, and how to play with them in order to become invisible. We'll dive into the ethics of biometric identification. And, if you're feeling adventurous, you can have fun with reflective tape and face paint to disguise yourselves from the algorithmic eye.
+  hackergotchi: /images/hackergotchis/mystery.png
