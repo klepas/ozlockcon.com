@@ -15,6 +15,7 @@ _assets/scss/.sass-lint.yml
 
 # Bundle
 .bundle
+Gemfile.lock
 
 # Mac folder attrs.
 .DS_Store

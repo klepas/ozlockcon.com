@@ -45,13 +45,13 @@ lucas-peter:
 connor-emily:
   name: Connor & Emily Morrison
   twitter: MrOldSkinny
-  whois: Kid duo eagerly learning all the things and breaking all the things in the process
+  whois: This brother and sister duo are all about learning new 'life skills'. Having discovered lock picking and tamper evident at a really early age, they have made it their mission in life to bypass all the controls. When they finally make it to high school, if the pool on the roof has a leak, that door wont stop them getting back down.
   talk:
     title: Tamper Resistance Bypasses
     abstract: >
       Be prepared to delve into the realm of tamper resistance by-passes with this interactive presentation.
 
-      Having discovered tamper-resistance by-poasses over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices.  In doing so, demon strarting that tamper resistance really is just child's play.
+      Having discovered tamper-resistance by-passes over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices.  In doing so, demonstrarting that tamper resistance really is just child's play.
 
 
       The presentation will demonstrate the use of a number of solvents and their application to tamper resistance by-passes and as well basic hand-cuff and cable tie removal. A must-see presentation for those wanting to get into tamper-proof by-passing.
@@ -90,13 +90,14 @@ matt-smith:
       Disc detainer locks form a small, but fascinating area within the locksport world. This talk will shed some light on the operation and vulnerabilities of several high security mechanisms in use today, including locks made by Abus and Abloy. It will also cover several techniques on how to NDE them and some of the NDE countermeasures employed by lock makers.
 
 
-      This talk will draw on my limited but useful experience as a lockpicker and toolmaker, specialising in disc
+      This talk will draw on my limited but useful experience as a lockpicker and toolmaker, specialising in disc detainer locks.
   hackergotchi: /images/hackergotchis/mystery.png
 
 jek-hyde:
   name: Jek Hyde
   twitter: HydeNS33k
-  whois: Red teamer and Social Engineer
+  whois: >
+    Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids
   talk:
     title: Keynote
     abstract: >
@@ -116,6 +117,6 @@ attacus:
       Cameras peer at us from street corners, from phones, from the dashes of passing cars, and from shopping mall advertisements. Even when you're not posing for a selfie, you might end up in the background of someone else's picture while you're out at dinner – and if that photograph is uploaded to a social media site, facial recognition can pick you out of the lineup.
 
       Machines are getting better at recognising our faces – but if you want to sneak through the streets of your city like a young wizard in the corridors after midnight, there is still hope.
-      
+
       This talk provides an overview of the latest urban camouflage technology and how to deploy it in order to foil facial recognition. During this session you'll learn the ways machines "see" us, and how to play with them in order to become invisible. We'll dive into the ethics of biometric identification. And, if you're feeling adventurous, you can have fun with reflective tape and face paint to disguise yourselves from the algorithmic eye.
   hackergotchi: /images/hackergotchis/mystery.png
