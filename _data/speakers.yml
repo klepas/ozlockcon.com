@@ -96,7 +96,8 @@ matt-smith:
 jek-hyde:
   name: Jek Hyde
   twitter: HydeNS33k
-  whois: Red teamer and Social Engineer
+  whois: >
+    Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids
   talk:
     title: Keynote
     abstract: >
