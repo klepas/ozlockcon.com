@@ -1,0 +1,35 @@
+wayne-ronaldson:
+  name: Wayne Ronaldson
+  whois: Wayne is an experienced security tester at TSS specializing in Red Team Assessments, physical security and social engineering. Wayne presents to government and private sector organisations in relation to red teaming and cyber security, and is often requested to give in-depth technical briefings on the current security landscape.
+  title: Adversary Mindset
+  abstract: >
+    Traditional security testing does not always accurately reflect the true tactics, trade-craft or simple
+    pure grit and determination of your adversary. Red Teaming is the process of viewing a problem
+    from an adversary or competitor’s perspective. Red Teaming simulates realistic attack scenarios,
+    using the same trade-craft and tools used by the adversary to mimic the threat to key business
+    assets.
+
+    This hands-on course will demonstrate how a genuine Red Team approach successfully combines
+    physical, digital and social attack vectors in order to accurately replicate the activities of the
+    adversary, to beat them at their own game. Using practical scenarios, participants will learn:
+
+      * The Red Team Mindset
+      * Target Analysis
+      * Adversary Analysis
+      * Reconnaissance
+      * Planning and Executing
+      * Red Team Small Team Tactics
+
+      Training is practical wherever possible and usually takes place on-site at the client company
+      premises, with some training conducted off-site‘ on the ground’. Training takes place over 2 very
+      full days.
+
+      The course culminates in a practical simulation exercise that integrates the analysis,
+      reconnaissance and planning phases of Red Teaming and applies them in action against the
+      Adversary Training fictitious company. This simulation exercise provides participants with the
+      opportunity to apply their knowledge and under standing in away that is practical and relevant,
+      while also demonstrating the challenge of being able to have the mindset like a Red Team member.
+
+      [Course outline can be found in this PDF.](/documents/training/adversary-mindset.pdf)
+          
+  hackergotchi: /images/hackergotchis/mystery.png

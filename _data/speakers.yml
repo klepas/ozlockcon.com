@@ -1,9 +1,8 @@
 andre-vornbrock:
   name: Andre Vornbrock
   whois: Discovered MCS vulnerabilities - background in high security NDE
-  talk:
-    title: High Security Lockpicking
-    abstract: >
+  title: High Security Lockpicking
+  abstract: >
       Practical applications for how to pick nearly any high security lock with a sidebar.
 
       The main focus of the talk will center around the legendary MCS lock and it's newly published vulnerabilities.
@@ -12,9 +11,8 @@ andre-vornbrock:
 peter-field:
   name: Peter Field
   whois: Director of Research at Medeco Security Locks
-  talk:
-    title: Elements of Lock Cylinder Design Cylinders & Keys made with Moveable Elements
-    abstract: >
+  title: Elements of Lock Cylinder Design Cylinders & Keys made with Moveable Elements
+  abstract: >
       ***Elements of Lock Cylinder Design*** is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can   increase or decrease the security of the lock.
 
 
@@ -31,9 +29,8 @@ peter-field:
 lucas-peter:
   name: Peter Field & Lucas Zhao
   whois: Peter is Director of Research at Medeco Security Locks & Lucas is a Chinese and Asian lock researcher and aficionado
-  talk:
-    title: Interesting Chinese Cylinder Innovations
-    abstract: >
+  title: Interesting Chinese Cylinder Innovations
+  abstract: >
       Many of the locks that have been manufactured and sold in China represent significant cylinder inventions that areoften overlooked.
 
       Using photographs, illustrations and video animations, we will evaluate several clever cylinder ideas and see how they have been manufactured, modied and incorporated into other models. We will also introduce some new products recently developed in China.
@@ -46,9 +43,8 @@ connor-emily:
   name: Connor & Emily Morrison
   twitter: MrOldSkinny
   whois: This brother and sister duo are all about learning new 'life skills'. Having discovered lock picking and tamper evident at a really early age, they have made it their mission in life to bypass all the controls. When they finally make it to high school, if the pool on the roof has a leak, that door wont stop them getting back down.
-  talk:
-    title: Tamper Resistance Bypasses
-    abstract: >
+  title: Tamper Resistance Bypasses
+  abstract: >
       Be prepared to delve into the realm of tamper resistance by-passes with this interactive presentation.
 
       Having discovered tamper-resistance by-passes over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices.  In doing so, demonstrarting that tamper resistance really is just child's play.
@@ -62,31 +58,17 @@ jaakko-fagerlund:
   name: Jaakko Fagerlund
   twitter: JaakkoFagerlund
   whois: Tool/die maker by profession, lockpick designer, safe cracker as a side job and very much into electronics and coding and combining all these to make whatever comes to mind
-  talk:
-    title: Manipulation aids in opening safe locks
-    abstract: >
+  title: Manipulation aids in opening safe locks
+  abstract: >
       An analysis of weaknesses present in typical mechanical safe combination locks and how to exploit them to gain knowledge of the combination by using electronic measuring tools and PC software.
-  hackergotchi: /images/hackergotchis/mystery.png
-
-jos-holly:
-  name: Jos Weyers & Holly Poer
-  whois: Jos is the World Record Holder at impressioning and holds several international championship titles.  Holly is an American based locksmith and won 2nd in the 2016 USA Championships, making her the fastest American
-  workshop:
-    title: Impressioning with Jos Weyers and Holly Poer
-    abstract: >
-      This is a very special workshop on impressioning, a covert entry technique used to generate a working key for a lock given only information obtained by manipulating a ***blank key*** in a lock. Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently create a key in 10-15 minutes ( and potentially faster! ). This will be a full, hands-on workshop on this technique.
-
-
-      <small>→ Twitter:</small> [**@josweyers**](https://twitter.com/josweyers)
   hackergotchi: /images/hackergotchis/mystery.png
 
 matt-smith:
   name: Matt Smith
   twitter: Matt_Smith_Hux
   whois: Security subversionist, inveigler, finagler, blaggard, 7th gen locksmith, toolmaker, goalkeeper. Physical 0-days. Abloy NDE training. BSc (hons) Comp Sc. Fin.
-  talk:
-    title: Adventures in Discworld
-    abstract: >
+  title: Adventures in Discworld
+  abstract: >
       Disc detainer locks form a small, but fascinating area within the locksport world. This talk will shed some light on the operation and vulnerabilities of several high security mechanisms in use today, including locks made by Abus and Abloy. It will also cover several techniques on how to NDE them and some of the NDE countermeasures employed by lock makers.
 
 
@@ -98,9 +80,8 @@ jek-hyde:
   twitter: HydeNS33k
   whois: >
     Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids
-  talk:
-    title: Keynote
-    abstract: >
+  title: Keynote
+  abstract: >
       TBA
   hackergotchi: /images/hackergotchis/mystery.png
 
@@ -108,9 +89,8 @@ attacus:
   name: Attacus
   twitter: attacus_au
   whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs
-  talk:
-    title: How to Disappear Completely
-    abstract: >
+  title: How to Disappear Completely
+  abstract: >
       If you've ever wanted an invisibility cloak, this talk is for you.
 
 
@@ -119,4 +99,103 @@ attacus:
       Machines are getting better at recognising our faces – but if you want to sneak through the streets of your city like a young wizard in the corridors after midnight, there is still hope.
 
       This talk provides an overview of the latest urban camouflage technology and how to deploy it in order to foil facial recognition. During this session you'll learn the ways machines "see" us, and how to play with them in order to become invisible. We'll dive into the ethics of biometric identification. And, if you're feeling adventurous, you can have fun with reflective tape and face paint to disguise yourselves from the algorithmic eye.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+adam-foster:
+  name: Adam Jon Foster
+  twitter: evildaemond
+  whois: Adam Jon Foster is an undergrad at Edith Cowan University, is usually happy to teach what he can to those who will listen, has broken more toys on accident than most would believe, and has a huge draw to cybersec and physsec (especialy pentesting).
+  title: >
+    The ALC Galaxy Lock: An in-depth look
+  abstract: >
+    The Australian Lock Companies Galaxy Lock is a pretty cool lock, and has been said by
+    quite a few to be hard to pick, is used in quite a few new commercial installations, especial
+    in high security areas, but not much beyond marketing and 1 bosnianbill video talk about
+    how it functions and how it can be attacked. In this talk I will cover most of the design and
+    function of the Galaxy Lock, how it works, and how you can attack this lock.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+chris-prevost:
+  name: Chris Prevost
+  twitter: anarchywon
+  whois: Chris Prevost has nearly twenty years experience in the security industry. He picked his first lock out of curiosity, but his curiosity wasn’t satisfied with just being able to pick locks he wanted to see how they worked, he wanted to see inside the locks. After taking a machining course he did just that. From this endeavor Anarchy Won Metalworks was born. Currently focused on lock cutaways Chris hopes to branch out into custom metal work soon.
+  title: >
+    Spying into the Design: Making Cutaway Lock
+  abstract: >
+    Have you seen pictures of cutaway locks floating around online and wondered how they are made? Or have you ever wondered what it would look like if you could peel away the layers of a lock to see what’s going on inside?
+
+    This presentation is an in-depth look at how cutaway locks are made primarily using manual Milling machines. You don’t have to be a machinist to enjoy this talk. Afterwards join the speaker in a live demo where you can watch locks being turned into cutaways.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+daniel-matt:
+  name: Daniel Underhay and Matthew Daley
+  twitter: dunderhay
+  whois: >
+    Dan: Pentester by day, walrus developer on the weekend. Enjoying life.
+    Matt: Security consultant and general weirdo. I may not have sweet paper from bug
+    bounties, but I have some exciting mailing list posts... ;_;
+  title: >
+    Project Walrus, an RFID and Contactless Card Cloning App
+  abstract: >
+    Walrus is an Android app that supports several existing contactless card cloning devices. Walrus is designed to simplify and streamline card cloning during red team engagements and physical security assessments.
+
+
+    It offers a common interface and database for storing cloned cards. Currently Walrus supports the industry standard Proxmark 3, Chameleon Mini, Tastic RFID Thief, and more to come. Cloned cards are written to a blank card or emulated on another device such as the Proxmark, instantly granting the attacker privileged access to restricted areas.
+
+
+    Our presentation demonstrates how Walrus is capable of tapping into the power of the 'Tastic RFID Thief' long range card reader, enabling walk-by cloning of access cards in seconds, as well as how cloned cards can be integrated across multiple devices.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+dina-jalkanen:
+  name: Dina Jalkanen
+  twitter: NGC_3572
+  whois: >
+    Friendly geek, lockpicking beginner. Master's degree from Helsinki University and Aalto University School of Business, where she studied computer science, mathematics, networking and English. Member of CCC Amsterdam and Amsterdam hackerspace TechInc.
+  title: >
+    Back in time: Finnish lock industry
+  abstract: >
+    This talk goes back to the roots of physical security and interesting beliefs that made Why would you be interested in Finnish lock history? And where is Finland anyway? This talk examines Abloy history and provides a detailed overview of Finnish lock industry. We will also take a look at Finnish medieval locks and some interesting yet irrational beliefs that pushed the development forward.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+jos-weyers:
+  name: Jos Weyers
+  twitter: josweyers
+  whois: >
+    Jos Weyers is a world-record holder in the field of lock impressioning and a mainstay participant at LockSport events around the world. A long-time member of TOOOL in the Netherlands and a key figure at the Hack42 hackerspace in Arnhem, Jos recently became the Vice-President of TOOOL.nl and now helps to oversee that organization and the LockCon conference. Jos is the mastermind behind the beehive42.org initiative. Some people know him as the Dutch Kilt guy. Featured in the New York Times. Voted #2 in the category "Hackers and Security" of the Nerd101-list of VrijNederland June 2015
+  title: >
+    post-its, post-its, post-its everywhere (and how they relate to physical keys)
+  abstract: >
+    A password shouldn’t be on a post-it note.
+
+    In plain view.
+
+    On the console.
+
+
+    The password to a locked door is called a key.
+
+
+    So if a reporter wants to get the point across that certain people shouldn't have access to a particular key, would it be wise for said reporter to show that key to the world? This talk will show how not to run this story, why we should care and maybe make you rethink your physical security a bit
+  hackergotchi: /images/hackergotchis/mystery.png
+
+logan-dave:
+  name: Logan Woods And David Tredger
+  whois: >
+    David is a Senior Security Consultant at Aura Information Security. He's been accessing things he shouldn't since he was a schoolboy, which was approximately a week ago (actually more like 5 years…) David has a broad infosec skillset with a special focus on password cracking and OSINT.
+    Logan is a Security Consultant at Aura Information Security. Coming from a g-man ops background, he's been pretending to pentest for about 18 months now. He has a particular interest in physical security and lockpicking.
+  title: >
+    Drinking Tea and Holding Meetings: How to do a bad job of PhySec Redteaming and still pwn your target
+  abstract: >
+    Imagine doing a Physical Security Assessment where the client tells you all the cool stuff like wearing fake uniforms, card cloning, and lockpicking are out of scope. You have to try and gain access to the organisation's buildings with essentially nothing but your (limited) wit and charm. But they didn't say the kitchen is out of scope. Big mistake. We'll share a story of how a cup of tea is like an invisibility cloak, your target's meeting rooms make an impenetrable base of operations, and how people are inherently so helpful they will literally go out of their way to help you break into their organisation.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+oliver-clayton:
+  name: Oliver Clayton
+  twitter: oliversees
+  whois: >
+    Oliver is a Security Analyst from Canberra with a love for all things security. High security locks and key duplication are of particular interest.
+  title: >
+    Low Tech Answers To High Security Solutions
+  abstract: >
+    This talk aims to pick apart the Lockwood V7 including details on picking, key duplication, and impressioning.
   hackergotchi: /images/hackergotchis/mystery.png
