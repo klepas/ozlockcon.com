@@ -5,18 +5,21 @@ slug: home
 title: "OzSecCon"
 ---
 
+
+## Announcements April
+
+New [speakers](/speakers/) and [workshops](/workshops/) have been added to the site! Please check them out. There's still a few more to come as the [CFP and CFW](/cfpw/) have not yet closed!
+
+Professional training has now been added for the first time. The first training course offered by OzSecCon is being run by Wayne Ronaldson. The training, 'Adverary Mindset - Red Team Training' will be run over two full days May 31st and June 1st. This is the first time this training has been offered in public and is being provided at a discounted price for those attending OzSecCon. The training will cover a large variety of physical and digital security topics and both practical and theoretical techniques will be demonstrated. See the [training page](/training/) for more details.
+
 ## Tickets
 
 OzSecCon tickets are now on sale!
-Please head [here](http://ozseccon.eventzilla.net/web/event?eventid=2138915646) to secure your ticket!
+Please head to our [Eventzilla page](http://ozseccon.eventzilla.net/web/event?eventid=2138915646) to secure your ticket!
 
-If you require any assistance to attend, please see [here](faq/#access-for-all).
+If you require any assistance to attend, please see the [FAQ](faq/#access-for-all).
 
 All ticket types will allow access to all the talks, workshops and competitions over the weekend. No other registration is necessary!
-
-## Call for Papers &amp; Workshops
-
-We have opened the Call for Papers/Workshops for 2018.  Head on over [here](/cfpw/) for more information relating to talks and workshops and to submit your talks or/and workshops.
 
 ## Venue
 

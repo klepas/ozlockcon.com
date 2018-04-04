@@ -2,9 +2,15 @@
 layout: default
 ---
 
-<h2 class="display-2--lighter">Our speakers</h2>
+<h2 class="display-2--lighter">Training Information</h2>
 
-{% assign speakers = site.data.speakers | sort %}
+<p>
+  All traning will be conducted on 31st of May and the 1st of June.  All training can be purchased from our <a href="http://ozseccon.eventzilla.net/web/event?eventid=2138915646">EventZilla page</a>.
+</p>
+
+<h2 class="display-2--lighter">Our trainers</h2>
+
+{% assign speakers = site.data.trainers | sort %}
 
 <ol class="toc toc__speakers">
 {% for speaker_hash in speakers %}
@@ -13,7 +19,7 @@ layout: default
 {% endfor %}
 </ol>
 
-<h2 class="display-2--lighter">Speaker details</h2>
+<h2 class="display-2--lighter">Trainer details</h2>
 
 <ol class="speaker-details">
 {% for speaker_hash in speakers %}
@@ -21,6 +27,7 @@ layout: default
   <li class="speaker">
     <h2 class="speaker__id" id="{{ speaker.name | slugify }}">
       <img class="speaker__id__hackergotchi" src="{{ speaker.hackergotchi }}" alt="hackergotchi of {{ speaker.name }}" />
+
 
       {% if speaker.twitter %}
       <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitter }}">
@@ -35,10 +42,12 @@ layout: default
         {{ speaker.name }}
       </span>
       {% endif %}
+
     </h2>
+
     <h3>
       <span class="speaker__event-type">
-        Talk
+        Training
       </span>
       {{ speaker.title | markdownify | remove: '<p>' | remove: '</p>' }}
     </h3>
@@ -47,13 +56,13 @@ layout: default
       {{ speaker.abstract | markdownify }}
     </div>
 
-    {% if speaker.whois %}
-    <div class="lede lede--speaker">
-      <span class="speaker__whois">
-        {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
-      </span>
-    </div>
-    {% endif %}
+      {% if speaker.whois %}
+      <div class="lede lede--speaker">
+        <span class="speaker__whois">
+          {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
+        </span>
+      </div>
+      {% endif %}
 
     <a class="skip-link" href="#content">&uarr; Return to top of content</a>
   </li>
