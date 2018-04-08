@@ -128,7 +128,7 @@ chris-prevost:
   hackergotchi: /images/hackergotchis/mystery.png
 
 daniel-matt:
-  name: Daniel Underhay and Matthew Daley
+  name: Daniel Underhay & Matthew Daley
   twitter: dunderhay
   whois: >
     Dan: Pentester by day, walrus developer on the weekend. Enjoying life.
@@ -154,7 +154,7 @@ dina-jalkanen:
   title: >
     Back in time: Finnish lock industry
   abstract: >
-    This talk goes back to the roots of physical security and interesting beliefs that made Why would you be interested in Finnish lock history? And where is Finland anyway? This talk examines Abloy history and provides a detailed overview of Finnish lock industry. We will also take a look at Finnish medieval locks and some interesting yet irrational beliefs that pushed the development forward.
+    This talk goes back to the roots of physical security, Nordic lock industry and Abloy in particular. We will also take a look at Finnish medieval locks and some interesting yet irrational beliefs that pushed their development forward.
   hackergotchi: /images/hackergotchis/mystery.png
 
 jos-weyers:
@@ -179,7 +179,7 @@ jos-weyers:
   hackergotchi: /images/hackergotchis/mystery.png
 
 logan-dave:
-  name: Logan Woods And David Tredger
+  name: Logan Woods & David Tredger
   whois: >
     David is a Senior Security Consultant at Aura Information Security. He's been accessing things he shouldn't since he was a schoolboy, which was approximately a week ago (actually more like 5 years…) David has a broad infosec skillset with a special focus on password cracking and OSINT.
     Logan is a Security Consultant at Aura Information Security. Coming from a g-man ops background, he's been pretending to pentest for about 18 months now. He has a particular interest in physical security and lockpicking.
