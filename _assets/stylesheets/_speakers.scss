@@ -13,7 +13,7 @@
     column-width: auto;
   }
   @include breakpoint(md) {
-    column-count: 3;
+    column-count: 2;
   }
 }
 

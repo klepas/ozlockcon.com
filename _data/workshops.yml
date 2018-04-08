@@ -17,3 +17,12 @@ jaakko-fagerlund:
   abstract: >
     Learn basics of different metals, heat treatment of usual tool steels for lock picks and get valuable tips & tricks.
   hackergotchi: /images/hackergotchis/mystery.png
+
+ben-grace-evengy-tom-david:
+  name: Ben Low, Grace Nolan, Evengy Shatokhin, Tom Hennen & David Wearing
+  twitter: __nolang
+  whois: Google is hosting this tamper evidence challenge to engage curiosity about the physicalintegrity aspects of local access attacks.
+  title: Tamper Evidence Challenge
+  abstract: >
+    Physical seals are intended to provide assurance that the sealed object has not been tamperedwith - to detect theft, contamination or unauthorised access. This challenge will be a hands-on, participant-led exercise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weaknesses, and also show some ways to detect tampering. Fame and glory will be awarded to participants who succeed in defeating each kind of seal.
+  hackergotchi: /images/hackergotchis/mystery.png
