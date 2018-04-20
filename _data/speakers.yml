@@ -1,6 +1,6 @@
 andre-vornbrock:
   name: Andre Vornbrock
-  whois: Discovered MCS vulnerabilities - background in high security NDE
+  whois: Discovered MCS vulnerabilities --- background in high security NDE.
   title: High Security Lockpicking
   abstract: >
       Practical applications for how to pick nearly any high security lock with a sidebar.
@@ -10,7 +10,7 @@ andre-vornbrock:
 
 peter-field:
   name: Peter Field
-  whois: Director of Research at Medeco Security Locks
+  whois: Director of Research at Medeco Security Locks.
   title: Elements of Lock Cylinder Design Cylinders & Keys made with Moveable Elements
   abstract: >
       ***Elements of Lock Cylinder Design*** is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can   increase or decrease the security of the lock.
@@ -28,7 +28,7 @@ peter-field:
 
 lucas-peter:
   name: Peter Field & Lucas Zhao
-  whois: Peter is Director of Research at Medeco Security Locks & Lucas is a Chinese and Asian lock researcher and aficionado
+  whois: Peter is Director of Research at Medeco Security Locks & Lucas is a Chinese and Asian lock researcher and aficionado.
   title: Interesting Chinese Cylinder Innovations
   abstract: >
       Many of the locks that have been manufactured and sold in China represent significant cylinder inventions that areoften overlooked.
@@ -57,7 +57,7 @@ connor-emily:
 jaakko-fagerlund:
   name: Jaakko Fagerlund
   twitter: JaakkoFagerlund
-  whois: Tool/die maker by profession, lockpick designer, safe cracker as a side job and very much into electronics and coding and combining all these to make whatever comes to mind
+  whois: Tool/die maker by profession, lockpick designer, safe cracker as a side job and very much into electronics and coding and combining all these to make whatever comes to mind.
   title: Manipulation aids in opening safe locks
   abstract: >
       An analysis of weaknesses present in typical mechanical safe combination locks and how to exploit them to gain knowledge of the combination by using electronic measuring tools and PC software.
@@ -79,7 +79,7 @@ jek-hyde:
   name: Jek Hyde
   twitter: HydeNS33k
   whois: >
-    Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids
+    Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids.
   title: Keynote
   abstract: >
       TBA
@@ -88,7 +88,7 @@ jek-hyde:
 attacus:
   name: Attacus
   twitter: attacus_au
-  whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs
+  whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs.
   title: How to Disappear Completely
   abstract: >
       If you've ever wanted an invisibility cloak, this talk is for you.
@@ -161,7 +161,7 @@ jos-weyers:
   name: Jos Weyers
   twitter: josweyers
   whois: >
-    Jos Weyers is a world-record holder in the field of lock impressioning and a mainstay participant at LockSport events around the world. A long-time member of TOOOL in the Netherlands and a key figure at the Hack42 hackerspace in Arnhem, Jos recently became the Vice-President of TOOOL.nl and now helps to oversee that organization and the LockCon conference. Jos is the mastermind behind the beehive42.org initiative. Some people know him as the Dutch Kilt guy. Featured in the New York Times. Voted #2 in the category "Hackers and Security" of the Nerd101-list of VrijNederland June 2015
+    Jos Weyers is a world-record holder in the field of lock impressioning and a mainstay participant at LockSport events around the world. A long-time member of TOOOL in the Netherlands and a key figure at the Hack42 hackerspace in Arnhem, Jos recently became the Vice-President of TOOOL.nl and now helps to oversee that organization and the LockCon conference. Jos is the mastermind behind the beehive42.org initiative. Some people know him as the Dutch Kilt guy. Featured in the New York Times. Voted #2 in the category "Hackers and Security" of the Nerd101-list of VrijNederland June 2015.
   title: >
     post-its, post-its, post-its everywhere (and how they relate to physical keys)
   abstract: >
