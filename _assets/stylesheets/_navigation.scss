@@ -84,6 +84,10 @@
     }
   }
 
+  a abbr {
+    text-decoration: none;
+  }
+
   .nav--primary {
     @include breakpoint(sm) {
       margin-bottom: 0;
