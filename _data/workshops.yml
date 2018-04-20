@@ -26,3 +26,12 @@ ben-grace-evengy-tom-david:
   abstract: >
     Physical seals are intended to provide assurance that the sealed object has not been tampered with --- to detect theft, contamination or unauthorised access. This challenge will be a hands-on, participant-led exercise in attempting to defeat a number of different tamper evident seals of dramatically different strengths and weaknesses, and also show some ways to detect tampering. Fame and glory will be awarded to participants who succeed in defeating each kind of seal.
   hackergotchi: /images/hackergotchis/mystery.png
+
+ed-farrell:
+  name: Edward Farrell
+  website: https://mercuryiss.com.au
+  title: Breaking wireless security systems
+  whois: Edward Farrell is an independent information security consultant who specialises in penetration testing and lectures at the Australian Defence Force Academy in wireless security. In addition to starting up his own security practice, Edward is an avid participant in the Australian information security community. In his spare time, he can be found somewhere on the beach.
+  abstract: >
+    The purpose of this workshop is to provide participants with a series of hands on activities involving the compromise of a few consumer grade physical security systems. Within the IOT and consumer technology space, the sole dependency on physical security, obfuscation or inaccessibility of code or interfaces in readily exploitable products whose core functions can be negated or used for a contrary purpose. This workshop will take its participants through two such devices, and will demonstrate how a failure in understanding security concepts or the threat actors these systems face resulted in the systems providing a false sense of security.
+  hackergotchi: /images/hackergotchis/mystery.png
