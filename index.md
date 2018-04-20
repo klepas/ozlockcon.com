@@ -10,12 +10,12 @@ title: "OzSecCon"
 
 New [speakers](/speakers/) and [workshops](/workshops/) have been added to the site! Please check them out. There's still a few more to come as the [CFP and CFW](/cfpw/) have not yet closed!
 
-Professional training has now been added for the first time. The first training course offered by OzSecCon is being run by Wayne Ronaldson. The training, 'Adverary Mindset - Red Team Training' will be run over two full days May 31st and June 1st. This is the first time this training has been offered in public and is being provided at a discounted price for those attending OzSecCon. The training will cover a large variety of physical and digital security topics and both practical and theoretical techniques will be demonstrated. See the [training page](/training/) for more details.
+Professional training has now been added for the first time. The first training course offered by OzSecCon is being run by Wayne Ronaldson. The training, 'Adverary Mindset --- Red Team Training' will be run over two full days, May 31<sup>st</sup> and June 1<sup>st</sup>. This is the first time this training has been offered in public and is being provided at a discounted price for those attending OzSecCon. The training will cover a large variety of physical and digital security topics and both practical and theoretical techniques will be demonstrated. See the [training page](/training/) for more details.
 
 ## Tickets
 
 OzSecCon tickets are now on sale!
-Please head to our [Eventzilla page](http://ozseccon.eventzilla.net/web/event?eventid=2138915646) to secure your ticket!
+Please head to our [Eventzilla page to secure your ticket!](http://ozseccon.eventzilla.net/web/event?eventid=2138915646)
 
 If you require any assistance to attend, please see the [FAQ](faq/#access-for-all).
 
@@ -27,7 +27,9 @@ OzSecCon is excited to announce our venue for 2018 will be the fantastic Melbour
 
 This, in conjunction with multiple classrooms and lecture theatres means we will be able to run multiple different activities simultaneously throughout the weekend.
 
-The locksmithing and metalworking departments are located in building B, in the north-west of the campus.  More information regarding this fantastic venue can be found [here](https://www.melbournepolytechnic.edu.au/campuses/heidelberg).
+The locksmithing and metalworking departments are located in building B, in the north-west of the campus.  
+
+For more on the campus venue, see the [the Melbourne Polytechnic Heidelberg campus page](https://www.melbournepolytechnic.edu.au/campuses/heidelberg).
 
 <iframe
   width="600"
