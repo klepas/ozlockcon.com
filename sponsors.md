@@ -5,19 +5,19 @@ slug: sponsors
 title: "Sponsorship"
 ---
 
-## Platinum Tier Sponsor
+## Platinum tier sponsor
 
-Want to become our Platinum Tier Sponsor? [We have **one slot open**](#platinum-tier)
-
-***
-
-## Gold Tier Sponsor
-
-Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
+Want to become our Platinum tier sponsor? [We have **one slot open**](#platinum-tier).
 
 ***
 
-## Silver Tier Sponsor
+## Gold tier sponsor
+
+Want to become a Gold tier sponsor? [We have **two slots open**](#gold-tier).
+
+***
+
+## Silver tier sponsor
 
 ### Privasec
 
@@ -40,17 +40,17 @@ Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
 
 ***
 
-Want to become a Silver Tier Sponsor? [We have **three slots open**](#silver-tier)
+Want to become a Silver tier sponsor? [We have **three slots open**](#silver-tier).
 
 ***
 
-## Bronze Tier Sponsor
+## Bronze tier sponsor
 
 ### Mercury ISS
 
-<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.jpg" alt="Mercury ISS logo" width="269" height="54" /></a>
+<a class="logo" href="http://mercuryiss.com.au/"><img src="/images/sponsors/mercuryiss-logo.png" alt="Mercury ISS logo" width="269" height="54" /></a>
 
-> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](http://mercuryiss.com.au/).
+> Mercury ISS are a Sydney based information security consulting firm. Check out their website for a range of offerings at [**mercuryiss.com.au**](https://mercuryiss.com.au/).
 
 ### Insomnia Security
 
@@ -60,27 +60,38 @@ Want to become a Silver Tier Sponsor? [We have **three slots open**](#silver-tie
 >
 > Find out more at [**insomniasec.com**](https://www.insomniasec.com).
 
+### Loop Secure
+
+<a class="logo" href="http://www.loopsec.com.au"><img src="/images/sponsors/loop-secure-logo.png" alt="Loop Secure logo" width="265" /></a>
+
+
+> Continual Defence, Infinite Potential.
+>
+> Loop Secure Pty Ltd is an Australian based IT security company specialising in managed services, governance, risk & compliance and offensive security services.
+>
+> Find out more at [**loopsec.com.au**](https://www.loopsec.com.au).
+
 ***
 
-Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
+Want to become a Bronze tier sponsor? [We have **unlimited slots open**](#bronze-tier).
 
 ***
-## Badge Sponsor
+## Badge sponsor
 
 ### Aura
 
-<a class="logo" href="https://www.aurainfosec.com/"><img src="/images/sponsors/aura-logo.jpg" alt="Aura Information Security logo" width="280" /></a>
+<a class="logo" href="https://www.aurainfosec.com/"><img src="/images/sponsors/aura-logo.png" alt="Aura Information Security logo" width="280" /></a>
 
 > Aura Information Security is a leading provider of information security consulting services to corporates and government in Australia and New Zealand.
 Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, the Aura team comprises more than 25 industry experts – all of whom have been hand-picked for their individual talent and expertise.
 >
 > Our primary focus is to provide our customers with the very best independent security advice and support, so that their digital world is more secure, reliable and resilient. Aura was recently named 'Best Security Company' at the 2017 iSANZ awards.  
 >
-> Find out more at [**https://www.aurainfosec.com/**](https://www.aurainfosec.com/).
+> Find out more at [**aurainfosec.com**](https://www.aurainfosec.com/).
 
 ***
 
-## Prize Sponsor
+## Prize sponsor
 
 ### OzHack
 
@@ -91,6 +102,8 @@ Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, t
 ***
 
 ## Interested in being a sponsor?
+
+&rarr; [**Download our sponsors pack**](/2018SponsorPack.pdf)
 
 OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
 
@@ -116,7 +129,7 @@ While this is the second time OzSecCon has been organised, the team running the 
 
 We ask that you consider the sponsorship packages below in order to help us deliver the best OzSecCon experience for this community:
 
-## Platinum Tier
+## Platinum tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
@@ -129,9 +142,9 @@ Perks:
 - Sponsor Mentions During Opening And Closing
 - Five tickets
 
-$15 000 AUD
+$15,000 AUD
 
-## Gold Tier
+## Gold tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
@@ -144,9 +157,9 @@ Perks:
 - Sponsor Mentions During Opening And Closing
 - Three Tickets
 
-$10 000 AUD
+$10,000 AUD
 
-## Silver Tier
+## Silver tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
@@ -158,9 +171,9 @@ Perks:
 - Sponsor Mentions During Opening And Closing
 - Two Tickets
 
-$5 000 AUD
+$5,000 AUD
 
-## Bronze Tier
+## Bronze tier
 
 &rarr; **[Contact us](mailto:{{ site.email }})**
 
@@ -170,7 +183,7 @@ Perks:
 - Sponsor Mentions During Opening And Closing
 - One Ticket
 
-$2 000 AUD
+$2,000 AUD
 
 ***
 
@@ -181,8 +194,6 @@ We are also open to donations of tools and other lock or security hardware and w
 If you have an idea or want to sponsor something specific not listed above such as a party on Saturday/Sunday night, please get in touch.
 
 Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
-
-Please see our [sponsors pack](/2018SponsorPack.pdf) for anymore information.
 
 ***
 
