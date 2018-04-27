@@ -101,6 +101,16 @@ Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, t
 
 ***
 
+## Venue sponsor
+
+### Polytechnic
+
+<a class="logo" href="https://www.melbournepolytechnic.edu.au/"><img src="/images/sponsors/polytechnic-logo.png" alt="Melbourne Polytechnic" width="400"/></a>
+
+> Melbourne Polytechnic is Your Learning and Career Partner offering a diverse range of innovative, hands-on practical skills and modern theoretical learning.
+
+***
+
 ## Interested in being a sponsor?
 
 &rarr; [**Download our sponsors pack**](/2018SponsorPack.pdf)
