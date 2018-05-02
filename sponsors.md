@@ -38,6 +38,15 @@ Want to become a Gold tier sponsor? [We have **two slots open**](#gold-tier).
 >
 > Find out more at [**datacomtss.com.au**](https://www.datacomtss.com.au/).
 
+
+### Ionize
+
+<a class="logo" href="https://ionize.com.au/"><img src="/images/sponsors/ionize-logo.png" alt="Ionize logo" width="269" height="67" /></a>
+
+> Ionize is an Australian owned and operated information security company that delivers real security results to our customers. Our highly skilled and experienced team are dedicated to making a positive difference to our clients and our community.
+>
+> Learn more by visiting [**ionize.com.au**](http://www.ionize.com.au).
+
 ***
 
 Want to become a Silver tier sponsor? [We have **three slots open**](#silver-tier).
@@ -98,6 +107,24 @@ Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, t
 <a class="logo" href="https://www.ozhack.com/"><img src="/images/sponsors/ozhack-logo.png" alt="OzHack Logo" width="200"/></a>
 
 > OZ Hack! Australia and New Zealand's only online computer security hardware and hacking store. Stocking the latest in Software Defined Radio, Testing Tools and tech gadgets for professionals and enthusiasts!
+>
+> Find out more at [**ozhack.com**](https://www.ozhack.com/).
+
+### SouthOrd
+
+<a class="logo" href="http://www.southord.com/"><img src="/2017/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
+
+> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools.
+>
+> Find out more at [**southord.com**](http://www.southord.com).
+
+### Sparrows Lock Picks
+
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/2017/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
+
+> Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community.
+>
+> Find out more at [**sparrowslockpicks.com**](http://www.sparrowslockpicks.com/).
 
 ***
 
