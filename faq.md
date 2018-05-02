@@ -12,7 +12,7 @@ title: "FAQ"
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
 1. [Access for all](#access-for-all)
 1. [Previous Conferences](#previous-conferences)
-1. [Code of Conduct](#code-of-conduct)
+1. [Does OzSecCon have a Code of Conduct?](#does-ozseccon-have-a-code-of-conduct)
 {: .toc }
 
 ## Who are you?
@@ -65,6 +65,11 @@ The previous years conference websites can be found here:
 
 * [2017 Conference](/2017/)
 
-## Code of Conduct
+## Does OzSecCon have a Code of Conduct?
 
-[Our Code Of Conduct can be found here.](/conduct/)
+Yes, we do.
+
+The purpose of [our Code of Conduct](/conduct/) is to be as inclusive to the largest number of people interested in locksport and physical security generally.
+
+**All** attendees --- including speakers, sponsors, and staff too --- are expected
+to conduct themselves in line with our CoC.
