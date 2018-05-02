@@ -96,7 +96,7 @@ title: "Sponsorship"
 
 <a class="logo" href="http://www.southord.com/"><img src="/2017/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
 
-> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [***southord.com**](http://www.southord.com).
+> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools. Find out more at [**southord.com**](http://www.southord.com).
 
 ### Sparrows Lock Picks
 
