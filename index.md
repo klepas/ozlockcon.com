@@ -6,6 +6,13 @@ title: "OzSecCon"
 ---
 
 
+## Announcement May
+
+OzSecCon is less than a month away now! The CFP and CFW has closed and the last few respondents are being notified!
+Red Ream Training has sold out and tickets to the event are almost sold out as well so make sure you head to our Eventzilla page to secure your ticket!
+
+Emails will be sent to all attendees over the next few days detailing the plans for the conference so please keep an eye out!
+
 ## Announcements April
 
 New [speakers](/speakers/) and [workshops](/workshops/) have been added to the site! Please check them out. There's still a few more to come as the [CFP and CFW](/cfpw/) have not yet closed!
