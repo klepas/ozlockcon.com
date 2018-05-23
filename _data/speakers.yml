@@ -5,6 +5,7 @@ andre-vornbrock:
   abstract: >
       Practical applications for how to pick nearly any high security lock with a sidebar.
 
+
       The main focus of the talk will center around the legendary MCS lock and it's newly published vulnerabilities.
   hackergotchi: /images/hackergotchis/mystery.png
 
@@ -13,17 +14,16 @@ peter-field:
   whois: Director of Research at Medeco Security Locks.
   title: Elements of Lock Cylinder Design Cylinders & Keys made with Moveable Elements
   abstract: >
-      ***Elements of Lock Cylinder Design*** is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can   increase or decrease the security of the lock.
+      ***Elements of Lock Cylinder Design*** is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can increase or decrease the security of the lock.
 
 
-      By analyzing the components in a cylinder, it is possible to develop a summary of the security rating of the lock. We will use illustrations and photographs of the cylinder  to understand how various locks operate.
+      By analyzing the components in a cylinder, it is possible to develop a summary of the security rating of the lock. We will use illustrations and photographs of the cylinder to understand how various locks operate.
 
 
-      ***Cylinders and Keys made with Moveable Elements*** is a historical study of locks that are operated by keys with moveable components. In the late 1900s there was a rapid   development of locks with mechanically complex keys.
+      ***Cylinders and Keys made with Moveable Elements*** is a historical study of locks that are operated by keys with moveable components. In the late 1900s there was a rapid development of locks with mechanically complex keys.
 
 
       We will use illustrations and photographs to see what the lock and keys look like, how they operate and estimatewhat security they provide.
-
   hackergotchi: /images/hackergotchis/mystery.png
 
 lucas-peter:
@@ -43,15 +43,15 @@ connor-emily:
   name: Connor & Emily Morrison
   twitter: MrOldSkinny
   whois: This brother and sister duo are all about learning new 'life skills'. Having discovered lock picking and tamper evident at a really early age, they have made it their mission in life to bypass all the controls. When they finally make it to high school, if the pool on the roof has a leak, that door wont stop them getting back down.
-  title: Tamper Resistance Bypasses
+  title: Tamper resistance bypasses
   abstract: >
       Be prepared to delve into the realm of tamper resistance by-passes with this interactive presentation.
 
-      Having discovered tamper-resistance by-passes over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices.  In doing so, demonstrarting that tamper resistance really is just child's play.
+
+      Having discovered tamper-resistance by-passes over a year ago, Connor and Emily wish to share their enthusiasm and experiences in bypassing a variety of tamper resistance devices. In doing so, demonstrarting that tamper resistance really is just child's play.
 
 
       The presentation will demonstrate the use of a number of solvents and their application to tamper resistance by-passes and as well basic hand-cuff and cable tie removal. A must-see presentation for those wanting to get into tamper-proof by-passing.
-
   hackergotchi: /images/hackergotchis/mystery.png
 
 jaakko-fagerlund:
@@ -89,43 +89,46 @@ attacus:
   name: Attacus
   twitter: attacus_au
   whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs.
-  title: How to Disappear Completely
+  title: How to disappear completely
   abstract: >
       If you've ever wanted an invisibility cloak, this talk is for you.
 
 
-      Cameras peer at us from street corners, from phones, from the dashes of passing cars, and from shopping mall advertisements. Even when you're not posing for a selfie, you might end up in the background of someone else's picture while you're out at dinner – and if that photograph is uploaded to a social media site, facial recognition can pick you out of the lineup.
+      Cameras peer at us from street corners, from phones, from the dashes of passing cars, and from shopping mall advertisements. Even when you're not posing for a selfie, you might end up in the background of someone else's picture while you're out at dinner --- and if that photograph is uploaded to a social media site, facial recognition can pick you out of the lineup.
 
-      Machines are getting better at recognising our faces – but if you want to sneak through the streets of your city like a young wizard in the corridors after midnight, there is still hope.
+
+      Machines are getting better at recognising our faces --- but if you want to sneak through the streets of your city like a young wizard in the corridors after midnight, there is still hope.
+
 
       This talk provides an overview of the latest urban camouflage technology and how to deploy it in order to foil facial recognition. During this session you'll learn the ways machines "see" us, and how to play with them in order to become invisible. We'll dive into the ethics of biometric identification. And, if you're feeling adventurous, you can have fun with reflective tape and face paint to disguise yourselves from the algorithmic eye.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/attacus.jpg
 
 adam-foster:
   name: Adam Jon Foster
   twitter: evildaemond
   whois: Adam Jon Foster is an undergrad at Edith Cowan University, is usually happy to teach what he can to those who will listen, has broken more toys on accident than most would believe, and has a huge draw to cybersec and physsec (especialy pentesting).
   title: >
-    The ALC Galaxy Lock: An in-depth look
+    The ALC Galaxy Lock: an in-depth look
   abstract: >
     The Australian Lock Companies Galaxy Lock is a pretty cool lock, and has been said by
     quite a few to be hard to pick, is used in quite a few new commercial installations, especial
     in high security areas, but not much beyond marketing and 1 bosnianbill video talk about
     how it functions and how it can be attacked. In this talk I will cover most of the design and
     function of the Galaxy Lock, how it works, and how you can attack this lock.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/evildaemond.jpg
 
 chris-prevost:
   name: Chris Prevost
-  twitter: anarchywon
+  twitter: anarchy_won
   whois: Chris Prevost has nearly twenty years experience in the security industry. He picked his first lock out of curiosity, but his curiosity wasn’t satisfied with just being able to pick locks he wanted to see how they worked, he wanted to see inside the locks. After taking a machining course he did just that. From this endeavor Anarchy Won Metalworks was born. Currently focused on lock cutaways Chris hopes to branch out into custom metal work soon.
   title: >
     Spying into the Design: Making Cutaway Lock
   abstract: >
     Have you seen pictures of cutaway locks floating around online and wondered how they are made? Or have you ever wondered what it would look like if you could peel away the layers of a lock to see what’s going on inside?
 
+
     This presentation is an in-depth look at how cutaway locks are made primarily using manual Milling machines. You don’t have to be a machinist to enjoy this talk. Afterwards join the speaker in a live demo where you can watch locks being turned into cutaways.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/anarchy_won.jpg
 
 daniel-matt:
   name: Daniel Underhay & Matthew Daley
@@ -167,7 +170,9 @@ jos-weyers:
   abstract: >
     A password shouldn’t be on a post-it note.
 
+
     In plain view.
+
 
     On the console.
 
@@ -199,3 +204,39 @@ oliver-clayton:
   abstract: >
     This talk aims to pick apart the Lockwood V7 including details on picking, key duplication, and impressioning.
   hackergotchi: /images/hackergotchis/mystery.png
+
+
+alex-hogue:
+  name: Alex Hogue
+  twitter: mangopdf
+  whois: >
+    Alex is a small boy trying to be a hacker. It's difficult because sometimes your arms get all stuck when you're trying to put on a hoodie y'know?
+
+
+    Alex is your best pal, a five-time celebrity MasterChef winner, your local Luigi technician, and your sweet mango boy. Critics have called him "aggressively wonky". He works on the Blue Team at Atlassian, doing incident detection and response. On the side he writes childish and frankly destructive blog posts at [mango.pdf.zone](https://mango.pdf.zone/).
+  title: Cognitive biases and how to be less wrong
+  abstract: >
+      Alright so y'know how Microsoft Windows 95 is full of vulnerabilities? How it's easy to make it do the wrong thing?
+
+
+      Humans are also easy to make to the wrong thing. Cognitive biases are predictable ways in which we'll make the wrong choice.
+
+
+      Ever spent your plane-trip coming up with your plan to swim to safety if the plane crashes, even though you're more likely to have identical twins on your flight than crash?
+
+
+      Come along and learn about the mistakes we make, why we make them, how to weaponise them against your enemies, and how to defend yourself.
+
+
+      If the stars align there will also be a _special event_ for some lucky audience members.
+  hackergotchi: /images/hackergotchis/alex-hogue.jpg
+
+
+nullwolf:
+  name: nullwolf
+  twitter: tresacton
+  whois: Pentester, researcher, physical security enthusiast.
+  title: Challenge locks
+  abstract: >
+    Are you a bored (and masochistic or sadistic) locksport enthusiast? Maybe you have your eyes set on achieving your "Lock-picking Blue Belt" but aren't sure how to go about it. This talk will offer some tips for creating challenge locks with some DIY security pins and pin chamber modifications.
+  hackergotchi: /images/hackergotchis/nullwolf.jpg
