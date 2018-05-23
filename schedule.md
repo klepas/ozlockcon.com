@@ -16,6 +16,8 @@ Talks are in a single track, and are presented the David Willis Auditorium.
 
 Competitions are held at their workshops. Winners are announced at closing ceremony.
 
+Collections from Mick and Topy will be on display both days. Come by and ask questions about a lock’s design and history.
+
 
 ## Saturday’s talks
 
@@ -61,6 +63,10 @@ Competitions are held at their workshops. Winners are announced at closing cerem
 - [Metals and heat treatment in DIY lock picks](#metals-and-heat-treatment-in-diy-lock-picks)
 - [How to disappear completely](#how-to-disappear-completely)
 - [Project Walrus](#project-walrus)
+- [EVVA MCS lock picking](#evva-mcs-lock-picking)
+- [Cutaway locks](#cutaway-locks)
+
+***
 
 ### Lockpicking
 
@@ -82,6 +88,7 @@ Room
 Competition
 : Opens after lunch on the first day, running during both slots on Sunday.
 
+***
 
 ### [Impressioning](/workshops/#jos-weyers-holly-poer)
 
@@ -102,6 +109,8 @@ Room
 Competition
 : Opens after lunch on the first day, running during both slots on Sunday.
 
+***
+
 ### [Tamper evidence challenge](/workshops/#ben-low-grace-nolan-evengy-shatokhin-tom-hennen-david-wearing)
 
 Compete in defeating a number of different tamper evident seals.
@@ -116,11 +125,13 @@ Times
 Competition
 : Open and run both days.
 
+***
+
 ### [Breaking wireless security systems](/workshops/#edward-farrell)
 
 Learn to compromise consumer grade wireless physical security systems.
 
-Hosts
+Host
 : Ed Farrell
 
 Times
@@ -129,29 +140,39 @@ Times
 : Sunday 11:15 to 13:00
 : Sunday 16:30 to 17:30
 
+***
+
 ### [Metals and heat treatment in DIY lock picks](/workshops/#ben-low-grace-nolan-evengy-shatokhin-tom-hennen-david-wearing)
 
 Learn basics of different metals, heat treatment of usual tool steels for lock picks and get valuable tips & tricks.
 
-Hosts
+Host
 : Jaakko Fagerlund
 
 Times
 : Saturday 13:15 to 14:15
 
+***
 
-### [How to disappear completely](/speakers/#attacus)
+### How to disappear completely
 
-Hosts
+Demonstrations how to defeat facial recognition using patterns, paint and stickers.
+
+<small>This immediately follows [Attacus’ talk](/speakers/#attacus) in the main auditorium.</small>
+
+Host
 : Attacus
 
 Times
 : Saturday 14:15 to 15:00
 
+***
 
-### [Project Walrus](/speakers/#daniel-underhay-matthew-daley)
+### Project Walrus
 
 Walrus is an Android app that supports several existing contactless card cloning devices. Walrus is designed to simplify and streamline card cloning during red team engagements and physical security assessments.
+
+<small>This immediately follows [Daniel’s and Matthew’s talk](/speakers/#daniel-underhay-matthew-daley) in the main auditorium.</small>
 
 Hosts
 : Daniel Underhay & Matthew Daley
@@ -159,29 +180,36 @@ Hosts
 Times
 : Saturday 13:15 to 15:15
 
+***
 
-### [EVVA MCS lock picking](/speakers/#andre-vornbrock)
+### EVVA MCS lock picking
 
 Learn how to attack the EVVA MCS.
 
-Hosts
-: Andre
+<small>The guided (Saturday slot) immediately follows [Andre’s talk](/speakers/#andre-vornbrock) in the main auditorium.</small>
+
+Host
+: Andre Vornbrock
 
 Times
 : Saturday 16:15 to 17:15
 : Sunday 09:15 to 17:45 --- note equipment and locks available _without instruction_
 
+***
 
-### [Cutaway locks](/speakers/#chris-prevost)
+### Cutaway locks
 
 Learn how to mill your own cutaways.
 
-Hosts
+<small>The guided (first slot) immediately follows [Chris’ talk](/speakers/#chris-prevost) in the main auditorium.</small>
+
+Host
 : Chris Prevost
 
 Times
-: Saturday 14:30 to 15:30
-: Saturday 15:30 to 17:30 equipment available for use in rooms `B218`/`B220`
+: Sunday 14:30 to 15:30
+: Sunday 15:30 to 17:30 equipment available for use in rooms `B218`/`B220`
+
 
 ***
 
