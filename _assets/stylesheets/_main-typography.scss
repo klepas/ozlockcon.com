@@ -150,10 +150,11 @@ main {
     }
 
     dt {
-      font-size: 94.117%; // 16 on a base of 17.
-      font-weight: bold;
+      font-size: rem(16);
+      font-weight: 600;
       margin-top: $line-quarter;
       margin-bottom: 0;
+      color: #444;
 
       &:first-of-type {
         margin-top: 0;
