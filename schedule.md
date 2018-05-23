@@ -14,15 +14,15 @@ Talks will be presented in the David Willis Auditorium.
 | Time         | Events																																																																																						|
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00–9:15    | <span class="smallcaps">Opening ceremony</span>																																																																	|
-| 9:15–10:15   | ['Keynote: **Red Teaming**', by Jek Hyde](https://ozlockcon.com/speakers/#jek-hyde)																																															|
-| 10:30–11:30  | ['**Project Walrus, and RFID and Contactless Card Cloning App**', by Daniel Underhay and Matthew Daley](https://ozlockcon.com/speakers/#daniel-underhay-matthew-daley)						|
-| 11:30–12:30  | ['**Manipulation aids in opening safe locks**', by Jaakko Fagerlund](https://ozlockcon.com/speakers/#jaakko-fagerlund)																														|
+| 9:15–10:15   | ['Keynote: **Red Teaming**', by Jek Hyde](/speakers/#jek-hyde)																																																										|
+| 10:30–11:30  | ['**Project Walrus, and RFID and Contactless Card Cloning App**', by Daniel Underhay and Matthew Daley](/speakers/#daniel-underhay-matthew-daley)																|
+| 11:30–12:30  | ['**Manipulation aids in opening safe locks**', by Jaakko Fagerlund](/speakers/#jaakko-fagerlund)																																								|
 | 12:30–13:15  | <span class="smallcaps">Lunch</span> and **Womens social meetup** (Room `B105`; please <abbr>RSVP</abbr>)																																				|
-| 13:15–13:45  | ['**Cognitive biases and how to be less wrong**', by Alex Hogue](https://ozlockcon.com/speakers/#alex-hogue)																																			|
-| 13:45–14:15  | ['**Tamper Resistance Bypasses**', by Connor and Emily Morrison](https://ozlockcon.com/speakers/#connor-emily-morrison)																													|
-| 14:15–15:15  | ['**How to Disappear Completely**', by Attacus](https://ozlockcon.com/speakers/#attacus) 																																												|
-| 15:15–16:15  | ['**Discovered MCS vulnerabilities --- background in high security NDE**', by Andre Vornbrock](https://ozlockcon.com/speakers/#andre-vornbrock) 																	|
-| 16:15–17:15  | ['**Back in time: Finnish lock industry**', by Dina Jalkanen](https://ozlockcon.com/speakers/#dina-jalkanen) 																																		|
+| 13:15–13:45  | ['**Cognitive biases and how to be less wrong**', by Alex Hogue](/speakers/#alex-hogue)																																													|
+| 13:45–14:15  | ['**Tamper resistance bypasses**', by Connor and Emily Morrison](/speakers/#connor-emily-morrison)																																								|
+| 14:15–15:15  | ['**How to disappear completely**', by Attacus](/speakers/#attacus) 																																																							|
+| 15:15–16:15  | ['**Discovered MCS vulnerabilities --- background in high security NDE**', by Andre Vornbrock](/speakers/#andre-vornbrock) 																											|
+| 16:15–17:15  | ['**Back in time: Finnish lock industry**', by Dina Jalkanen](/speakers/#dina-jalkanen) 																																													|
 | 17:30–18:00  | <span class="smallcaps">Saturday night party</span> <small>--- buses provided to venue (_Kooinda Brewery_)</small>																																|
 
 
@@ -31,15 +31,15 @@ Talks will be presented in the David Willis Auditorium.
 | Time         | Events																																																																																						|
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00–9:15    | <span class="smallcaps">Day two welcome</span>																																																																		|
-| 9:15–10:15   | ['**The ALC Galaxy Lock: An in-depth look**', by Adam Foster](https://ozlockcon.com/speakers/#adam-jon-foster)																																		|
-| 10:30–11:30  | ['**Drinking Tea and Holding Meetings: How to do a bad job of PhySec Redteaming and still pwn your target**', by Logan Woods and David Tredger](https://ozlockcon.com/speakers/#logan-woods-david-tredger)|
-| 11:30–12:30  | ['**Challenge Locks**', by nullwolf](https://ozlockcon.com/speakers/#nullwolf)																																																		|
+| 9:15–10:15   | ['**The ALC Galaxy Lock: an in-depth look**', by Adam Foster](/speakers/#adam-jon-foster)																																												|
+| 10:30–11:30  | ['**Drinking Tea and Holding Meetings: How to do a bad job of PhySec Redteaming and still pwn your target**', by Logan Woods and David Tredger](/speakers/#logan-woods-david-tredger)|
+| 11:30–12:30  | ['**Challenge locks**', by nullwolf](/speakers/#nullwolf)																																																												|
 | 12:30–13:00  | <span class="smallcaps">Lunch</span>																																																																							|
-| 13:00–14:00  | ['**Spying into the Design: Making Cutaway Locks**', by Chris Prevost](https://ozlockcon.com/speakers/#alex-hogue)																																|
-| 14:00–15:00  | ['**Post-its, post-its, post-its everywhere (and how they relate to physical keys)**', by Jos Weyers Morrison](https://ozlockcon.com/speakers/#jos-weyers)												|
-| 15:00–16:00  | ['**Adventures in Discworld**', by Matt Smith](https://ozlockcon.com/speakers/#matt-smith) 																																											|
-| 16:00–16:30  | ['**Low tech answers to high security solutions**', by Oliver Clayton](https://ozlockcon.com/speakers/#oliver-clayton) 																													|
-| 16:30–17:30  | ['**Interesting Chinese Cylinder Innovations**', by Peter Field and Lucas Zhao](https://ozlockcon.com/speakers/#peter-field-lucas-zhao) 																					|
+| 13:00–14:00  | ['**Spying into the Design: Making Cutaway Locks**', by Chris Prevost](/speakers/#chris-prevost)																																									|
+| 14:00–15:00  | ['**Post-its, post-its, post-its everywhere (and how they relate to physical keys)**', by Jos Weyers](/speakers/#jos-weyers)																											|
+| 15:00–16:00  | ['**Adventures in Discworld**', by Matt Smith](/speakers/#matt-smith) 																																																						|
+| 16:00–16:30  | ['**Low tech answers to high security solutions**', by Oliver Clayton](/speakers/#oliver-clayton) 																																								|
+| 16:30–17:30  | ['**Interesting Chinese Cylinder Innovations**', by Peter Field and Lucas Zhao](/speakers/#peter-field-lucas-zhao) 																															|
 | 17:30–18:45  | <span class="smallcaps">Awards <span class="amp">&amp;</span> closing ceremony</span>																																														|
 | 18:00–19:00  | <span class="smallcaps">After-party</span> <small>--- buses provided to venue (_Ravens Brewery_)</small>																																					|
 
