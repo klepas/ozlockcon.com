@@ -17,7 +17,7 @@ We’ve tried hard to minimise overlap:
   - talks are run both days in the David Willis Auditorium
 - Workshops:
   - several workshops are run both days;
-  - shorter or one-off workshops are timed to best avoid major clashes.
+  - shorter or one-off workshops are timed to best avoid major clashes and are usually immediately after a presentation in the main Auditorium.
 
 ### Competitions
 
