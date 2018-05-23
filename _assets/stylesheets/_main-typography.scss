@@ -129,7 +129,7 @@ main {
   li {
     margin-left: $line-single;
     margin-bottom: $line-quarter;
-    
+
     > ul,
     > ol {
       margin-bottom: $line-quarter;
@@ -139,6 +139,25 @@ main {
   ul {
     li {
       list-style: disc;
+    }
+  }
+
+
+  dl {
+    dd {
+      margin-left: $line-half;
+      margin-bottom: $line-half;
+    }
+
+    dt {
+      font-size: 94.117%; // 16 on a base of 17.
+      font-weight: bold;
+      margin-top: $line-quarter;
+      margin-bottom: 0;
+
+      &:first-of-type {
+        margin-top: 0;
+      }
     }
   }
 
