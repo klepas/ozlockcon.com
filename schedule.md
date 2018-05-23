@@ -14,6 +14,8 @@ Talks are in a single track, and are presented the David Willis Auditorium.
 - [Workshop listing and schedule](#workshops)
 - [Women’s social meetup](#womens-social-meetup)
 
+Competitions are held at their workshops. Winners are announced at closing ceremony.
+
 
 ## Saturday’s talks
 

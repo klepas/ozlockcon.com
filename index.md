@@ -5,19 +5,43 @@ slug: home
 title: "OzSecCon"
 ---
 
+## Announcement May 23
 
-## Announcement May
+### [Schedule announced](/schedule)
+
+After much juggling (of about double the content we brought you last year) the schedule is up!
+
+We’ve tried hard to minimise overlap:
+
+- A single talk track
+  - talks are run both days in the David Willis Auditorium
+- Workshops:
+  - several workshops are run both days;
+  - shorter or one-off workshops are timed to best avoid major clashes.
+
+### Competitions
+
+As last year, each competition is run at its respective workshop:
+
+- [Lockpicking](/schedule/#lockpicking)
+- [Impressioning](/schedule/#impressioning)
+- [Tamper evidence challenge](/schedule/#tamper-evidence-challenge)
+
+
+## Announcement May 6
 
 OzSecCon is less than a month away now! The CFP and CFW has closed and the last few respondents are being notified!
 Red Ream Training has sold out and tickets to the event are almost sold out as well so make sure you head to our Eventzilla page to secure your ticket!
 
 Emails will be sent to all attendees over the next few days detailing the plans for the conference so please keep an eye out!
 
+
 ## Announcements April
 
 New [speakers](/speakers/) and [workshops](/workshops/) have been added to the site! Please check them out. There's still a few more to come as the [CFP and CFW](/cfpw/) have not yet closed!
 
 Professional training has now been added for the first time. The first training course offered by OzSecCon is being run by Wayne Ronaldson. The training, 'Adverary Mindset --- Red Team Training' will be run over two full days, May 31<sup>st</sup> and June 1<sup>st</sup>. This is the first time this training has been offered in public and is being provided at a discounted price for those attending OzSecCon. The training will cover a large variety of physical and digital security topics and both practical and theoretical techniques will be demonstrated. See the [training page](/training/) for more details.
+
 
 ## Tickets
 
@@ -27,6 +51,7 @@ Please head to our [Eventzilla page to secure your ticket!](http://ozseccon.even
 If you require any assistance to attend, please see the [FAQ](faq/#access-for-all).
 
 All ticket types will allow access to all the talks, workshops and competitions over the weekend. No other registration is necessary!
+
 
 ## Venue
 
@@ -44,6 +69,7 @@ For more on the campus venue, see the [the Melbourne Polytechnic Heidelberg camp
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCXIGwwDlvjDUeDZP32EM2xunXoRAn3I3w&q=Melbourne+Polytechnic+(Heidelberg+Campus),+Bell Street,+Heidelberg+West,+Victoria,+Australia">
 </iframe>
+
 
 ## What's this?
 
