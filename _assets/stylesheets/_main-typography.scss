@@ -180,3 +180,10 @@ main {
     overflow: visible;
   }
 }
+
+.smallcaps {
+  font-size: 106.25%; // In case of nesting.
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
