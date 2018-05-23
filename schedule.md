@@ -5,11 +5,17 @@ slug: schedule
 title: "Schedule"
 ---
 
-Talks will be presented in the David Willis Auditorium.
+Talks and workshops run on both days.
 
-<small>Please note the hourly spread of events differ across the two days.</small>
+Talks are in a single track, and are presented the David Willis Auditorium.
 
-## Saturday, June 2nd
+- [Saturday’s talks](saturdays-talks)
+- [Sunday’s talks](sundays-talks)
+- [Workshop listing and schedule](#workshops)
+- [Women’s social meetup](#womens-social-meetup)
+
+
+## Saturday’s talks
 
 | Time         | Events																																																																																						|
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,7 +23,7 @@ Talks will be presented in the David Willis Auditorium.
 | 9:15–10:15   | ['Keynote: **Red Teaming**', by Jek Hyde](/speakers/#jek-hyde)																																																										|
 | 10:30–11:30  | ['**Project Walrus, and RFID and Contactless Card Cloning App**', by Daniel Underhay and Matthew Daley](/speakers/#daniel-underhay-matthew-daley)																|
 | 11:30–12:30  | ['**Manipulation aids in opening safe locks**', by Jaakko Fagerlund](/speakers/#jaakko-fagerlund)																																								|
-| 12:30–13:15  | <span class="smallcaps">Lunch</span> and **Womens social meetup** (Room `B105`; please <abbr>RSVP</abbr>)																																				|
+| 12:30–13:15  | <span class="smallcaps">Lunch</span> and [**Womens social meetup**](#womens-social-meetup) (Room `B105`; please <abbr>RSVP</abbr>)																								|
 | 13:15–13:45  | ['**Cognitive biases and how to be less wrong**', by Alex Hogue](/speakers/#alex-hogue)																																													|
 | 13:45–14:15  | ['**Tamper resistance bypasses**', by Connor and Emily Morrison](/speakers/#connor-emily-morrison)																																								|
 | 14:15–15:15  | ['**How to disappear completely**', by Attacus](/speakers/#attacus) 																																																							|
@@ -26,7 +32,7 @@ Talks will be presented in the David Willis Auditorium.
 | 17:30–18:00  | <span class="smallcaps">Saturday night party</span> <small>--- buses provided to venue (_Kooinda Brewery_)</small>																																|
 
 
-## Sunday, June 3rd
+## Sunday’s talks
 
 | Time         | Events																																																																																						|
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,6 +48,140 @@ Talks will be presented in the David Willis Auditorium.
 | 16:30–17:30  | ['**Interesting Chinese Cylinder Innovations**', by Peter Field and Lucas Zhao](/speakers/#peter-field-lucas-zhao) 																															|
 | 17:30–18:45  | <span class="smallcaps">Awards <span class="amp">&amp;</span> closing ceremony</span>																																														|
 | 18:00–19:00  | <span class="smallcaps">After-party</span> <small>--- buses provided to venue (_Ravens Brewery_)</small>																																					|
+
+
+## Workshops
+
+- [Lockpicking](#lockpicking)
+- [Impressioning](#impressioning)
+- [Tamper evidence challenge](#tamper-evidence-challenge)
+- [Breaking wireless security systems](#breaking-wireless-security-systems)
+- [Metals and heat treatment in DIY lock picks](#metals-and-heat-treatment-in-diy-lock-picks)
+- [How to disappear completely](#how-to-disappear-completely)
+- [Project Walrus](#project-walrus)
+
+### Lockpicking
+
+General locks available for picking.
+
+Hosts
+: Dono and Barnie
+
+Days
+: Both Saturday and Sunday
+
+Times
+: 10:30 to 12:30 <small>(till lunch)</small> both days
+: 13:15 to 17:15 <small>(till the end of the day)</small> both days
+
+Room
+: `B215`
+
+Competition
+: Opens after lunch on the first day, running during both slots on Sunday.
+
+
+### [Impressioning](/workshops/#jos-weyers-holly-poer)
+
+File a working key to a lock from a blank.
+
+3-, 4-, and 5-pin Lockwood `234b45`/`SLW29` available for practice.
+
+Hosts
+: Holly Poer and Jos Weyers
+
+Times
+: 10:30 to 12:30 <small>(till lunch)</small> both days
+: 13:15 to 17:15 <small>(till the end of the day)</small> both days
+
+Room
+: `B216`
+
+Competition
+: Opens after lunch on the first day, running during both slots on Sunday.
+
+### [Tamper evidence challenge](/workshops/#ben-low-grace-nolan-evengy-shatokhin-tom-hennen-david-wearing)
+
+Compete in defeating a number of different tamper evident seals.
+
+Hosts
+: Ben Low, Grace Nolan, Evengy Shatokhin, Tom Hennen, and David Wearing
+: Google
+
+Times
+: 10:30 to 17:15 <small>(yup, staffed during lunch!)</small> both days
+
+Competition
+: Open and run both days.
+
+### [Breaking wireless security systems](/workshops/#edward-farrell)
+
+Learn to compromise consumer grade wireless physical security systems.
+
+Hosts
+: Ed Farrell
+
+Times
+: Saturday 13:30 to 12:30
+: Saturday 16:15 to 17:15
+: Sunday 11:15 to 13:00
+: Sunday 16:30 to 17:30
+
+### [Metals and heat treatment in DIY lock picks](/workshops/#ben-low-grace-nolan-evengy-shatokhin-tom-hennen-david-wearing)
+
+Learn basics of different metals, heat treatment of usual tool steels for lock picks and get valuable tips & tricks.
+
+Hosts
+: Jaakko Fagerlund
+
+Times
+: Saturday 13:15 to 14:15
+
+
+### [How to disappear completely](/speakers/#attacus)
+
+Hosts
+: Attacus
+
+Times
+: Saturday 14:15 to 15:00
+
+
+### [Project Walrus](/speakers/#daniel-underhay-matthew-daley)
+
+Walrus is an Android app that supports several existing contactless card cloning devices. Walrus is designed to simplify and streamline card cloning during red team engagements and physical security assessments.
+
+Hosts
+: Daniel Underhay & Matthew Daley
+
+Times
+: Saturday 13:15 to 15:15
+
+
+### [EVVA MCS lock picking](/speakers/#andre-vornbrock)
+
+Learn how to attack the EVVA MCS.
+
+Hosts
+: Andre
+
+Times
+: Saturday 16:15 to 17:15
+: Sunday 09:15 to 17:45 --- note equipment and locks available _without instruction_
+
+
+### [Cutaway locks](/speakers/#chris-prevost)
+
+Learn how to mill your own cutaways.
+
+Hosts
+: Chris Prevost
+
+Times
+: Saturday 14:30 to 15:30
+: Saturday 15:30 to 17:30 equipment available for use in rooms `B218`/`B220`
+
+***
 
 
 ## Women’s social meetup
