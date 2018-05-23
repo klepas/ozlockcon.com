@@ -142,9 +142,11 @@ Times
 
 ***
 
-### [Metals and heat treatment in DIY lock picks](/workshops/#ben-low-grace-nolan-evengy-shatokhin-tom-hennen-david-wearing)
+### [Metals and heat treatment in DIY lock picks](/workshops/#jaakko-fagerlund)
 
 Learn basics of different metals, heat treatment of usual tool steels for lock picks and get valuable tips & tricks.
+
+<small>This workshop follows [Jaakko’s talk](/speakers/#jaakko-fagerlund), _after_ the lunch break in the main auditorium.</small>
 
 Host
 : Jaakko Fagerlund
