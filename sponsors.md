@@ -17,7 +17,7 @@ Want to become a Gold tier sponsor? [We have **two slots open**](#gold-tier).
 
 ***
 
-## Silver tier sponsor
+## Silver tier sponsors
 
 ### Privasec
 
@@ -53,7 +53,7 @@ Want to become a Silver tier sponsor? [We have **three slots open**](#silver-tie
 
 ***
 
-## Bronze tier sponsor
+## Bronze tier sponsors
 
 ### Mercury ISS
 
@@ -85,7 +85,7 @@ Want to become a Silver tier sponsor? [We have **three slots open**](#silver-tie
 Want to become a Bronze tier sponsor? [We have **unlimited slots open**](#bronze-tier).
 
 ***
-## Badge sponsor
+## Badge sponsors
 
 ### Aura
 
@@ -100,7 +100,23 @@ Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, t
 
 ***
 
-## Prize sponsor
+## Locksport sponsor
+
+### PickPals locksport sponsor
+
+<a class="logo" href="https://www.pickpals.com.au/"><img src="/2017/sponsors/pickpals-logo.png" alt="Pick Pals logo" width="210" /></a>
+
+> PickPals is your home for durable, quality, cutting-edge lock pick sets, by-pass and locksmith tools.
+>
+> Across Australia, New Zealand and now the globe, we stock the latest lock pick sets from the most reputable global brands --- Sparrows, SouthOrd, Peterson, Brockhage, A1 Security Manufacturing and more.
+>
+> The trusted supplier to the lock sport community.
+>
+> Find out more at [**pickpals.com.au**](https://www.pickpals.com.au).
+
+***
+
+## Prize sponsors
 
 ### OzHack
 
