@@ -31,7 +31,7 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 | 13:15–13:45  | ['**Cognitive biases and how to be less wrong**', by Alex Hogue](/speakers/#alex-hogue)																																													|
 | 13:45–14:15  | ['**Tamper resistance bypasses**', by Connor and Emily Morrison](/speakers/#connor-emily-morrison)																																								|
 | 14:15–15:15  | ['**How to disappear completely**', by Attacus](/speakers/#attacus) 																																																							|
-| 15:15–16:15  | ['**Discovered MCS vulnerabilities --- background in high security NDE**', by Andre Vornbrock](/speakers/#andre-vornbrock) 																											|
+| 15:15–16:15  | ['**High Security Lockpicking**', by Andre Vornbrock](/speakers/#andre-vornbrock) 																											|
 | 16:15–17:15  | ['**Back in time: Finnish lock industry**', by Dina Jalkanen](/speakers/#dina-jalkanen) 																																													|
 | 17:30–18:00  | <span class="smallcaps">Saturday night party</span> <small>--- buses provided to venue (_Kooinda Brewery_)</small>																																|
 
@@ -93,6 +93,10 @@ Competition
 ### [Impressioning](/workshops/#jos-weyers-holly-poer)
 
 File a working key to a lock from a blank.
+
+Holly and Jos will be available to instruct during the weekend for a couple
+hours each day. The remaining time, equipment will be available for practice but
+unattended by instructors.
 
 3-, 4-, and 5-pin Lockwood `234b45`/`SLW29` available for practice.
 
