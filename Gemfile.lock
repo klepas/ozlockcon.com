@@ -15,6 +15,7 @@ GEM
       forwardable-extended (~> 2.5)
     fastimage (2.1.0)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.5.2)
       addressable (~> 2.4)
@@ -69,6 +70,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   autoprefixer-rails
@@ -81,4 +83,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.14.6
+   1.16.1

@@ -129,7 +129,7 @@ main {
   li {
     margin-left: $line-single;
     margin-bottom: $line-quarter;
-    
+
     > ul,
     > ol {
       margin-bottom: $line-quarter;
@@ -139,6 +139,26 @@ main {
   ul {
     li {
       list-style: disc;
+    }
+  }
+
+
+  dl {
+    dd {
+      margin-left: $line-half;
+      margin-bottom: $line-half;
+    }
+
+    dt {
+      font-size: rem(16);
+      font-weight: 600;
+      margin-top: $line-quarter;
+      margin-bottom: 0;
+      color: #444;
+
+      &:first-of-type {
+        margin-top: 0;
+      }
     }
   }
 
@@ -160,4 +180,11 @@ main {
     max-width: 50em;
     overflow: visible;
   }
+}
+
+.smallcaps {
+  font-size: 106.25%; // In case of nesting.
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 1px;
 }

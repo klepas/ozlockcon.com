@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<h2 class="display-2--lighter">{{ page.title }}</h2>
+
+<p>All <a href="http://ozseccon.eventzilla.net/web/event?eventid=2138915646">training can be purchased from our EventZilla page</a>.
+
+<p>All traning will be conducted on May 31<sup>st</sup> and June 1<sup>st</sup>.</p>
+
+<h2 class="display-2--lighter">Our trainers</h2>
+
+{% assign speakers = site.data.trainers | sort %}
+
+<ol class="toc toc__speakers">
+{% for speaker_hash in speakers %}
+{% assign speaker = speaker_hash[1] %}
+  <li><a href="#{{ speaker.name | slugify }}">{{ speaker.name }}</a></li>
+{% endfor %}
+</ol>
+
+<h2 class="display-2--lighter">Trainer details</h2>
+
+<ol class="speaker-details">
+{% for speaker_hash in speakers %}
+{% assign speaker = speaker_hash[1] %}
+  <li class="speaker">
+    <h2 class="speaker__id" id="{{ speaker.name | slugify }}">
+      <img class="speaker__id__hackergotchi" src="{{ speaker.hackergotchi }}" alt="hackergotchi of {{ speaker.name }}" />
+
+
+      {% if speaker.twitter %}
+      <a class="speaker__id__name" href="https://twitter.com/{{ speaker.twitter }}">
+        {{ speaker.name }}
+      </a>
+      {% elsif speaker.website %}
+      <a class="speaker__id__name" href="{{ speaker.website }}">
+        {{ speaker.name }}
+      </a>
+      {% else %}
+      <span class="speaker__id__name">
+        {{ speaker.name }}
+      </span>
+      {% endif %}
+
+    </h2>
+
+    <h3>
+      <span class="speaker__event-type">
+        Training
+      </span>
+      {{ speaker.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    </h3>
+
+    <div class="speaker__talk-abstract">
+      {{ speaker.abstract | markdownify }}
+    </div>
+
+      {% if speaker.whois %}
+      <div class="lede lede--speaker">
+        <span class="speaker__whois">
+          {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
+        </span>
+      </div>
+      {% endif %}
+
+    <a class="skip-link" href="#content">&uarr; Return to top of content</a>
+  </li>
+{% endfor %}
+</ol>

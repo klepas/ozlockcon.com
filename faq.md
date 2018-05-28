@@ -10,7 +10,9 @@ title: "FAQ"
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
 1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
-1. [Accees for all](#access-for-all)
+1. [Access for all](#access-for-all)
+1. [Previous Conferences](#previous-conferences)
+1. [Does OzSecCon have a Code of Conduct?](#does-ozseccon-have-a-code-of-conduct)
 {: .toc }
 
 ## Who are you?
@@ -56,3 +58,18 @@ Additionally, we're going to borrow a quote as an answer:
 OzSecCon is committed to including all people from all backgrounds and walks of life. If for some reason, you find yourself in need of financial assistance, OzSecCon may be able to provide you with a discounted or free ticket for the event depending on your situation.  
 
 If you wish to apply for this, we ask that you submit your information to the [following form](https://goo.gl/forms/CHiFFYLR4KrXoaxz1).
+
+## Previous conferences
+
+The previous years conference websites can be found here:
+
+* [2017 Conference](/2017/)
+
+## Does OzSecCon have a Code of Conduct?
+
+Yes, we do.
+
+The purpose of [our Code of Conduct](/conduct/) is to be as inclusive to the largest number of people interested in locksport and physical security generally.
+
+**All** attendees --- including speakers, sponsors, and staff too --- are expected
+to conduct themselves in line with our CoC.
